@@ -1,0 +1,17 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.BinaryInteraction.BIPForm.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.ComponentCollection.Components.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.Components.StreamComponent.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.Properties.Resources.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.Steam.Steam_97.Steam97Form.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.ThermodynamicMethods.InputBoxMA.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.ThermodynamicMethods.PhaseDiagrams.Equilibriums.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.ThermodynamicMethods.PhaseDiagrams.PhaseDiagram.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.UnitsClasses.DataBoundDimText.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.UnitsClasses.DimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.UnitsClasses.FlexComboBox.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.UnitsClasses.FlexTextBox.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.UnitsClasses.LabelledDimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.UnitsClasses.TestForm.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.UnitsClasses.UOMTextBox.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelThermo\obj\x64\Debug\netstandard2.0\EngineThermo.csproj.GenerateResource.cache

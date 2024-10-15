@@ -1,0 +1,23 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DocToolkit\bin\Debug\net6.0-windows\DocToolkit.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DocToolkit\bin\Debug\net6.0-windows\DocToolkit.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DocToolkit\bin\Debug\net6.0-windows\DocToolkit.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DocToolkit\obj\Debug\net6.0-windows\DocToolkit.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DocToolkit\obj\Debug\net6.0-windows\DocToolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DocToolkit\obj\Debug\net6.0-windows\DocToolkit.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DocToolkit\obj\Debug\net6.0-windows\DocToolkit.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DocToolkit\obj\Debug\net6.0-windows\DocToolkit.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DocToolkit\obj\Debug\net6.0-windows\DocToolkit.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DocToolkit\obj\Debug\net6.0-windows\refint\DocToolkit.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DocToolkit\obj\Debug\net6.0-windows\DocToolkit.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DocToolkit\obj\Debug\net6.0-windows\ref\DocToolkit.dll
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\bin\Debug\net6.0-windows\DocToolkit.deps.json
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\bin\Debug\net6.0-windows\DocToolkit.dll
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\bin\Debug\net6.0-windows\DocToolkit.pdb
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\obj\Debug\net6.0-windows\DocToolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\obj\Debug\net6.0-windows\DocToolkit.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\obj\Debug\net6.0-windows\DocToolkit.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\obj\Debug\net6.0-windows\DocToolkit.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\obj\Debug\net6.0-windows\DocToolkit.dll
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\obj\Debug\net6.0-windows\refint\DocToolkit.dll
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\obj\Debug\net6.0-windows\DocToolkit.pdb
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\obj\Debug\net6.0-windows\ref\DocToolkit.dll

@@ -1,0 +1,114 @@
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\Units.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\ModelEngine.deps.json
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\Data.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\Math.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\Steam.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\Units.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\Data.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\Math.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Release\net8.0-windows7.0\Enumerations.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.GenericAssayForm.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.Components.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.StreamComponent.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.InconsistencyForm.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.BinaryInteraction.BIPForm.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\InputBox.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.Equilibrium.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.PhaseDiagram.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.ReactionEditor.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\Units.DataBoundDimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\Units.DimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\Units.FlexComboBox.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\Units.FlexTextBox.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.UnitsClasses.LabelledDimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\Units.Unitsclasses.TestForm.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\Units.UOMTextBox.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEng.6C82E9DE.Up2Date
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\refint\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Release\net8.0-windows7.0\ref\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\Units.comhost.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\ModelEngine.deps.json
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\Data.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\Math.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\Steam.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\Units.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\Data.pdb
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\Math.pdb
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\Units.pdb
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\bin\x64\Release\net8.0-windows7.0\Enumerations.pdb
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.GenericAssayForm.resources
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.Components.resources
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.StreamComponent.resources
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.InconsistencyForm.resources
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.BinaryInteraction.BIPForm.resources
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\InputBox.resources
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.Equilibrium.resources
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.PhaseDiagram.resources
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.ReactionEditor.resources
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\Units.DataBoundDimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\Units.DimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\Units.FlexComboBox.resources
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\Units.FlexTextBox.resources
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.UnitsClasses.LabelledDimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\Units.Unitsclasses.TestForm.resources
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\Units.UOMTextBox.resources
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEng.6C82E9DE.Up2Date
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\refint\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits New\ModelEngine\obj\x64\Release\net8.0-windows7.0\ref\ModelEngine.dll

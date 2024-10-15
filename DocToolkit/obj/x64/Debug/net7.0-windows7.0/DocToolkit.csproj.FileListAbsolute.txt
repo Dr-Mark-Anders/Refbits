@@ -1,0 +1,11 @@
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\bin\x64\Debug\net7.0-windows7.0\DocToolkit.deps.json
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\bin\x64\Debug\net7.0-windows7.0\DocToolkit.dll
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\bin\x64\Debug\net7.0-windows7.0\DocToolkit.pdb
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\obj\x64\Debug\net7.0-windows7.0\DocToolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\obj\x64\Debug\net7.0-windows7.0\DocToolkit.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\obj\x64\Debug\net7.0-windows7.0\DocToolkit.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\obj\x64\Debug\net7.0-windows7.0\DocToolkit.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\obj\x64\Debug\net7.0-windows7.0\DocToolkit.dll
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\obj\x64\Debug\net7.0-windows7.0\refint\DocToolkit.dll
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\obj\x64\Debug\net7.0-windows7.0\DocToolkit.pdb
+C:\Users\MarkA\Desktop\Refbits\DocToolkit\obj\x64\Debug\net7.0-windows7.0\ref\DocToolkit.dll

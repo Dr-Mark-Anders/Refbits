@@ -1,0 +1,101 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\COMThermo.comhost.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\COMThermo.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\COMThermo.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\COMThermo.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\COMThermo.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\EngineThermo.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\Math.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\EngineThermo.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Release\net6.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.csproj.CopyComplete
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\obj\x64\Release\net6.0-windows\refint\COMThermo.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\obj\x64\Release\net6.0-windows\ref\COMThermo.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\COMThermo.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\UnitOperations\Reactions\Tatoray.txt
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\COMThermo.deps.json
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\COMThermo.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\COMThermo.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\COMThermo.pdb
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\EngineThermo.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\Math.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\EngineThermo.pdb
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\bin\x64\Release\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.csproj.CopyComplete
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\obj\x64\Release\net6.0-windows\refint\COMThermo.dll
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.pdb
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\obj\x64\Release\net6.0-windows\COMThermo.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits\COMThermoClass\obj\x64\Release\net6.0-windows\ref\COMThermo.dll

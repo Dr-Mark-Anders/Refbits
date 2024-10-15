@@ -1,0 +1,17 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\bin\x86\Release\net6.0-windows\ZedGraph.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\bin\x86\Release\net6.0-windows\ZedGraph.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\bin\x86\Release\net6.0-windows\ref\ZedGraph.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\bin\x86\Release\net6.0-windows\ZedGraph.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\obj\x86\Release\net6.0-windows\ZedGraph.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\obj\x86\Release\net6.0-windows\ZGraph.Form1.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\obj\x86\Release\net6.0-windows\ZedGraph.Properties.Resources.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\obj\x86\Release\net6.0-windows\ZedGraph.ZedGraphControl.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\obj\x86\Release\net6.0-windows\ZedGraph.ZedGraph.ZedGraphLocale.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\obj\x86\Release\net6.0-windows\ZedGraph.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\obj\x86\Release\net6.0-windows\ZedGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\obj\x86\Release\net6.0-windows\ZedGraph.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\obj\x86\Release\net6.0-windows\ZedGraph.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\obj\x86\Release\net6.0-windows\ZedGraph.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\obj\x86\Release\net6.0-windows\ZedGraph.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\obj\x86\Release\net6.0-windows\ref\ZedGraph.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Charts\obj\x86\Release\net6.0-windows\ZedGraph.pdb

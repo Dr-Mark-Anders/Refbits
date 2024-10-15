@@ -1,0 +1,24 @@
+C:\Users\MarkA\Desktop\Refbits\Alglib\bin\x64\Release\net8.0-windows7.0\Alglib.deps.json
+C:\Users\MarkA\Desktop\Refbits\Alglib\bin\x64\Release\net8.0-windows7.0\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\Alglib\bin\x64\Release\net8.0-windows7.0\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Release\net8.0-windows7.0\Alglib.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Release\net8.0-windows7.0\Alglib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Release\net8.0-windows7.0\Alglib.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Release\net8.0-windows7.0\Alglib.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Release\net8.0-windows7.0\Alglib.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Release\net8.0-windows7.0\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Release\net8.0-windows7.0\refint\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Release\net8.0-windows7.0\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Release\net8.0-windows7.0\ref\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits New\Alglib\bin\x64\Release\net8.0-windows7.0\Alglib.deps.json
+C:\Users\MarkA\Desktop\Refbits New\Alglib\bin\x64\Release\net8.0-windows7.0\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits New\Alglib\bin\x64\Release\net8.0-windows7.0\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits New\Alglib\obj\x64\Release\net8.0-windows7.0\Alglib.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits New\Alglib\obj\x64\Release\net8.0-windows7.0\Alglib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits New\Alglib\obj\x64\Release\net8.0-windows7.0\Alglib.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\Alglib\obj\x64\Release\net8.0-windows7.0\Alglib.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits New\Alglib\obj\x64\Release\net8.0-windows7.0\Alglib.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\Alglib\obj\x64\Release\net8.0-windows7.0\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits New\Alglib\obj\x64\Release\net8.0-windows7.0\refint\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits New\Alglib\obj\x64\Release\net8.0-windows7.0\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits New\Alglib\obj\x64\Release\net8.0-windows7.0\ref\Alglib.dll

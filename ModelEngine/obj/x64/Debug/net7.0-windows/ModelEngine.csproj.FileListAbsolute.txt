@@ -1,0 +1,169 @@
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\UnitOperations\Reactions\ReactionEditor.cs
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\UnitOperations\Reactions\Tatoray.txt
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\ModelEngine.deps.json
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\Math.dll
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\bin\x64\Debug\net7.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.GenericAssayForm.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.Components.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.StreamComponent.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.InconsistencyForm.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.BinaryInteraction.BIPForm.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\InputBox.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.Equilibrium.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.PhaseDiagram.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.ViewArray.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.ReactionEditor.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\Units.DataBoundDimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\Units.DimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\Units.FlexComboBox.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\Units.FlexTextBox.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.UnitsClasses.LabelledDimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\Units.Unitsclasses.TestForm.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\Units.UOMTextBox.resources
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.csproj.CopyComplete
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\refint\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits 91123\ModelEngine\obj\x64\Debug\net7.0-windows\ref\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\ModelEngine.deps.json
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\Math.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.GenericAssayForm.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.Components.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.StreamComponent.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.InconsistencyForm.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.BinaryInteraction.BIPForm.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\InputBox.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.Equilibrium.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.PhaseDiagram.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.ReactionEditor.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\Units.DataBoundDimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\Units.DimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\Units.FlexComboBox.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\Units.FlexTextBox.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.UnitsClasses.LabelledDimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\Units.Unitsclasses.TestForm.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\Units.UOMTextBox.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEng.6C82E9DE.Up2Date
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\refint\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net7.0-windows\ref\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.GenericAssayForm.resources
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.Components.resources
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.StreamComponent.resources
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.InconsistencyForm.resources
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.BinaryInteraction.BIPForm.resources
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\InputBox.resources
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.Equilibrium.resources
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.PhaseDiagram.resources
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.ReactionEditor.resources
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\Units.DataBoundDimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\Units.DimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\Units.FlexComboBox.resources
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\Units.FlexTextBox.resources
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.UnitsClasses.LabelledDimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\Units.Unitsclasses.TestForm.resources
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\Units.UOMTextBox.resources
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\ModelEngine.deps.json
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\Math.dll
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\Enumerations.pdb
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\bin\x64\Debug\net7.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEng.6C82E9DE.Up2Date
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\refint\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits Current\ModelEngine\obj\x64\Debug\net7.0-windows\ref\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net7.0-windows\Enumerations.pdb

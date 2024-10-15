@@ -1,0 +1,10 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DialogControls\obj\Debug\net5.0\DialogControls.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DialogControls\obj\Debug\net5.0\DialogControls.MassMolarVol.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DialogControls\obj\Debug\net5.0\DialogControls.MassMolarVolCombo.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DialogControls\obj\Debug\net5.0\FormControls.PropertyDisplayGrid.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DialogControls\obj\Debug\net5.0\FormControls.StreamPropertyGrid.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DialogControls\obj\Debug\net5.0\DialogControls.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DialogControls\obj\Debug\net5.0\DialogControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DialogControls\obj\Debug\net5.0\DialogControls.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DialogControls\obj\Debug\net5.0\DialogControls.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\DialogControls\obj\Debug\net5.0\DialogControls.csproj.CoreCompileInputs.cache

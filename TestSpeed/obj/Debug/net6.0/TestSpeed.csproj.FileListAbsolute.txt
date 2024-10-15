@@ -1,0 +1,5 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestSpeed\obj\Debug\net6.0\TestSpeed.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestSpeed\obj\Debug\net6.0\TestSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestSpeed\obj\Debug\net6.0\TestSpeed.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestSpeed\obj\Debug\net6.0\TestSpeed.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestSpeed\obj\Debug\net6.0\TestSpeed.csproj.CoreCompileInputs.cache

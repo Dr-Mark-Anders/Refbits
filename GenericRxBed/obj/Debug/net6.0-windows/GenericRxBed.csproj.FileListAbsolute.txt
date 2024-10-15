@@ -1,0 +1,34 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\bin\Debug\net6.0-windows\GenericRxBed.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\bin\Debug\net6.0-windows\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\bin\Debug\net6.0-windows\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\bin\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\bin\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\bin\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\bin\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\obj\Debug\net6.0-windows\GenericRxBed.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\obj\Debug\net6.0-windows\GenericRxBed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\obj\Debug\net6.0-windows\GenericRxBed.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\obj\Debug\net6.0-windows\GenericRxBed.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\obj\Debug\net6.0-windows\GenericRxBed.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\obj\Debug\net6.0-windows\GenericRxBed.csproj.CopyComplete
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\obj\Debug\net6.0-windows\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\obj\Debug\net6.0-windows\refint\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\obj\Debug\net6.0-windows\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GenericRxBed\obj\Debug\net6.0-windows\ref\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\bin\Debug\net6.0-windows\GenericRxBed.deps.json
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\bin\Debug\net6.0-windows\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\bin\Debug\net6.0-windows\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\bin\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\bin\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\bin\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\bin\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\obj\Debug\net6.0-windows\GenericRxBed.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\obj\Debug\net6.0-windows\GenericRxBed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\obj\Debug\net6.0-windows\GenericRxBed.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\obj\Debug\net6.0-windows\GenericRxBed.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\obj\Debug\net6.0-windows\GenericRxBed.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\obj\Debug\net6.0-windows\GenericRxBed.csproj.CopyComplete
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\obj\Debug\net6.0-windows\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\obj\Debug\net6.0-windows\refint\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\obj\Debug\net6.0-windows\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits\GenericRxBed\obj\Debug\net6.0-windows\ref\GenericRxBed.dll

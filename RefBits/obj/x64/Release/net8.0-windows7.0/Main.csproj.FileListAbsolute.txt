@@ -1,0 +1,278 @@
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Units.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Grid.deps.json
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Grid.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Grid.exe
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Main.deps.json
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Main.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Main.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Data.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\DialogControls.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\DocToolkit.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Grid.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Math.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Steam.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Units.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\DialogControls.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\DocToolkit.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Grid.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Data.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Math.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\bin\x64\Release\net8.0-windows7.0\Enumerations.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Main.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.DrawArea.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Main.DrawAreaDocked.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.FindGuid.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.FrmAbout.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.MainForm.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PropertiesDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.H_MModels.Reformer.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ThermoCollectionForm.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ThermoForm.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.RbToolBox.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CaseStudy.CaseStudyForm.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CaseStudy.CaseStudyForm2.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ColumnDesignerControl.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.rbColumnToolBox.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Models.OilSColumn.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PADialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CopyStreamDLG.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.AdjustDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.BaseDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ColumnDLG.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CompressorDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CompSplitterDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CondenserTypeControl.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CoolerDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.DefineRxns.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.DividerDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.DrawingObjects.UnitDialogs.EnergyStreamDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ExpanderDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.GibbsDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.HeaterDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.HeatExDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.LLEDLG.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.MixerDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PipeDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PlugFlowDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PumpDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ReboilerTypeControl.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.RecycleDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.Separator3PhaseDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.SeparatorDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.SetDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.DrawingObjects.UnitDialogs.SignalStreamDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.SpecificationSheet.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.SpreadsheetDialog2.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.SpreadsheetDialog3.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ValveDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.MessagesForm.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.AssayCutterDLG.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ComponenetSelection.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ColumnDrawCondenserDLG.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ColumnDrawreboilerDLG.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.DrawingObjectDialogs.HeatExIODialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.Dialogs.PumpAroundsFrm2.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Dialogs.scolDLG.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.SelectionDLG.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.SideStreamFrm.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.MiscDialogs.Simple2ColumnDatGridView.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.MiscDialogs.Simple3ColumnDatGridView.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.Dialogs.StripperFrm2.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Dialogs.SynDLG.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ChartForm.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.Chart2.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CompositionForm.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CompositionsControl.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.DistilationDataForm.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PortForm.PortPropertyWorksheet.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PortForm.PortPropertyForm2.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PortForm.PortsPropertyWorksheet.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PortForm.StreamProperties.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Main.Properties.Resources.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PropertyGridForm.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.SetupSimulationForm.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.EnergySpecDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.FlowDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PAEnergySpecDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PAFlowSpecDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PALocationDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PASpecDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ProductDrawDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.RRDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.StreamDistDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.StreamFlowDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.TrayDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.TableControl.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.DrawingObjects.UnitDialogs.TableDialog.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Units.TableForm.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Main.ToolBoxButton.resources
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Main.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Main.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Main.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Main.csproj.Up2Date
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Main.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\refint\Main.dll
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\Main.pdb
+C:\Users\MarkA\Desktop\Refbits\RefBits\obj\x64\Release\net8.0-windows7.0\ref\Main.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Units.comhost.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Grid.deps.json
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Grid.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Grid.exe
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Main.deps.json
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Main.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Main.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Data.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\DialogControls.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\DocToolkit.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Grid.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Math.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Steam.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Units.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\DialogControls.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\DocToolkit.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Grid.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Math.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Units.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Data.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\bin\x64\Release\net8.0-windows7.0\Enumerations.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Main.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.DrawArea.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Main.DrawAreaDocked.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.FindGuid.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.FrmAbout.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.MainForm.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PropertiesDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.H_MModels.Reformer.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ThermoCollectionForm.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ThermoForm.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.RbToolBox.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CaseStudy.CaseStudyForm.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CaseStudy.CaseStudyForm2.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ColumnDesignerControl.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.rbColumnToolBox.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Models.OilSColumn.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PADialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CopyStreamDLG.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.AdjustDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.BaseDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ColumnDLG.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CompressorDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CompSplitterDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CondenserTypeControl.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CoolerDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.DefineRxns.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.DividerDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.DrawingObjects.UnitDialogs.EnergyStreamDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ExpanderDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.GibbsDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.HeaterDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.HeatExDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.LLEDLG.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.MixerDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PipeDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PlugFlowDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PumpDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ReboilerTypeControl.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.RecycleDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.Separator3PhaseDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.SeparatorDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.SetDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.DrawingObjects.UnitDialogs.SignalStreamDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.SpecificationSheet.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.SpreadsheetDialog2.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.SpreadsheetDialog3.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ValveDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.MessagesForm.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.AssayCutterDLG.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ComponenetSelection.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ColumnDrawCondenserDLG.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ColumnDrawreboilerDLG.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.DrawingObjectDialogs.HeatExIODialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.Dialogs.PumpAroundsFrm2.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Dialogs.scolDLG.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.SelectionDLG.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.SideStreamFrm.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.MiscDialogs.Simple2ColumnDatGridView.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.MiscDialogs.Simple3ColumnDatGridView.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.Dialogs.StripperFrm2.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Dialogs.SynDLG.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ChartForm.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.Chart2.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CompositionForm.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.CompositionsControl.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.DistilationDataForm.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PortForm.PortPropertyWorksheet.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PortForm.PortPropertyForm2.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PortForm.PortsPropertyWorksheet.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PortForm.StreamProperties.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Main.Properties.Resources.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PropertyGridForm.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.SetupSimulationForm.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.EnergySpecDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.FlowDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PAEnergySpecDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PAFlowSpecDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PALocationDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.PASpecDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.ProductDrawDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.RRDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.StreamDistDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.StreamFlowDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.TrayDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.TableControl.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.DrawingObjects.UnitDialogs.TableDialog.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Units.TableForm.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Main.ToolBoxButton.resources
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Main.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Main.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Main.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Main.csproj.Up2Date
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Main.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\refint\Main.dll
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\Main.pdb
+C:\Users\MarkA\Desktop\Refbits New\RefBits\obj\x64\Release\net8.0-windows7.0\ref\Main.dll

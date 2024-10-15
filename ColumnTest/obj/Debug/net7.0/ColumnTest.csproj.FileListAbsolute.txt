@@ -1,0 +1,12 @@
+C:\Users\MarkA\Desktop\Refbits\ColumnTest\bin\Debug\net7.0\ColumnTest.deps.json
+C:\Users\MarkA\Desktop\Refbits\ColumnTest\bin\Debug\net7.0\ColumnTest.dll
+C:\Users\MarkA\Desktop\Refbits\ColumnTest\bin\Debug\net7.0\ColumnTest.pdb
+C:\Users\MarkA\Desktop\Refbits\ColumnTest\obj\Debug\net7.0\ColumnTest.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\ColumnTest\obj\Debug\net7.0\ColumnTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\ColumnTest\obj\Debug\net7.0\ColumnTest.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\ColumnTest\obj\Debug\net7.0\ColumnTest.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\ColumnTest\obj\Debug\net7.0\ColumnTest.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\ColumnTest\obj\Debug\net7.0\ColumnTest.dll
+C:\Users\MarkA\Desktop\Refbits\ColumnTest\obj\Debug\net7.0\refint\ColumnTest.dll
+C:\Users\MarkA\Desktop\Refbits\ColumnTest\obj\Debug\net7.0\ColumnTest.pdb
+C:\Users\MarkA\Desktop\Refbits\ColumnTest\obj\Debug\net7.0\ref\ColumnTest.dll

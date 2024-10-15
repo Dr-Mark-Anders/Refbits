@@ -1,0 +1,231 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "MathNet.Numerics/5.0.0-alpha02": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/MathNet.Numerics.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/MathNet.Numerics.dll": {}
+        }
+      },
+      "System.Windows.Forms.DataVisualization/1.0.0-prerelease.20110.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp3.0/System.Windows.Forms.DataVisualization.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.Windows.Forms.DataVisualization.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.NETCore.App"
+        ]
+      },
+      "Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "EngineThermo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Data": "1.0.0",
+          "Extensions": "1.0.0",
+          "Math": "1.0.0",
+          "System.Windows.Forms.DataVisualization": "1.0.0-prerelease.20110.1",
+          "Units": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EngineThermo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EngineThermo.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Extensions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Extensions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Extensions.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Math/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Extensions": "1.0.0",
+          "MathNet.Numerics": "5.0.0-alpha02",
+          "Units": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Math.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Math.dll": {}
+        }
+      },
+      "Units/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Units.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Units.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathNet.Numerics/5.0.0-alpha02": {
+      "sha512": "euP5uWO/4t6FZmu3IwT1cSzeEhM9sE988YbWcdvCWYkELQHMcotQq7agkyFcn4vxo8xDJpOVOnCu90dyv2PU9Q==",
+      "type": "package",
+      "path": "mathnet.numerics/5.0.0-alpha02",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net461/MathNet.Numerics.dll",
+        "lib/net461/MathNet.Numerics.xml",
+        "lib/net48/MathNet.Numerics.dll",
+        "lib/net48/MathNet.Numerics.xml",
+        "lib/net5.0/MathNet.Numerics.dll",
+        "lib/net5.0/MathNet.Numerics.xml",
+        "lib/netstandard2.0/MathNet.Numerics.dll",
+        "lib/netstandard2.0/MathNet.Numerics.xml",
+        "mathnet.numerics.5.0.0-alpha02.nupkg.sha512",
+        "mathnet.numerics.nuspec"
+      ]
+    },
+    "System.Windows.Forms.DataVisualization/1.0.0-prerelease.20110.1": {
+      "sha512": "1EdLFl/I5QobO4shpqUNslDGWTeRbpt3pLMSkiLQYzdWBDqf44/8TM5hXMtkA8ktHU80aVZYVEuxr8vJqcB1Ig==",
+      "type": "package",
+      "path": "system.windows.forms.datavisualization/1.0.0-prerelease.20110.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp3.0/System.Windows.Forms.DataVisualization.dll",
+        "lib/netcoreapp3.0/System.Windows.Forms.DataVisualization.pdb",
+        "ref/netcoreapp3.0/System.Windows.Forms.DataVisualization.dll",
+        "system.windows.forms.datavisualization.1.0.0-prerelease.20110.1.nupkg.sha512",
+        "system.windows.forms.datavisualization.nuspec"
+      ]
+    },
+    "Data/1.0.0": {
+      "type": "project",
+      "path": "../Data/Data.csproj",
+      "msbuildProject": "../Data/Data.csproj"
+    },
+    "EngineThermo/1.0.0": {
+      "type": "project",
+      "path": "../ModelThermo/EngineThermo.csproj",
+      "msbuildProject": "../ModelThermo/EngineThermo.csproj"
+    },
+    "Extensions/1.0.0": {
+      "type": "project",
+      "path": "../Extensions/Extensions.csproj",
+      "msbuildProject": "../Extensions/Extensions.csproj"
+    },
+    "Math/1.0.0": {
+      "type": "project",
+      "path": "../Math/Math.csproj",
+      "msbuildProject": "../Math/Math.csproj"
+    },
+    "Units/1.0.0": {
+      "type": "project",
+      "path": "../Units/Units.csproj",
+      "msbuildProject": "../Units/Units.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "EngineThermo >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MarkA\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\Refbits Files\\RefBitsNet6\\Spreadsheet\\Spreadsheet.csproj",
+      "projectName": "Spreadsheet",
+      "projectPath": "C:\\Users\\MarkA\\Desktop\\Refbits Files\\RefBitsNet6\\Spreadsheet\\Spreadsheet.csproj",
+      "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MarkA\\Desktop\\Refbits Files\\RefBitsNet6\\Spreadsheet\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\MarkA\\Desktop\\Refbits Files\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj": {
+              "projectPath": "C:\\Users\\MarkA\\Desktop\\Refbits Files\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

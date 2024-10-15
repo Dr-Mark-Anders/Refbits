@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DWJjV4SEydk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MarkA\\source\\repos\\Refbits\\Alglib\\Alglib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MarkA\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

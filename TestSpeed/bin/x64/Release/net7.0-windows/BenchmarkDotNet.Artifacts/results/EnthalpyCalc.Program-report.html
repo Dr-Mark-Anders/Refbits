@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>EnthalpyCalc.Program-20230302-105942</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet=v0.13.5, OS=Windows 11 (10.0.22621.1265/22H2/2022Update/SunValley2)
+AMD Ryzen 9 3900X, 1 CPU, 24 logical and 12 physical cores
+.NET SDK=7.0.201
+  [Host]     : .NET 7.0.3 (7.0.323.6910), X64 RyuJIT AVX2 [AttachedDebugger]
+  DefaultJob : .NET 7.0.3 (7.0.323.6910), X64 RyuJIT AVX2
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>                    Method</th><th>Mean</th><th>Error</th><th>StdDev</th>
+</tr>
+</thead><tbody><tr><td>UseLoops</td><td>3.585 &mu;s</td><td>0.0226 &mu;s</td><td>0.0176 &mu;s</td>
+</tr><tr><td>UseLoopsPreRangeCheck</td><td>3.312 &mu;s</td><td>0.0191 &mu;s</td><td>0.0179 &mu;s</td>
+</tr><tr><td>Plain0</td><td>2.086 &mu;s</td><td>0.0173 &mu;s</td><td>0.0162 &mu;s</td>
+</tr><tr><td>Plain</td><td>2.165 &mu;s</td><td>0.0214 &mu;s</td><td>0.0190 &mu;s</td>
+</tr><tr><td>PlainPreRangeCheck</td><td>1.945 &mu;s</td><td>0.0163 &mu;s</td><td>0.0153 &mu;s</td>
+</tr><tr><td>PlainReverse</td><td>2.037 &mu;s</td><td>0.0151 &mu;s</td><td>0.0141 &mu;s</td>
+</tr><tr><td>PlainPreRangeCheckReverse</td><td>2.042 &mu;s</td><td>0.0232 &mu;s</td><td>0.0217 &mu;s</td>
+</tr><tr><td>PlainPreRangeCheckPassAllTks</td><td>1.656 &mu;s</td><td>0.0141 &mu;s</td><td>0.0132 &mu;s</td>
+</tr><tr><td>PlainFlat</td><td>1.800 &mu;s</td><td>0.0209 &mu;s</td><td>0.0195 &mu;s</td>
+</tr><tr><td>PlainPreRangeCheckPassAllDTsFlat</td><td>1.658 &mu;s</td><td>0.0183 &mu;s</td><td>0.0171 &mu;s</td>
+</tr></tbody></table>
+</body>
+</html>

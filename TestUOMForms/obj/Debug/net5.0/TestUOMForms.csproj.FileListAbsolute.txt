@@ -1,0 +1,3 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestUOMForms\obj\Debug\net5.0\TestUOMForms.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestUOMForms\obj\Debug\net5.0\TestUOMForms.Form1.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestUOMForms\obj\Debug\net5.0\TestUOMForms.csproj.GenerateResource.cache

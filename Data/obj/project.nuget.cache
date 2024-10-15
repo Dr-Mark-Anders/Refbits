@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+zbJP9A1MRY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MarkA\\source\\repos\\Refbits\\Data\\Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MarkA\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,225 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+    <Configurations>Debug;Release;DotfuscatedRelease</Configurations>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Platforms>AnyCPU;x86;x64</Platforms>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <NoWarn>1701;1702;SYSLIB0011</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <NoWarn>1701;1702;SYSLIB0011</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DotfuscatedRelease|AnyCPU'">
+    <NoWarn>1701;1702;SYSLIB0011</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x86'">
+    <NoWarn>1701;1702;SYSLIB0011</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x86'">
+    <NoWarn>1701;1702;SYSLIB0011</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DotfuscatedRelease|x86'">
+    <NoWarn>1701;1702;SYSLIB0011</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <NoWarn>1701;1702;SYSLIB0011</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <NoWarn>1701;1702;SYSLIB0011</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DotfuscatedRelease|x64'">
+    <NoWarn>1701;1702;SYSLIB0011</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AMain\IsomUnit\IsomMaths.cs" />
+    <Compile Remove="AMain\IsomUnit\PengRobinsonIsomLegacy.cs" />
+    <Compile Remove="CrudeCutting\OilSColumn.cs" />
+    <Compile Remove="DrawingObjects\DrawAssayFeed.cs" />
+    <Compile Remove="DrawingObjects\DrawAssayImportCSV.cs" />
+    <Compile Remove="DrawingObjects\DrawLLEPA.cs" />
+    <Compile Remove="DrawingObjects\DrawLLETray.cs" />
+    <Compile Remove="DrawingObjects\DrawLLETraySection.cs" />
+    <Compile Remove="DrawingObjects\DrawLLETraySectionCollection.cs" />
+    <Compile Remove="DrawingObjects\DrawStripper.cs" />
+    <Compile Remove="DrawingObjects\UnitDialogs\HeatTransferCalcs.cs" />
+    <Compile Remove="DrawingObjects\UnitDialogs\SpreadsheetDialog.cs" />
+    <Compile Remove="DrawingObjects\UnitDialogs\SpreadsheetDialog.Designer.cs" />
+    <Compile Remove="DrawingObjects\UnitDialogs\SpreadsheetDialog2.cs" />
+    <Compile Remove="DrawingObjects\UnitDialogs\SpreadsheetDialog2.Designer.cs" />
+    <Compile Remove="DrawingTools\ToolAssayFeed.cs" />
+    <Compile Remove="DrawingTools\ToolAssayImportCSV.cs" />
+    <Compile Remove="MiscDialogs\SColDatadlg.cs" />
+    <Compile Remove="MiscDialogs\SColumnDLG.cs" />
+    <Compile Remove="MiscDialogs\SynthesisDLG.cs" />
+    <Compile Remove="PortForm\PortPropertyForm.cs" />
+    <Compile Remove="PortForm\PortPropertyForm.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="DrawingObjects\UnitDialogs\SpreadsheetDialog.resx" />
+    <EmbeddedResource Remove="PortForm\PortPropertyForm.resx" />
+    <EmbeddedResource Remove="UOMTextBox2.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Line.cur" />
+    <None Remove="Pencil.cur" />
+    <None Remove="PolyHandle.cur" />
+    <None Remove="Pump2.ico" />
+    <None Remove="Rectangle.cur" />
+    <None Remove="Resources\Pump2.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <CodeAnalysisDictionary Include="PortForm\PortPropertyForm.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Line.cur">
+      <CopyToOutputDirectory>Preservenew est</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pencil.cur">
+      <CopyToOutputDirectory>Preservenew est</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PolyHandle.cur">
+      <CopyToOutputDirectory>Preservenew est</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pump2.ico">
+      <CopyToOutputDirectory>Preservenew est</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rectangle.cur">
+      <CopyToOutputDirectory>Preservenew est</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Pump2.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="DrawingObjects\DrawAssayFeed.cs" />
+    <None Include="DrawingObjects\DrawAssayImportCSV.cs" />
+    <None Include="DrawingObjects\DrawStripper.cs" />
+    <None Include="DrawingObjects\UnitDialogs\HeatTransferCalcs.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="AMain\IsomUnit\IsomMaths.cs" />
+    <None Include="CrudeCutting\OilSColumn.cs" />
+    <None Include="DrawingObjects\UnitDialogs\SpreadsheetDialog.cs" />
+    <None Include="DrawingObjects\UnitDialogs\SpreadsheetDialog.Designer.cs" />
+    <None Include="DrawingObjects\UnitDialogs\SpreadsheetDialog.resx" />
+    <None Include="DrawingObjects\UnitDialogs\SpreadsheetDialog2.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="DrawingObjects\UnitDialogs\SpreadsheetDialog2.Designer.cs" />
+    <None Include="DrawingTools\ToolAssayFeed.cs" />
+    <None Include="DrawingTools\ToolAssayImportCSV.cs" />
+    <None Include="MiscDialogs\SColDatadlg.cs" />
+    <None Include="MiscDialogs\SColumnDLG.cs" />
+    <None Include="MiscDialogs\SynthesisDLG.cs" />
+    <None Include="PortForm\PortPropertyForm.cs" />
+    <None Include="PortForm\PortPropertyForm.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DialogControls\DialogControls.csproj" />
+    <ProjectReference Include="..\DocToolkit\DocToolkit.csproj" />
+    <ProjectReference Include="..\Extensions\Extensions.csproj" />
+    <ProjectReference Include="..\Grid\Grid\Grid.csproj" />
+    <ProjectReference Include="..\Math\Math.csproj" />
+    <ProjectReference Include="..\ModelEngine\ModelEngine.csproj" />
+    <ProjectReference Include="..\Units\Units.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="AMain\DrawArea.cs" />
+    <Compile Update="AMain\MainForm.cs" />
+    <Compile Update="CaseStudy\CaseStudyForm2.cs" />
+    <Compile Update="ColumnTools\ColumnDesignerControl.cs" />
+    <Compile Update="DrawingObjects\Column\PumpDialog.cs" />
+    <Compile Update="DrawingObjects\UnitDialogs\Set2Dialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\AdjustDialog.cs" />
+    <Compile Update="DrawingObjects\UnitDialogs\ReboilerTypeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\SignalStreamDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\LLEDLG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\PlugFlowDialog.cs" />
+    <Compile Update="DrawingObjects\UnitDialogs\PipeDialog.cs" />
+    <Compile Update="DrawingObjects\UnitDialogs\SpreadsheetDialog3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiscDialogs\DrawColumnReboilerDLG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PortForm\PortPropertyForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="SpecDialogs\EnergySpecDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpecDialogs\PAFlowSpecDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpecDialogs\PAEnergySpecDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpecDialogs\RRDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="DrawingObjects\Column\PADialog.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="DrawingObjects\UnitDialogs\ReboilerTypeControl.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>public ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DrawingObjects\DawingObjectMethods\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DockPanelSuite" Version="3.1.0" />
+    <PackageReference Include="DockPanelSuite.ThemeVS2015" Version="3.1.0" />
+    <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
+  </ItemGroup>
+
+</Project>

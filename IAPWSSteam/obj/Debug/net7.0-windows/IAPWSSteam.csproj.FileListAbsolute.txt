@@ -1,0 +1,15 @@
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\bin\Debug\net7.0-windows\IAPWSSteam.deps.json
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\bin\Debug\net7.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\bin\Debug\net7.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\bin\Debug\net7.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\bin\Debug\net7.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\Debug\net7.0-windows\IAPWSSteam.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\Debug\net7.0-windows\IAPWSSteam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\Debug\net7.0-windows\IAPWSSteam.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\Debug\net7.0-windows\IAPWSSteam.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\Debug\net7.0-windows\IAPWSSteam.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\Debug\net7.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\Debug\net7.0-windows\refint\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\Debug\net7.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\Debug\net7.0-windows\ref\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\Debug\net7.0-windows\IAPWSSteam.csproj.Up2Date

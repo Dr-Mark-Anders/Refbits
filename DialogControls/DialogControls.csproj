@@ -1,0 +1,76 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+    <Configurations>Debug;Release;DotfuscatedRelease</Configurations>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
+    <Platforms>AnyCPU;x86;x64</Platforms>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Forms\GenericPlot.cs" />
+    <Compile Remove="Forms\GenericPlot.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Forms\GenericPlot.cs" />
+    <None Include="Forms\GenericPlot.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Extensions\Extensions.csproj" />
+    <ProjectReference Include="..\ModelEngine\ModelEngine.csproj" />
+    <ProjectReference Include="..\Units\Units.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Controls\EnumerationGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\SimpleCompGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\DistillationEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Controls\DistillationBasis.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\DropDownDataEntry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\PONAdata.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\GCCompGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\ViewComponentProps.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RefShortFeed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Controls\SingleDataEntry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\UserPropGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\StreamAnalysysType.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

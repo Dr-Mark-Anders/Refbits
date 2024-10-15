@@ -1,0 +1,7 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ChartControl\obj\Debug\net5.0-windows\ChartControl.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ChartControl\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ChartControl\obj\Debug\net5.0-windows\ChartControl.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ChartControl\obj\Debug\net5.0-windows\ChartControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ChartControl\obj\Debug\net5.0-windows\ChartControl.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ChartControl\obj\Debug\net5.0-windows\ChartControl.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ChartControl\obj\Debug\net5.0-windows\ChartControl.csproj.CoreCompileInputs.cache

@@ -1,0 +1,22 @@
+C:\Users\MarkA\Desktop\Refbits\Enumerations\bin\Debug\net7.0\Enumerations.deps.json
+C:\Users\MarkA\Desktop\Refbits\Enumerations\bin\Debug\net7.0\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits\Enumerations\bin\Debug\net7.0\Enumerations.pdb
+C:\Users\MarkA\Desktop\Refbits\Enumerations\obj\Debug\net7.0\Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\Enumerations\obj\Debug\net7.0\Enumerations.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Enumerations\obj\Debug\net7.0\Enumerations.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\Enumerations\obj\Debug\net7.0\Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Enumerations\obj\Debug\net7.0\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits\Enumerations\obj\Debug\net7.0\refint\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits\Enumerations\obj\Debug\net7.0\Enumerations.pdb
+C:\Users\MarkA\Desktop\Refbits\Enumerations\obj\Debug\net7.0\ref\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits Current\Enumerations\bin\Debug\net7.0\Enumerations.deps.json
+C:\Users\MarkA\Desktop\Refbits Current\Enumerations\bin\Debug\net7.0\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits Current\Enumerations\bin\Debug\net7.0\Enumerations.pdb
+C:\Users\MarkA\Desktop\Refbits Current\Enumerations\obj\Debug\net7.0\Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Current\Enumerations\obj\Debug\net7.0\Enumerations.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Current\Enumerations\obj\Debug\net7.0\Enumerations.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Current\Enumerations\obj\Debug\net7.0\Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Current\Enumerations\obj\Debug\net7.0\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits Current\Enumerations\obj\Debug\net7.0\refint\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits Current\Enumerations\obj\Debug\net7.0\Enumerations.pdb
+C:\Users\MarkA\Desktop\Refbits Current\Enumerations\obj\Debug\net7.0\ref\Enumerations.dll

@@ -1,0 +1,5 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\Debug\net5.0\Extensions.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\Debug\net5.0\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\Debug\net5.0\Extensions.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\Debug\net5.0\Extensions.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\Debug\net5.0\Extensions.csproj.CoreCompileInputs.cache

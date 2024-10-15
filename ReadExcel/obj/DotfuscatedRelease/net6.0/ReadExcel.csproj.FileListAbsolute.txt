@@ -1,0 +1,15 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ReadExcel\bin\DotfuscatedRelease\net6.0\ReadExcel.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ReadExcel\bin\DotfuscatedRelease\net6.0\ReadExcel.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ReadExcel\bin\DotfuscatedRelease\net6.0\ref\ReadExcel.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ReadExcel\bin\DotfuscatedRelease\net6.0\ReadExcel.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ReadExcel\obj\DotfuscatedRelease\net6.0\Interop.Microsoft.Office.Core.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ReadExcel\obj\DotfuscatedRelease\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ReadExcel\obj\DotfuscatedRelease\net6.0\ReadExcel.csproj.ResolveComReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ReadExcel\obj\DotfuscatedRelease\net6.0\ReadExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ReadExcel\obj\DotfuscatedRelease\net6.0\ReadExcel.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ReadExcel\obj\DotfuscatedRelease\net6.0\ReadExcel.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ReadExcel\obj\DotfuscatedRelease\net6.0\ReadExcel.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ReadExcel\obj\DotfuscatedRelease\net6.0\ReadExcel.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ReadExcel\obj\DotfuscatedRelease\net6.0\ref\ReadExcel.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ReadExcel\obj\DotfuscatedRelease\net6.0\ReadExcel.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ReadExcel\obj\DotfuscatedRelease\net6.0\ReadExcel.csproj.AssemblyReference.cache

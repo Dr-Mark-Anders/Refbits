@@ -1,0 +1,23 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GeneralMatrix\bin\x64\Release\net6.0\GeneralMatrix.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GeneralMatrix\bin\x64\Release\net6.0\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GeneralMatrix\bin\x64\Release\net6.0\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GeneralMatrix\obj\x64\Release\net6.0\GeneralMatrix.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GeneralMatrix\obj\x64\Release\net6.0\GeneralMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GeneralMatrix\obj\x64\Release\net6.0\GeneralMatrix.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GeneralMatrix\obj\x64\Release\net6.0\GeneralMatrix.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GeneralMatrix\obj\x64\Release\net6.0\GeneralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GeneralMatrix\obj\x64\Release\net6.0\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GeneralMatrix\obj\x64\Release\net6.0\refint\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GeneralMatrix\obj\x64\Release\net6.0\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\GeneralMatrix\obj\x64\Release\net6.0\ref\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\bin\x64\Release\net6.0\GeneralMatrix.deps.json
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\bin\x64\Release\net6.0\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\bin\x64\Release\net6.0\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\obj\x64\Release\net6.0\GeneralMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\obj\x64\Release\net6.0\GeneralMatrix.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\obj\x64\Release\net6.0\GeneralMatrix.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\obj\x64\Release\net6.0\GeneralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\obj\x64\Release\net6.0\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\obj\x64\Release\net6.0\refint\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\obj\x64\Release\net6.0\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\obj\x64\Release\net6.0\ref\GeneralMatrix.dll

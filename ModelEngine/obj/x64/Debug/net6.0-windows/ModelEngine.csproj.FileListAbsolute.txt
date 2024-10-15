@@ -1,0 +1,210 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\UnitOperations\Reactions\Tatoray.txt
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\ModelEngine.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\EngineThermo.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Math.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\EngineThermo.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.GenericAssayForm.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.InconsistencyForm.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.ViewArray.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.CopyComplete
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\refint\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ref\ModelEngine.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\UnitOperations\Reactions\Tatoray.txt
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\ModelEngine.deps.json
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\Data.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\EngineThermo.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\Math.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\EngineThermo.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\bin\x64\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.GenericAssayForm.resources
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.InconsistencyForm.resources
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.ViewArray.resources
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.CopyComplete
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\obj\x64\Debug\net6.0-windows\refint\ModelEngine.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\ModelEngine\obj\x64\Debug\net6.0-windows\ref\ModelEngine.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\UnitOperations\Reactions\Tatoray.txt
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\ModelEngine.deps.json
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Data.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\EngineThermo.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Math.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\EngineThermo.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\bin\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.GenericAssayForm.resources
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.InconsistencyForm.resources
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.ViewArray.resources
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.CopyComplete
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\refint\ModelEngine.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\ModelEngine\obj\x64\Debug\net6.0-windows\ref\ModelEngine.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\UnitOperations\Reactions\Tatoray.txt
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\ModelEngine.deps.json
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\Data.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\EngineThermo.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\Math.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\EngineThermo.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\bin\x64\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.GenericAssayForm.resources
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.InconsistencyForm.resources
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.ViewArray.resources
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.CopyComplete
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\obj\x64\Debug\net6.0-windows\refint\ModelEngine.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\ModelEngine\obj\x64\Debug\net6.0-windows\ref\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\UnitOperations\Reactions\Tatoray.txt
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\ModelEngine.deps.json
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\EngineThermo.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\Math.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\EngineThermo.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\bin\x64\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.GenericAssayForm.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.InconsistencyForm.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.ViewArray.resources
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.csproj.CopyComplete
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net6.0-windows\refint\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits\ModelEngine\obj\x64\Debug\net6.0-windows\ref\ModelEngine.dll

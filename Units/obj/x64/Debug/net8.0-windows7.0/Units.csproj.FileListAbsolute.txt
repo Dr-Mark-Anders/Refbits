@@ -1,0 +1,34 @@
+C:\Users\MarkA\Desktop\Refbits\Units\bin\x64\Debug\net8.0-windows7.0\Units.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\Units\bin\x64\Debug\net8.0-windows7.0\Units.deps.json
+C:\Users\MarkA\Desktop\Refbits\Units\bin\x64\Debug\net8.0-windows7.0\Units.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\Units\bin\x64\Debug\net8.0-windows7.0\Units.dll
+C:\Users\MarkA\Desktop\Refbits\Units\bin\x64\Debug\net8.0-windows7.0\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\Units\bin\x64\Debug\net8.0-windows7.0\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits\Units\obj\x64\Debug\net8.0-windows7.0\Units.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\Units\obj\x64\Debug\net8.0-windows7.0\Units.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\Units\obj\x64\Debug\net8.0-windows7.0\Units.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Units\obj\x64\Debug\net8.0-windows7.0\Units.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\Units\obj\x64\Debug\net8.0-windows7.0\Units.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Units\obj\x64\Debug\net8.0-windows7.0\Units.csproj.Up2Date
+C:\Users\MarkA\Desktop\Refbits\Units\obj\x64\Debug\net8.0-windows7.0\Units.dll
+C:\Users\MarkA\Desktop\Refbits\Units\obj\x64\Debug\net8.0-windows7.0\refint\Units.dll
+C:\Users\MarkA\Desktop\Refbits\Units\obj\x64\Debug\net8.0-windows7.0\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\Units\obj\x64\Debug\net8.0-windows7.0\Units.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits\Units\obj\x64\Debug\net8.0-windows7.0\ref\Units.dll
+C:\Users\MarkA\Desktop\Refbits New\Units\bin\x64\Debug\net8.0-windows7.0\Units.comhost.dll
+C:\Users\MarkA\Desktop\Refbits New\Units\bin\x64\Debug\net8.0-windows7.0\Units.deps.json
+C:\Users\MarkA\Desktop\Refbits New\Units\bin\x64\Debug\net8.0-windows7.0\Units.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits New\Units\bin\x64\Debug\net8.0-windows7.0\Units.dll
+C:\Users\MarkA\Desktop\Refbits New\Units\bin\x64\Debug\net8.0-windows7.0\Units.pdb
+C:\Users\MarkA\Desktop\Refbits New\Units\bin\x64\Debug\net8.0-windows7.0\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits New\Units\obj\x64\Debug\net8.0-windows7.0\Units.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits New\Units\obj\x64\Debug\net8.0-windows7.0\Units.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits New\Units\obj\x64\Debug\net8.0-windows7.0\Units.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\Units\obj\x64\Debug\net8.0-windows7.0\Units.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits New\Units\obj\x64\Debug\net8.0-windows7.0\Units.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\Units\obj\x64\Debug\net8.0-windows7.0\Units.csproj.Up2Date
+C:\Users\MarkA\Desktop\Refbits New\Units\obj\x64\Debug\net8.0-windows7.0\Units.dll
+C:\Users\MarkA\Desktop\Refbits New\Units\obj\x64\Debug\net8.0-windows7.0\refint\Units.dll
+C:\Users\MarkA\Desktop\Refbits New\Units\obj\x64\Debug\net8.0-windows7.0\Units.pdb
+C:\Users\MarkA\Desktop\Refbits New\Units\obj\x64\Debug\net8.0-windows7.0\Units.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits New\Units\obj\x64\Debug\net8.0-windows7.0\ref\Units.dll

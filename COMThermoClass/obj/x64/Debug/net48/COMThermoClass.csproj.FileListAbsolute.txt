@@ -1,0 +1,5 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\obj\x64\Debug\net48\COMThermoClass.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\obj\x64\Debug\net48\COMThermoClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\obj\x64\Debug\net48\COMThermoClass.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\obj\x64\Debug\net48\COMThermoClass.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\obj\x64\Debug\net48\COMThermoClass.csproj.CoreCompileInputs.cache

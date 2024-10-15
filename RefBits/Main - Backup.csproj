@@ -1,0 +1,175 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+    <Configurations>Debug;Release;DotfuscatedRelease</Configurations>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Platforms>AnyCPU;x86;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AMain\IsomUnit\IsomMaths.cs" />
+    <Compile Remove="CrudeCutting\OilSColumn.cs" />
+    <Compile Remove="DrawingObjects\DrawAssayFeed.cs" />
+    <Compile Remove="DrawingObjects\DrawAssayImportCSV.cs" />
+    <Compile Remove="DrawingObjects\DrawLLEPA.cs" />
+    <Compile Remove="DrawingObjects\DrawLLETray.cs" />
+    <Compile Remove="DrawingObjects\DrawLLETraySection.cs" />
+    <Compile Remove="DrawingObjects\DrawLLETraySectionCollection.cs" />
+    <Compile Remove="DrawingObjects\DrawStripper.cs" />
+    <Compile Remove="DrawingObjects\UnitDialogs\HeatTransferCalcs.cs" />
+    <Compile Remove="DrawingObjects\UnitDialogs\SpreadsheetDialog.cs" />
+    <Compile Remove="DrawingObjects\UnitDialogs\SpreadsheetDialog.Designer.cs" />
+    <Compile Remove="DrawingObjects\UnitDialogs\SpreadsheetDialog2.cs" />
+    <Compile Remove="DrawingObjects\UnitDialogs\SpreadsheetDialog2.Designer.cs" />
+    <Compile Remove="DrawingTools\ToolAssayFeed.cs" />
+    <Compile Remove="DrawingTools\ToolAssayImportCSV.cs" />
+    <Compile Remove="MiscDialogs\SColDatadlg.cs" />
+    <Compile Remove="MiscDialogs\SColumnDLG.cs" />
+    <Compile Remove="MiscDialogs\SynthesisDLG.cs" />
+    <Compile Remove="PortForm\PortPropertyForm.cs" />
+    <Compile Remove="PortForm\PortPropertyForm.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="DrawingObjects\UnitDialogs\SpreadsheetDialog.resx" />
+    <EmbeddedResource Remove="PortForm\PortPropertyForm.resx" />
+    <EmbeddedResource Remove="UOMTextBox2.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Line.cur" />
+    <None Remove="Pencil.cur" />
+    <None Remove="PolyHandle.cur" />
+    <None Remove="Pump2.ico" />
+    <None Remove="Rectangle.cur" />
+    <None Remove="Resources\Pump2.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <CodeAnalysisDictionary Include="PortForm\PortPropertyForm.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Line.cur">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pencil.cur">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PolyHandle.cur">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pump2.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rectangle.cur">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Pump2.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="DrawingObjects\DrawAssayFeed.cs" />
+    <None Include="DrawingObjects\DrawAssayImportCSV.cs" />
+    <None Include="DrawingObjects\DrawStripper.cs" />
+    <None Include="DrawingObjects\UnitDialogs\HeatTransferCalcs.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="AMain\IsomUnit\IsomMaths.cs" />
+    <None Include="CrudeCutting\OilSColumn.cs" />
+    <None Include="DrawingObjects\UnitDialogs\SpreadsheetDialog.cs" />
+    <None Include="DrawingObjects\UnitDialogs\SpreadsheetDialog.Designer.cs" />
+    <None Include="DrawingObjects\UnitDialogs\SpreadsheetDialog.resx" />
+    <None Include="DrawingObjects\UnitDialogs\SpreadsheetDialog2.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Include="DrawingObjects\UnitDialogs\SpreadsheetDialog2.Designer.cs" />
+    <None Include="DrawingTools\ToolAssayFeed.cs" />
+    <None Include="DrawingTools\ToolAssayImportCSV.cs" />
+    <None Include="MiscDialogs\SColDatadlg.cs" />
+    <None Include="MiscDialogs\SColumnDLG.cs" />
+    <None Include="MiscDialogs\SynthesisDLG.cs" />
+    <None Include="PortForm\PortPropertyForm.cs" />
+    <None Include="PortForm\PortPropertyForm.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DockPanelSuite" Version="3.1.0" />
+    <PackageReference Include="DockPanelSuite.ThemeVS2015" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DialogControls\DialogControls.csproj" />
+    <ProjectReference Include="..\DocToolkit\DocToolkit.csproj" />
+    <ProjectReference Include="..\Extensions\Extensions.csproj" />
+    <ProjectReference Include="..\Grid\Grid\Grid.csproj" />
+    <ProjectReference Include="..\ModelEngine\ModelEngine.csproj" />
+    <ProjectReference Include="..\ModelThermo\EngineThermo.csproj" />
+    <ProjectReference Include="..\Units\Units.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Interop.Microsoft.Office.Interop.Excel">
+      <HintPath>..\ReadExcel\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="AMain\DrawArea.cs" />
+    <Compile Update="AMain\MainForm.cs" />
+    <Compile Update="CaseStudy\CaseStudyForm2.cs" />
+    <Compile Update="ColumnTools\ColumnDesignerControl.cs" />
+    <Compile Update="DrawingObjects\UnitDialogs\AdjustDialog.cs" />
+    <Compile Update="DrawingObjects\UnitDialogs\SignalStreamDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\SetDialog.cs" />
+    <Compile Update="DrawingObjects\UnitDialogs\LLEDLG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\PlugFlowDialog.cs" />
+    <Compile Update="DrawingObjects\UnitDialogs\PipeDialog.cs" />
+    <Compile Update="DrawingObjects\UnitDialogs\SpreadsheetDialog3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PortForm\PortPropertyForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="SpecDialogs\EnergySpecDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpecDialogs\PAFlowSpecDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpecDialogs\PAEnergySpecDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>public ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DrawingObjects\DawingObjectMethods\" />
+  </ItemGroup>
+
+</Project>

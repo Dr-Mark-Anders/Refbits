@@ -1,0 +1,54 @@
+C:\Users\MarkA\Desktop\Refbits\ChartControl\bin\x64\Debug\net8.0-windows7.0\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits\ChartControl\bin\x64\Debug\net8.0-windows7.0\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits\ChartControl\bin\x64\Debug\net8.0-windows7.0\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\ChartControl\bin\x64\Debug\net8.0-windows7.0\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits\ChartControl\bin\x64\Debug\net8.0-windows7.0\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits\ChartControl\bin\x64\Debug\net8.0-windows7.0\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits\ChartControl\bin\x64\Debug\net8.0-windows7.0\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits\ChartControl\bin\x64\Debug\net8.0-windows7.0\System.Windows.Forms.DataVisualization.dll
+C:\Users\MarkA\Desktop\Refbits\ChartControl\bin\x64\Debug\net8.0-windows7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits\ChartControl\bin\x64\Debug\net8.0-windows7.0\runtimes\win-x64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits\ChartControl\bin\x64\Debug\net8.0-windows7.0\runtimes\win-x86\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits\ChartControl\bin\x64\Debug\net8.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits\ChartControl\bin\x64\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\ChartControl\obj\x64\Debug\net8.0-windows7.0\Charts.ChartControl.resources
+C:\Users\MarkA\Desktop\Refbits\ChartControl\obj\x64\Debug\net8.0-windows7.0\Charts.Form1.resources
+C:\Users\MarkA\Desktop\Refbits\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartCon.BE66CD4D.Up2Date
+C:\Users\MarkA\Desktop\Refbits\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits\ChartControl\obj\x64\Debug\net8.0-windows7.0\refint\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits\ChartControl\obj\x64\Debug\net8.0-windows7.0\ref\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\bin\x64\Debug\net8.0-windows7.0\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\bin\x64\Debug\net8.0-windows7.0\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\bin\x64\Debug\net8.0-windows7.0\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\bin\x64\Debug\net8.0-windows7.0\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\bin\x64\Debug\net8.0-windows7.0\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\bin\x64\Debug\net8.0-windows7.0\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\bin\x64\Debug\net8.0-windows7.0\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\bin\x64\Debug\net8.0-windows7.0\System.Windows.Forms.DataVisualization.dll
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\bin\x64\Debug\net8.0-windows7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\bin\x64\Debug\net8.0-windows7.0\runtimes\win-x64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\bin\x64\Debug\net8.0-windows7.0\runtimes\win-x86\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\bin\x64\Debug\net8.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\bin\x64\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\obj\x64\Debug\net8.0-windows7.0\Charts.ChartControl.resources
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\obj\x64\Debug\net8.0-windows7.0\Charts.Form1.resources
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartCon.BE66CD4D.Up2Date
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\obj\x64\Debug\net8.0-windows7.0\refint\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\obj\x64\Debug\net8.0-windows7.0\ChartControl.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits New\ChartControl\obj\x64\Debug\net8.0-windows7.0\ref\ChartControl.dll

@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ZCharts/1.0.0": {
+        "runtime": {
+          "ZCharts.dll": {}
+        },
+        "resources": {
+          "de/ZCharts.resources.dll": {
+            "locale": "de"
+          },
+          "es/ZCharts.resources.dll": {
+            "locale": "es"
+          },
+          "fr/ZCharts.resources.dll": {
+            "locale": "fr"
+          },
+          "hu/ZCharts.resources.dll": {
+            "locale": "hu"
+          },
+          "it/ZCharts.resources.dll": {
+            "locale": "it"
+          },
+          "ja/ZCharts.resources.dll": {
+            "locale": "ja"
+          },
+          "pt/ZCharts.resources.dll": {
+            "locale": "pt"
+          },
+          "ru/ZCharts.resources.dll": {
+            "locale": "ru"
+          },
+          "sk/ZCharts.resources.dll": {
+            "locale": "sk"
+          },
+          "sv/ZCharts.resources.dll": {
+            "locale": "sv"
+          },
+          "tr/ZCharts.resources.dll": {
+            "locale": "tr"
+          },
+          "zh-cn/ZCharts.resources.dll": {
+            "locale": "zh-cn"
+          },
+          "zh-tw/ZCharts.resources.dll": {
+            "locale": "zh-tw"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZCharts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

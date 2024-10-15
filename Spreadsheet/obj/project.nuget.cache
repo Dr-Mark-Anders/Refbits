@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X9r0cwKKfiHp1p4uK4j6SF8C6tgSLFN3ZobXRTUlafFcvqY3EpTJrDtqqwG5F4KX5GFeJSa/nMa33h+uSSZxzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MarkA\\Desktop\\Refbits Files\\RefBitsNet6\\Spreadsheet\\Spreadsheet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MarkA\\.nuget\\packages\\mathnet.numerics\\5.0.0-alpha02\\mathnet.numerics.5.0.0-alpha02.nupkg.sha512",
+    "C:\\Users\\MarkA\\.nuget\\packages\\system.windows.forms.datavisualization\\1.0.0-prerelease.20110.1\\system.windows.forms.datavisualization.1.0.0-prerelease.20110.1.nupkg.sha512"
+  ],
+  "logs": []
+}

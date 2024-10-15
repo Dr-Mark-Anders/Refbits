@@ -1,0 +1,48 @@
+C:\Users\MarkA\Desktop\Refbits Files 03_02_2023\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files 03_02_2023\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files 03_02_2023\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files 03_02_2023\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files 03_02_2023\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files 03_02_2023\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits Files 03_02_2023\RefBitsNet6\Units\obj\Debug\net6.0-windows\refint\Units.dll
+C:\Users\MarkA\Desktop\Refbits Files 03_02_2023\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits Files 03_02_2023\RefBitsNet6\Units\bin\Debug\net6.0-windows\Units.deps.json
+C:\Users\MarkA\Desktop\Refbits Files 03_02_2023\RefBitsNet6\Units\bin\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits Files 03_02_2023\RefBitsNet6\Units\bin\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits Files 03_02_2023\RefBitsNet6\Units\obj\Debug\net6.0-windows\ref\Units.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Units\bin\Debug\net6.0-windows\Units.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Units\bin\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Units\bin\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Units\obj\Debug\net6.0-windows\refint\Units.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Units\obj\Debug\net6.0-windows\ref\Units.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Units\bin\Debug\net6.0-windows\Units.deps.json
+C:\Users\MarkA\Desktop\RefBitsNet6\Units\bin\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Units\bin\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Units\obj\Debug\net6.0-windows\refint\Units.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Units\obj\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Units\obj\Debug\net6.0-windows\ref\Units.dll
+C:\Users\MarkA\Desktop\Refbits\Units\bin\Debug\net6.0-windows\Units.deps.json
+C:\Users\MarkA\Desktop\Refbits\Units\bin\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits\Units\bin\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\Units\obj\Debug\net6.0-windows\Units.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\Units\obj\Debug\net6.0-windows\Units.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\Units\obj\Debug\net6.0-windows\Units.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Units\obj\Debug\net6.0-windows\Units.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\Units\obj\Debug\net6.0-windows\Units.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Units\obj\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits\Units\obj\Debug\net6.0-windows\refint\Units.dll
+C:\Users\MarkA\Desktop\Refbits\Units\obj\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\Units\obj\Debug\net6.0-windows\ref\Units.dll

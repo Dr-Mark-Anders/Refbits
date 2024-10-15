@@ -1,0 +1,7 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestProject1\obj\Debug\net6.0\TestProject1.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestProject1\obj\Debug\net6.0\ModelEngine.TestForm.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestProject1\obj\Debug\net6.0\TestProject1.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestProject1\obj\Debug\net6.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestProject1\obj\Debug\net6.0\TestProject1.csproj.CoreCompileInputs.cache

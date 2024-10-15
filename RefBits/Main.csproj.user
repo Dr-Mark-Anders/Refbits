@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AMain\DrawArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AMain\DrawAreaBW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AMain\FindGuid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AMain\FrmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AMain\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AMain\PropertiesDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AMain\Reformer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AMain\ThermoCollectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AMain\ThermoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AMain\ToolBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CaseStudy\CaseStudyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CaseStudy\CaseStudyForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ColumnTools\ColumnDesignerControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ColumnTools\ColumnToolBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\Column\PADialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\Streams\CopyStreamDLG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\AdjustDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\BaseDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\ColumnDLG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\CompressorDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\CompSplitterDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\CondenserTypeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\CoolerDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\DividerDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\EnergyStreamDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\DefineRxns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\ExpanderDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\GibbsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\HeaterDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\HeatExDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\MixerDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\PipeDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\PlugFlowDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\PumpDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\RecycleDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\Separator3PhaseDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\SeparatorDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\SpecificationSheet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DrawingObjects\UnitDialogs\ValveDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MessagesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiscDialogs\AssayCutterDLG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiscDialogs\ComponentSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiscDialogs\SelectionDLG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PortForm\Chart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PortForm\Chart2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PortForm\CompositionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PortForm\CompositionsControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PropertyGridForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SetupSimulationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpecDialogs\PALocationDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToolBoxButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="AMain\DrawAreaDocked.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <None Update="DrawingObjects\UnitDialogs\SpreadsheetDialog.cs">
+      <SubType>Form</SubType>
+    </None>
+    <Compile Update="MiscDialogs\DrawColumnCondenserDLG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiscDialogs\HeatExIODialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiscDialogs\MyTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MiscDialogs\PumpaAroundForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UOMTextBox2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <None Update="MiscDialogs\SColDatadlg.cs">
+      <SubType>Form</SubType>
+    </None>
+    <None Update="MiscDialogs\SColumnDLG.cs">
+      <SubType>Form</SubType>
+    </None>
+    <Compile Update="MiscDialogs\SideStreamDLG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiscDialogs\Simple2ColumnDataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MiscDialogs\Simple3ColumnDataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MiscDialogs\StripperForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <None Update="MiscDialogs\SynthesisDLG.cs">
+      <SubType>Form</SubType>
+    </None>
+    <Compile Update="PortForm\DistilationDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PortForm\PortPropertyControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <None Update="PortForm\PortPropertyForm.cs">
+      <SubType>Form</SubType>
+    </None>
+    <Compile Update="PortForm\PortsPropertyControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PortForm\Properties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpecDialogs\FlowDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpecDialogs\PASpecDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpecDialogs\ProductDrawDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpecDialogs\StreamDistDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpecDialogs\StreamFlowDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpecDialogs\TrayDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TableControl\TableControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TableControl\TableDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TableControl\TableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="AMain\MainForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="CaseStudy\CaseStudyForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="CaseStudy\CaseStudyForm2.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ColumnTools\ColumnToolBox.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="DrawingObjects\UnitDialogs\ColumnDLG.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="DrawingObjects\UnitDialogs\CompressorDialog.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="DrawingObjects\UnitDialogs\CompSplitterDialog.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="DrawingObjects\UnitDialogs\CondenserTypeCOntrol.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="DrawingObjects\UnitDialogs\CoolerDialog.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="MiscDialogs\AssayCutterDLG.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="MiscDialogs\ComponentSelection.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="MiscDialogs\PumpaAroundForm2.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="PortForm\Chart.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="PortForm\Chart2.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="PortForm\CompositionForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

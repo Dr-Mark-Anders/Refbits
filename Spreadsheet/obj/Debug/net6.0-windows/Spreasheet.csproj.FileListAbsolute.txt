@@ -1,0 +1,8 @@
+C:\Users\MarkA\Desktop\ReoGrid Tests\Spreasheet\obj\Debug\net6.0-windows\unvell.ReoGrid.AboutForm.resources
+C:\Users\MarkA\Desktop\ReoGrid Tests\Spreasheet\obj\Debug\net6.0-windows\unvell.ReoGrid.DebugForm.resources
+C:\Users\MarkA\Desktop\ReoGrid Tests\Spreasheet\obj\Debug\net6.0-windows\unvell.ReoGrid.ReoGridControl.resources
+C:\Users\MarkA\Desktop\ReoGrid Tests\Spreasheet\obj\Debug\net6.0-windows\Spreasheet.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\ReoGrid Tests\Spreasheet\obj\Debug\net6.0-windows\Spreasheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\ReoGrid Tests\Spreasheet\obj\Debug\net6.0-windows\Spreasheet.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\ReoGrid Tests\Spreasheet\obj\Debug\net6.0-windows\Spreasheet.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\ReoGrid Tests\Spreasheet\obj\Debug\net6.0-windows\Spreasheet.csproj.CoreCompileInputs.cache

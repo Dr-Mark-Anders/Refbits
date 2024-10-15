@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MathNet.Numerics/5.0.0-alpha10": {
+        "runtime": {
+          "lib/net5.0/MathNet.Numerics.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathNet.Numerics/5.0.0-alpha10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iNHSlEgeQyWQz3pdPXo99LDRpcMpJPkIkqwdOQQ/67e3/WwYXIw9HswrTfrmD+TEO1ozU60tDI5L+NMG/eov1A==",
+      "path": "mathnet.numerics/5.0.0-alpha10",
+      "hashPath": "mathnet.numerics.5.0.0-alpha10.nupkg.sha512"
+    }
+  }
+}

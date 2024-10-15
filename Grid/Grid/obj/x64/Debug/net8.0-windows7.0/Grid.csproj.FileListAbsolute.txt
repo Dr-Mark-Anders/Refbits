@@ -1,0 +1,116 @@
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\UOMGrid.Grid.resources
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\UOMGrid.TestForm.resources
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Units.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Grid.exe
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Grid.deps.json
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Grid.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Grid.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Grid.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\System.Windows.Forms.DataVisualization.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\runtimes\win-x64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\runtimes\win-x86\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Data.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\DialogControls.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Math.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Steam.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Units.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\DialogControls.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Data.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Math.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Enumerations.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.csproj.Up2Date
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\refint\Grid.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\ref\Grid.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Units.comhost.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Grid.exe
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Grid.deps.json
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Grid.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Grid.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Grid.pdb
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\System.Windows.Forms.DataVisualization.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\runtimes\win-x64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\runtimes\win-x86\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Data.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\DialogControls.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Math.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Steam.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Units.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\DialogControls.pdb
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Data.pdb
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Math.pdb
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Units.pdb
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\bin\x64\Debug\net8.0-windows7.0\Enumerations.pdb
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\UOMGrid.Grid.resources
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\UOMGrid.TestForm.resources
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.csproj.Up2Date
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\refint\Grid.dll
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.pdb
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\Grid.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits New\Grid\Grid\obj\x64\Debug\net8.0-windows7.0\ref\Grid.dll

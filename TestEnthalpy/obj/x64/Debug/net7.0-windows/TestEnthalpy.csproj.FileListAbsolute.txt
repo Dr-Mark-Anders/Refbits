@@ -1,0 +1,416 @@
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\CoverletSourceRootsMapping_TestEnthalpy
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\testhost.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\COMThermo.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\testhost.exe
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\TestEnthalpy.deps.json
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\TestEnthalpy.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\TestEnthalpy.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\TestEnthalpy.pdb
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.ApplicationInsights.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.Testing.Extensions.Telemetry.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.Testing.Platform.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.Testing.Platform.MSBuild.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\COMThermo.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Math.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\COMThermo.pdb
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnthalpy.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnthalpy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnthalpy.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnthalpy.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnthalpy.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnth.EAA4A46F.Up2Date
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnthalpy.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\obj\x64\Debug\net7.0-windows\refint\TestEnthalpy.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnthalpy.pdb
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnthalpy.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\obj\x64\Debug\net7.0-windows\ref\TestEnthalpy.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\CoverletSourceRootsMapping_TestEnthalpy
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnthalpy.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnthalpy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnthalpy.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnthalpy.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnthalpy.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\testhost.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\COMThermo.comhost.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\testhost.exe
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\TestEnthalpy.deps.json
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\TestEnthalpy.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\TestEnthalpy.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\TestEnthalpy.pdb
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.ApplicationInsights.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.Testing.Extensions.Telemetry.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.Testing.Platform.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.Testing.Platform.MSBuild.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\COMThermo.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Math.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\COMThermo.pdb
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Enumerations.pdb
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\bin\x64\Debug\net7.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnth.EAA4A46F.Up2Date
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnthalpy.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\obj\x64\Debug\net7.0-windows\refint\TestEnthalpy.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnthalpy.pdb
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\obj\x64\Debug\net7.0-windows\TestEnthalpy.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits Current\TestEnthalpy\obj\x64\Debug\net7.0-windows\ref\TestEnthalpy.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits\TestEnthalpy\bin\x64\Debug\net7.0-windows\Enumerations.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m3Y3xXmDU3as38jO6V3d/nNjF9anqChyPZ0aLui+h9e3KIdLt/t+RRE3tG4Rbcy7+g9IjVlpAutenQ/7zd2Cyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MarkA\\Desktop\\Refbits\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MarkA\\.nuget\\packages\\mstest.testframework\\3.0.2\\mstest.testframework.3.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

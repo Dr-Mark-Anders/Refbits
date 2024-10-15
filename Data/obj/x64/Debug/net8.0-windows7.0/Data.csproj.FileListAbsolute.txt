@@ -1,0 +1,24 @@
+C:\Users\MarkA\Desktop\Refbits\Data\bin\x64\Debug\net8.0-windows7.0\Data.deps.json
+C:\Users\MarkA\Desktop\Refbits\Data\bin\x64\Debug\net8.0-windows7.0\Data.dll
+C:\Users\MarkA\Desktop\Refbits\Data\bin\x64\Debug\net8.0-windows7.0\Data.pdb
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net8.0-windows7.0\Data.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net8.0-windows7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net8.0-windows7.0\Data.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net8.0-windows7.0\Data.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net8.0-windows7.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net8.0-windows7.0\Data.dll
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net8.0-windows7.0\refint\Data.dll
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net8.0-windows7.0\Data.pdb
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net8.0-windows7.0\ref\Data.dll
+C:\Users\MarkA\Desktop\Refbits New\Data\bin\x64\Debug\net8.0-windows7.0\Data.deps.json
+C:\Users\MarkA\Desktop\Refbits New\Data\bin\x64\Debug\net8.0-windows7.0\Data.dll
+C:\Users\MarkA\Desktop\Refbits New\Data\bin\x64\Debug\net8.0-windows7.0\Data.pdb
+C:\Users\MarkA\Desktop\Refbits New\Data\obj\x64\Debug\net8.0-windows7.0\Data.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits New\Data\obj\x64\Debug\net8.0-windows7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits New\Data\obj\x64\Debug\net8.0-windows7.0\Data.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\Data\obj\x64\Debug\net8.0-windows7.0\Data.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits New\Data\obj\x64\Debug\net8.0-windows7.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\Data\obj\x64\Debug\net8.0-windows7.0\Data.dll
+C:\Users\MarkA\Desktop\Refbits New\Data\obj\x64\Debug\net8.0-windows7.0\refint\Data.dll
+C:\Users\MarkA\Desktop\Refbits New\Data\obj\x64\Debug\net8.0-windows7.0\Data.pdb
+C:\Users\MarkA\Desktop\Refbits New\Data\obj\x64\Debug\net8.0-windows7.0\ref\Data.dll

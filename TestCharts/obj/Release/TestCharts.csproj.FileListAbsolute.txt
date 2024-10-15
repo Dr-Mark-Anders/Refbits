@@ -1,0 +1,23 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\bin\Release\TestCharts.exe.config
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\bin\Release\TestCharts.exe
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\bin\Release\TestCharts.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\Release\TestCharts.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\Release\TestCharts.csproj.SuggestedBindingRedirects.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\Release\TestCharts.Form1.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\Release\TestCharts.Properties.Resources.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\Release\TestCharts.UserControl1.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\Release\TestCharts.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\Release\TestCharts.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\Release\TestCharts.exe
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\Release\TestCharts.pdb
+C:\Users\MarkA\Desktop\Refbits\TestCharts\bin\Release\TestCharts.exe.config
+C:\Users\MarkA\Desktop\Refbits\TestCharts\bin\Release\TestCharts.exe
+C:\Users\MarkA\Desktop\Refbits\TestCharts\bin\Release\TestCharts.pdb
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\Release\TestCharts.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\Release\TestCharts.Form1.resources
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\Release\TestCharts.Properties.Resources.resources
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\Release\TestCharts.UserControl1.resources
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\Release\TestCharts.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\Release\TestCharts.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\Release\TestCharts.exe
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\Release\TestCharts.pdb

@@ -1,0 +1,36 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\bin\x64\Release\net6.0\TestApp.exe
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\bin\x64\Release\net6.0\TestApp.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\bin\x64\Release\net6.0\TestApp.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\bin\x64\Release\net6.0\TestApp.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\bin\x64\Release\net6.0\TestApp.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\bin\x64\Release\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\bin\x64\Release\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\obj\x64\Release\net6.0\TestApp.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\obj\x64\Release\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\obj\x64\Release\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\obj\x64\Release\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\obj\x64\Release\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\obj\x64\Release\net6.0\TestApp.csproj.CopyComplete
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\obj\x64\Release\net6.0\TestApp.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\obj\x64\Release\net6.0\refint\TestApp.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\obj\x64\Release\net6.0\TestApp.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\obj\x64\Release\net6.0\TestApp.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestApp\obj\x64\Release\net6.0\ref\TestApp.dll
+C:\Users\MarkA\Desktop\Refbits\TestApp\bin\x64\Release\net6.0\TestApp.exe
+C:\Users\MarkA\Desktop\Refbits\TestApp\bin\x64\Release\net6.0\TestApp.deps.json
+C:\Users\MarkA\Desktop\Refbits\TestApp\bin\x64\Release\net6.0\TestApp.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\TestApp\bin\x64\Release\net6.0\TestApp.dll
+C:\Users\MarkA\Desktop\Refbits\TestApp\bin\x64\Release\net6.0\TestApp.pdb
+C:\Users\MarkA\Desktop\Refbits\TestApp\bin\x64\Release\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\TestApp\bin\x64\Release\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\MarkA\Desktop\Refbits\TestApp\obj\x64\Release\net6.0\TestApp.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\TestApp\obj\x64\Release\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\TestApp\obj\x64\Release\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\TestApp\obj\x64\Release\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\TestApp\obj\x64\Release\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\TestApp\obj\x64\Release\net6.0\TestApp.csproj.CopyComplete
+C:\Users\MarkA\Desktop\Refbits\TestApp\obj\x64\Release\net6.0\TestApp.dll
+C:\Users\MarkA\Desktop\Refbits\TestApp\obj\x64\Release\net6.0\refint\TestApp.dll
+C:\Users\MarkA\Desktop\Refbits\TestApp\obj\x64\Release\net6.0\TestApp.pdb
+C:\Users\MarkA\Desktop\Refbits\TestApp\obj\x64\Release\net6.0\TestApp.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits\TestApp\obj\x64\Release\net6.0\ref\TestApp.dll

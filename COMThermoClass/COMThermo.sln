@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "COMThermo", "COMThermo.csproj", "{C17858BD-0224-4F9D-A718-4C570745129E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EngineThermo", "..\ModelThermo\EngineThermo.csproj", "{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		DotfuscatedRelease|Any CPU = DotfuscatedRelease|Any CPU
+		DotfuscatedRelease|x64 = DotfuscatedRelease|x64
+		DotfuscatedRelease|x86 = DotfuscatedRelease|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C17858BD-0224-4F9D-A718-4C570745129E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C17858BD-0224-4F9D-A718-4C570745129E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C17858BD-0224-4F9D-A718-4C570745129E}.Debug|x64.ActiveCfg = Debug|x64
+		{C17858BD-0224-4F9D-A718-4C570745129E}.Debug|x64.Build.0 = Debug|x64
+		{C17858BD-0224-4F9D-A718-4C570745129E}.Debug|x86.ActiveCfg = Debug|x86
+		{C17858BD-0224-4F9D-A718-4C570745129E}.Debug|x86.Build.0 = Debug|x86
+		{C17858BD-0224-4F9D-A718-4C570745129E}.DotfuscatedRelease|Any CPU.ActiveCfg = Release|Any CPU
+		{C17858BD-0224-4F9D-A718-4C570745129E}.DotfuscatedRelease|Any CPU.Build.0 = Release|Any CPU
+		{C17858BD-0224-4F9D-A718-4C570745129E}.DotfuscatedRelease|x64.ActiveCfg = Release|x64
+		{C17858BD-0224-4F9D-A718-4C570745129E}.DotfuscatedRelease|x64.Build.0 = Release|x64
+		{C17858BD-0224-4F9D-A718-4C570745129E}.DotfuscatedRelease|x86.ActiveCfg = Release|x86
+		{C17858BD-0224-4F9D-A718-4C570745129E}.DotfuscatedRelease|x86.Build.0 = Release|x86
+		{C17858BD-0224-4F9D-A718-4C570745129E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C17858BD-0224-4F9D-A718-4C570745129E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C17858BD-0224-4F9D-A718-4C570745129E}.Release|x64.ActiveCfg = Release|x64
+		{C17858BD-0224-4F9D-A718-4C570745129E}.Release|x64.Build.0 = Release|x64
+		{C17858BD-0224-4F9D-A718-4C570745129E}.Release|x86.ActiveCfg = Release|x86
+		{C17858BD-0224-4F9D-A718-4C570745129E}.Release|x86.Build.0 = Release|x86
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.Debug|x64.ActiveCfg = Debug|x64
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.Debug|x64.Build.0 = Debug|x64
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.Debug|x86.ActiveCfg = Debug|x86
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.Debug|x86.Build.0 = Debug|x86
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.DotfuscatedRelease|Any CPU.ActiveCfg = DotfuscatedRelease|Any CPU
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.DotfuscatedRelease|Any CPU.Build.0 = DotfuscatedRelease|Any CPU
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.DotfuscatedRelease|x64.ActiveCfg = DotfuscatedRelease|x64
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.DotfuscatedRelease|x64.Build.0 = DotfuscatedRelease|x64
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.DotfuscatedRelease|x86.ActiveCfg = DotfuscatedRelease|x86
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.DotfuscatedRelease|x86.Build.0 = DotfuscatedRelease|x86
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.Release|x64.ActiveCfg = Release|x64
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.Release|x64.Build.0 = Release|x64
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.Release|x86.ActiveCfg = Release|x86
+		{6B55FFCB-1187-4EA6-B36D-B8A3A1169D15}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D79C8F4-36FA-4464-BBEA-9B7F48114FDF}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/refbitscore6
+		SccProjectUniqueName0 = COMThermo.csproj
+		SccProjectName0 = .
+		SccAuxPath0 = https://dev.azure.com/refbitscore6
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = ..\\ModelThermo\\EngineThermo.csproj
+		SccProjectName1 = ../ModelThermo
+		SccAuxPath1 = https://dev.azure.com/refbitscore6
+		SccLocalPath1 = ..\\ModelThermo
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal

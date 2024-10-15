@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Controls\DataGridViewEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\FlowFraction.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <None Update="Forms\GenericPlot.cs">
+      <SubType>Form</SubType>
+    </None>
+    <Compile Update="Forms\RefFullFeed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Controls\MassMolarVol.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\MassMolarVolCombo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\PropertyGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\StreamPropertyGrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\StreamCompositionEntry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\StreamEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,34 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\bin\Debug\net6.0-windows\Math.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\bin\Debug\net6.0-windows\Math.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\bin\Debug\net6.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\bin\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\bin\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\bin\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\bin\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\obj\Debug\net6.0-windows\Math.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\obj\Debug\net6.0-windows\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\obj\Debug\net6.0-windows\Math.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\obj\Debug\net6.0-windows\Math.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\obj\Debug\net6.0-windows\Math.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\obj\Debug\net6.0-windows\Math.csproj.CopyComplete
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\obj\Debug\net6.0-windows\Math.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\obj\Debug\net6.0-windows\refint\Math.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\obj\Debug\net6.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Math\obj\Debug\net6.0-windows\ref\Math.dll
+C:\Users\MarkA\Desktop\Refbits\Math\bin\Debug\net6.0-windows\Math.deps.json
+C:\Users\MarkA\Desktop\Refbits\Math\bin\Debug\net6.0-windows\Math.dll
+C:\Users\MarkA\Desktop\Refbits\Math\bin\Debug\net6.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\Refbits\Math\bin\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\Math\bin\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits\Math\bin\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\Math\bin\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\Math\obj\Debug\net6.0-windows\Math.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\Math\obj\Debug\net6.0-windows\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\Math\obj\Debug\net6.0-windows\Math.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Math\obj\Debug\net6.0-windows\Math.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\Math\obj\Debug\net6.0-windows\Math.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Math\obj\Debug\net6.0-windows\Math.csproj.CopyComplete
+C:\Users\MarkA\Desktop\Refbits\Math\obj\Debug\net6.0-windows\Math.dll
+C:\Users\MarkA\Desktop\Refbits\Math\obj\Debug\net6.0-windows\refint\Math.dll
+C:\Users\MarkA\Desktop\Refbits\Math\obj\Debug\net6.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\Refbits\Math\obj\Debug\net6.0-windows\ref\Math.dll

@@ -1,0 +1,12 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\bin\x86\Debug\TestCharts.exe.config
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\bin\x86\Debug\TestCharts.exe
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\bin\x86\Debug\TestCharts.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x86\Debug\TestCharts.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x86\Debug\TestCharts.csproj.SuggestedBindingRedirects.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x86\Debug\TestCharts.Form1.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x86\Debug\TestCharts.Properties.Resources.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x86\Debug\TestCharts.UserControl1.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x86\Debug\TestCharts.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x86\Debug\TestCharts.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x86\Debug\TestCharts.exe
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x86\Debug\TestCharts.pdb

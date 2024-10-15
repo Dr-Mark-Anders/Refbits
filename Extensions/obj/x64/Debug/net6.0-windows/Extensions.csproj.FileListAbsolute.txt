@@ -1,0 +1,70 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\bin\x64\Debug\net6.0-windows\Extensions.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\bin\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\bin\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.ViewArray2.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\refint\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\ref\Extensions.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Extensions\bin\x64\Debug\net6.0-windows\Extensions.deps.json
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Extensions\bin\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Extensions\bin\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Extensions\obj\x64\Debug\net6.0-windows\Extensions.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Extensions\obj\x64\Debug\net6.0-windows\Extensions.ViewArray2.resources
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Extensions\obj\x64\Debug\net6.0-windows\Extensions.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Extensions\obj\x64\Debug\net6.0-windows\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Extensions\obj\x64\Debug\net6.0-windows\Extensions.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Extensions\obj\x64\Debug\net6.0-windows\Extensions.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Extensions\obj\x64\Debug\net6.0-windows\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Extensions\obj\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Extensions\obj\x64\Debug\net6.0-windows\refint\Extensions.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Extensions\obj\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Extensions\obj\x64\Debug\net6.0-windows\ref\Extensions.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Extensions\bin\x64\Debug\net6.0-windows\Extensions.deps.json
+C:\Users\MarkA\Desktop\RefBitsNet6\Extensions\bin\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Extensions\bin\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.ViewArray2.resources
+C:\Users\MarkA\Desktop\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\refint\Extensions.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Extensions\obj\x64\Debug\net6.0-windows\ref\Extensions.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Extensions\bin\x64\Debug\net6.0-windows\Extensions.deps.json
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Extensions\bin\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Extensions\bin\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Extensions\obj\x64\Debug\net6.0-windows\Extensions.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Extensions\obj\x64\Debug\net6.0-windows\Extensions.ViewArray2.resources
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Extensions\obj\x64\Debug\net6.0-windows\Extensions.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Extensions\obj\x64\Debug\net6.0-windows\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Extensions\obj\x64\Debug\net6.0-windows\Extensions.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Extensions\obj\x64\Debug\net6.0-windows\Extensions.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Extensions\obj\x64\Debug\net6.0-windows\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Extensions\obj\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Extensions\obj\x64\Debug\net6.0-windows\refint\Extensions.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Extensions\obj\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Extensions\obj\x64\Debug\net6.0-windows\ref\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\Extensions\bin\x64\Debug\net6.0-windows\Extensions.deps.json
+C:\Users\MarkA\Desktop\Refbits\Extensions\bin\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\Extensions\bin\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Debug\net6.0-windows\Extensions.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Debug\net6.0-windows\Extensions.ViewArray2.resources
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Debug\net6.0-windows\Extensions.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Debug\net6.0-windows\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Debug\net6.0-windows\Extensions.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Debug\net6.0-windows\Extensions.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Debug\net6.0-windows\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Debug\net6.0-windows\refint\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Debug\net6.0-windows\ref\Extensions.dll

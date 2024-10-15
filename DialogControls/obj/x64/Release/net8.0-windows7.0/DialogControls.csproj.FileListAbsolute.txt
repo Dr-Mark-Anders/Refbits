@@ -1,0 +1,128 @@
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\Units.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\DialogControls.deps.json
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\DialogControls.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\DialogControls.pdb
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\Data.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\Math.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\Steam.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\Units.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\Data.pdb
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\Math.pdb
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits\DialogControls\bin\x64\Release\net8.0-windows7.0\Enumerations.pdb
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.DistillationBasis.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.DropDownDataEntry.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\FormControls.EnumerationGrid.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.FlowFraction.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\FormControls.GCCompGrid.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.MassMolarVol.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.MassMolarVolCombo.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.PONAdata.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\FormControls.PropertyGrid.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\FormControls.RXStoichiometryGrid.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.SingleDataEntry.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.StreamAnalysysType.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.StreamCompositionEntry.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\FormControls.StreamPropertyGrid.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\FormControls.UserPropGrid.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.Distillations.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.GenericPlot.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.RefFullFeed.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.RefShortFeed.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.StreamEntry.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.ViewCompProps.resources
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogCo.066EC672.Up2Date
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\refint\DialogControls.dll
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.pdb
+C:\Users\MarkA\Desktop\Refbits\DialogControls\obj\x64\Release\net8.0-windows7.0\ref\DialogControls.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\Units.comhost.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\DialogControls.deps.json
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\DialogControls.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\DialogControls.pdb
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\Data.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\Enumerations.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\GenericRxBed.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\Math.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\Steam.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\Units.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\Units.pdb
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\Data.pdb
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\GenericRxBed.pdb
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\Math.pdb
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\bin\x64\Release\net8.0-windows7.0\Enumerations.pdb
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.DistillationBasis.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.DropDownDataEntry.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\FormControls.EnumerationGrid.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.FlowFraction.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\FormControls.GCCompGrid.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.MassMolarVol.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.MassMolarVolCombo.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.PONAdata.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\FormControls.PropertyGrid.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\FormControls.RXStoichiometryGrid.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.SingleDataEntry.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.StreamAnalysysType.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.StreamCompositionEntry.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\FormControls.StreamPropertyGrid.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\FormControls.UserPropGrid.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.Distillations.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.GenericPlot.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.RefFullFeed.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.RefShortFeed.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.StreamEntry.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.ViewCompProps.resources
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogCo.066EC672.Up2Date
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\refint\DialogControls.dll
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\DialogControls.pdb
+C:\Users\MarkA\Desktop\Refbits New\DialogControls\obj\x64\Release\net8.0-windows7.0\ref\DialogControls.dll

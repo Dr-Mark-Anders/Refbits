@@ -1,0 +1,1 @@
+regsvr32 /u "C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\COMThermoClass\bin\x64\Debug\net6.0-windows\COMThermo.comhost.dll"

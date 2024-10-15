@@ -1,0 +1,11 @@
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\bin\Debug\net7.0\GeneralMatrix.deps.json
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\bin\Debug\net7.0\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\bin\Debug\net7.0\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\obj\Debug\net7.0\GeneralMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\obj\Debug\net7.0\GeneralMatrix.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\obj\Debug\net7.0\GeneralMatrix.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\obj\Debug\net7.0\GeneralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\obj\Debug\net7.0\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\obj\Debug\net7.0\refint\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\obj\Debug\net7.0\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits\GeneralMatrix\obj\Debug\net7.0\ref\GeneralMatrix.dll

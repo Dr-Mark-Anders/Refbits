@@ -1,0 +1,54 @@
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\bin\Debug\net6.0-windows\TestGrid.exe
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\bin\Debug\net6.0-windows\TestGrid.deps.json
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\bin\Debug\net6.0-windows\TestGrid.runtimeconfig.json
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\bin\Debug\net6.0-windows\TestGrid.dll
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\bin\Debug\net6.0-windows\ref\TestGrid.dll
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\bin\Debug\net6.0-windows\TestGrid.pdb
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\obj\Debug\net6.0-windows\TestGrid.Form1.resources
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\obj\Debug\net6.0-windows\TestGrid.csproj.GenerateResource.cache
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\obj\Debug\net6.0-windows\TestGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\obj\Debug\net6.0-windows\TestGrid.AssemblyInfoInputs.cache
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\obj\Debug\net6.0-windows\TestGrid.AssemblyInfo.cs
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\obj\Debug\net6.0-windows\TestGrid.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\obj\Debug\net6.0-windows\TestGrid.dll
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\obj\Debug\net6.0-windows\ref\TestGrid.dll
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\obj\Debug\net6.0-windows\TestGrid.pdb
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\obj\Debug\net6.0-windows\TestGrid.genruntimeconfig.cache
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\obj\Debug\net6.0-windows\TestGrid.Grid.resources
+C:\Users\MarkA\source\repos\TestGrid\TestGrid\obj\Debug\net6.0-windows\TestGrid.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\bin\Debug\net6.0-windows\TestGrid.exe
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\bin\Debug\net6.0-windows\TestGrid.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\bin\Debug\net6.0-windows\TestGrid.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\bin\Debug\net6.0-windows\TestGrid.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\bin\Debug\net6.0-windows\ref\TestGrid.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\bin\Debug\net6.0-windows\TestGrid.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\obj\Debug\net6.0-windows\TestGrid.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\obj\Debug\net6.0-windows\TestGrid.Form1.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\obj\Debug\net6.0-windows\TestGrid.Grid.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\obj\Debug\net6.0-windows\TestGrid.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\obj\Debug\net6.0-windows\TestGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\obj\Debug\net6.0-windows\TestGrid.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\obj\Debug\net6.0-windows\TestGrid.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\obj\Debug\net6.0-windows\TestGrid.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\obj\Debug\net6.0-windows\TestGrid.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\obj\Debug\net6.0-windows\ref\TestGrid.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\obj\Debug\net6.0-windows\TestGrid.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestGrid\Grid\obj\Debug\net6.0-windows\TestGrid.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\Debug\net6.0-windows\TestGrid.exe
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\Debug\net6.0-windows\TestGrid.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\Debug\net6.0-windows\TestGrid.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\Debug\net6.0-windows\TestGrid.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\Debug\net6.0-windows\ref\TestGrid.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\Debug\net6.0-windows\TestGrid.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\Debug\net6.0-windows\TestGrid.Form1.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\Debug\net6.0-windows\TestGrid.Grid.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\Debug\net6.0-windows\TestGrid.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\Debug\net6.0-windows\TestGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\Debug\net6.0-windows\TestGrid.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\Debug\net6.0-windows\TestGrid.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\Debug\net6.0-windows\TestGrid.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\Debug\net6.0-windows\TestGrid.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\Debug\net6.0-windows\ref\TestGrid.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\Debug\net6.0-windows\TestGrid.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\Debug\net6.0-windows\TestGrid.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\Debug\net6.0-windows\TestGrid.csproj.AssemblyReference.cache

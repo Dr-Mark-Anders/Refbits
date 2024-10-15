@@ -1,0 +1,55 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup Label="Globals">
+		<SccProjectName>SAK</SccProjectName>
+		<SccProvider>SAK</SccProvider>
+		<SccAuxPath>SAK</SccAuxPath>
+		<SccLocalPath>SAK</SccLocalPath>
+		<Configurations>Debug;Release;DotfuscatedRelease</Configurations>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<TargetFramework>net8.0-windows7.0</TargetFramework>
+		<Platforms>AnyCPU;x86;x64</Platforms>
+		<UseWindowsForms>true</UseWindowsForms>
+		<AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Remove="UnitOperations\Column\Solver\ViewArray.cs" />
+	  <Compile Remove="UnitOperations\Column\Solver\ViewArray.Designer.cs" />
+	  <Compile Remove="UnitOperations\HeatExchange\HeatExchanger.cs" />
+	  <Compile Remove="UnitOperations\LLE Extraction\Solver\ViewArray.cs" />
+	  <Compile Remove="UnitOperations\LLE Extraction\Solver\ViewArray.Designer.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <EmbeddedResource Remove="UnitOperations\Column\Solver\ViewArray.resx" />
+	  <EmbeddedResource Remove="UnitOperations\LLE Extraction\Solver\ViewArray.resx" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Include="UnitOperations\HeatExchange\HeatExchanger.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Alglib\Alglib.csproj">
+	    <Private>True</Private>
+	  </ProjectReference>
+	  <ProjectReference Include="..\ChartControl\ChartControl.csproj" />
+	  <ProjectReference Include="..\Data\Data.csproj" />
+	  <ProjectReference Include="..\Enumerations\Enumerations.csproj" />
+	  <ProjectReference Include="..\Extensions\Extensions.csproj" />
+	  <ProjectReference Include="..\GeneralMatrix\GeneralMatrix.csproj" />
+	  <ProjectReference Include="..\GenericRxBed\GenericRxBed.csproj" />
+	  <ProjectReference Include="..\IAPWSSteam\IAPWSSteam.csproj" />
+	  <ProjectReference Include="..\Math\Math.csproj" />
+	  <ProjectReference Include="..\SteamProperties\Steam.csproj" />
+	  <ProjectReference Include="..\Units\Units.csproj" />
+	</ItemGroup>
+
+</Project>

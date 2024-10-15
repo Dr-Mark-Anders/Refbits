@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Steam/1.0.0": {
+        "dependencies": {
+          "IAPWSSteam": "1.0.0",
+          "Units": "1.0.0"
+        },
+        "runtime": {
+          "Steam.dll": {}
+        }
+      },
+      "IAPWSSteam/1.0.0": {
+        "dependencies": {
+          "Units": "1.0.0"
+        },
+        "runtime": {
+          "IAPWSSteam.dll": {}
+        }
+      },
+      "Units/1.0.0": {
+        "runtime": {
+          "Units.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Steam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IAPWSSteam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Units/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

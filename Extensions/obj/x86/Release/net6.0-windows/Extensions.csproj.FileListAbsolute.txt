@@ -1,0 +1,12 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\bin\x86\Release\net6.0-windows\Extensions.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\bin\x86\Release\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\bin\x86\Release\net6.0-windows\ref\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\bin\x86\Release\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x86\Release\net6.0-windows\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x86\Release\net6.0-windows\Extensions.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x86\Release\net6.0-windows\Extensions.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x86\Release\net6.0-windows\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x86\Release\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x86\Release\net6.0-windows\ref\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x86\Release\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Extensions\obj\x86\Release\net6.0-windows\Extensions.csproj.AssemblyReference.cache

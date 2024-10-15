@@ -1,0 +1,12 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Data\bin\DotfuscatedRelease\net6.0-windows\Data.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Data\bin\DotfuscatedRelease\net6.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Data\bin\DotfuscatedRelease\net6.0-windows\ref\Data.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Data\bin\DotfuscatedRelease\net6.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Data\obj\DotfuscatedRelease\net6.0-windows\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Data\obj\DotfuscatedRelease\net6.0-windows\Data.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Data\obj\DotfuscatedRelease\net6.0-windows\Data.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Data\obj\DotfuscatedRelease\net6.0-windows\Data.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Data\obj\DotfuscatedRelease\net6.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Data\obj\DotfuscatedRelease\net6.0-windows\ref\Data.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Data\obj\DotfuscatedRelease\net6.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Data\obj\DotfuscatedRelease\net6.0-windows\Data.csproj.AssemblyReference.cache

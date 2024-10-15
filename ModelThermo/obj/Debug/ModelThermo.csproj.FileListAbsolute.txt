@@ -1,0 +1,121 @@
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\ModelThermo.csprojAssemblyReference.cache
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\Interop.MDACVer.dll
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\ModelThermo.csproj.ResolveComReference.cache
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.BinaryInteraction.BIPForm.resources
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\Units.UOMTextBox.resources
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\InputBox.resources
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\Units.DimTextBox.resources
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\Units.FlexComboBox.resources
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\Units.FlexTextBox.resources
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.UnitsClasses.LabelledDimTextBox.resources
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\Units.UnitsClasses.TestForm.resources
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\Units.DataBoundDimTextBox.resources
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.StreamComponent.resources
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.Equilibrium.resources
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.PhaseDiagram.resources
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.Components.resources
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.Properties.Resources.resources
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\ModelThermo.csproj.GenerateResource.cache
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\ModelThermo.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\DATABASE.csv
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\DATABASE.enc
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\EngineThermo.dll.config
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\EngineThermo.dll
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\EngineThermo.pdb
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\EngineThermo.tlb
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\Extensions.dll
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\Math.dll
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\Steam1997.exe
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\Units.dll
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\MathNet.Numerics.dll
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\Extensions.pdb
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\Math.pdb
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\Steam1997.pdb
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\Steam1997.exe.config
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\Units.pdb
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\bin\Debug\MathNet.Numerics.xml
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\ModelThermo.csproj.CopyComplete
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.dll
+C:\Users\MarkA\OneDrive\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.pdb
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\DATABASE.csv
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\DATABASE.enc
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\EngineThermo.dll.config
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\EngineThermo.dll
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\EngineThermo.pdb
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\EngineThermo.tlb
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\Data.dll
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\Math.dll
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\Steam1997.exe
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\Units.dll
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\Data.pdb
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\Math.pdb
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\Steam1997.pdb
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\Steam1997.exe.config
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\Units.pdb
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\bin\Debug\MathNet.Numerics.xml
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\ModelThermo.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\Interop.Office.dll
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\ModelThermo.csproj.ResolveComReference.cache
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.BinaryInteraction.BIPForm.resources
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\Units.UOMTextBox.resources
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\InputBox.resources
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\Units.DimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\Units.FlexComboBox.resources
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\Units.FlexTextBox.resources
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.UnitsClasses.LabelledDimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\Units.UnitsClasses.TestForm.resources
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\Units.DataBoundDimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.StreamComponent.resources
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.Equilibrium.resources
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.PhaseDiagram.resources
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.Components.resources
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.Properties.Resources.resources
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\ModelThermo.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\ModelThermo.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.dll
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\EngineThermo.pdb
+C:\Users\MarkA\Desktop\Refbits2021\EngineThermo\obj\Debug\ModelThermo.csproj.CopyComplete
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\DATABASE.csv
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\DATABASE.enc
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\EngineThermo.dll.config
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\EngineThermo.dll
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\EngineThermo.pdb
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\Data.dll
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\Math.dll
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\Steam1997.exe
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\Units.dll
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\Data.pdb
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\Math.pdb
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\Steam1997.pdb
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\Steam1997.exe.config
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\Units.pdb
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\MathNet.Numerics.xml
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\ModelThermo.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\Interop.Office.dll
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\ModelThermo.csproj.ResolveComReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\EngineThermo.BinaryInteraction.BIPForm.resources
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\Units.UOMTextBox.resources
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\InputBox.resources
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\Units.DimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\Units.FlexComboBox.resources
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\Units.FlexTextBox.resources
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\EngineThermo.UnitsClasses.LabelledDimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\Units.UnitsClasses.TestForm.resources
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\Units.DataBoundDimTextBox.resources
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\EngineThermo.StreamComponent.resources
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\EngineThermo.Equilibrium.resources
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\EngineThermo.PhaseDiagram.resources
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\EngineThermo.Components.resources
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\EngineThermo.Properties.Resources.resources
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\ModelThermo.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\ModelThermo.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\EngineThermo.dll
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\obj\Debug\EngineThermo.pdb
+C:\Users\MarkA\Desktop\Refbits Files\Refbits2021\EngineThermo\bin\Debug\EngineThermo.tlb

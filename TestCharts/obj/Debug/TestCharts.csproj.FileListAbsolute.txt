@@ -1,0 +1,11 @@
+C:\Users\MarkA\Desktop\Refbits\TestCharts\bin\Debug\TestCharts.exe.config
+C:\Users\MarkA\Desktop\Refbits\TestCharts\bin\Debug\TestCharts.exe
+C:\Users\MarkA\Desktop\Refbits\TestCharts\bin\Debug\TestCharts.pdb
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\Debug\TestCharts.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\Debug\TestCharts.Form1.resources
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\Debug\TestCharts.Properties.Resources.resources
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\Debug\TestCharts.UserControl1.resources
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\Debug\TestCharts.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\Debug\TestCharts.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\Debug\TestCharts.exe
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\Debug\TestCharts.pdb

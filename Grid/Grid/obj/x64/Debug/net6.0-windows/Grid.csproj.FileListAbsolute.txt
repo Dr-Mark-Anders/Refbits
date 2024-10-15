@@ -1,0 +1,280 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\UOMGrid.Grid.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\UOMGrid.TestForm.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.exe
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\UnitOperations\Reactions\Tatoray.txt
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\DialogControls.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\EngineThermo.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Math.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\DialogControls.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\EngineThermo.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.CopyComplete
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\refint\Grid.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\ref\Grid.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.exe
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\UnitOperations\Reactions\Tatoray.txt
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.deps.json
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.runtimeconfig.json
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Data.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\DialogControls.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\EngineThermo.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Math.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\DialogControls.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\EngineThermo.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\bin\x64\Debug\net6.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\obj\x64\Debug\net6.0-windows\UOMGrid.Grid.resources
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\obj\x64\Debug\net6.0-windows\UOMGrid.TestForm.resources
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.CopyComplete
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\obj\x64\Debug\net6.0-windows\refint\Grid.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Grid\Grid\obj\x64\Debug\net6.0-windows\ref\Grid.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.exe
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\UnitOperations\Reactions\Tatoray.txt
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.deps.json
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.runtimeconfig.json
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Data.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\DialogControls.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\EngineThermo.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Math.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\DialogControls.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\EngineThermo.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\bin\x64\Debug\net6.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\UOMGrid.Grid.resources
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\UOMGrid.TestForm.resources
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.CopyComplete
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\refint\Grid.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\Grid\Grid\obj\x64\Debug\net6.0-windows\ref\Grid.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.exe
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\UnitOperations\Reactions\Tatoray.txt
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.deps.json
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.runtimeconfig.json
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Data.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\DialogControls.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\EngineThermo.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Math.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\DialogControls.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\EngineThermo.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\bin\x64\Debug\net6.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\obj\x64\Debug\net6.0-windows\UOMGrid.Grid.resources
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\obj\x64\Debug\net6.0-windows\UOMGrid.TestForm.resources
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.CopyComplete
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\obj\x64\Debug\net6.0-windows\refint\Grid.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\RefbitsSourceCode\Grid\Grid\obj\x64\Debug\net6.0-windows\ref\Grid.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.deps.json
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.exe
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.exe
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\UnitOperations\Reactions\Tatoray.txt
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.deps.json
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Grid.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\DialogControls.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\EngineThermo.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\GeneralMatrix.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Math.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\ModelEngine.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Steam.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\DialogControls.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\ChartControl.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\EngineThermo.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Math.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\ModelEngine.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\bin\x64\Debug\net6.0-windows\GeneralMatrix.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net6.0-windows\UOMGrid.Grid.resources
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net6.0-windows\UOMGrid.TestForm.resources
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.csproj.CopyComplete
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net6.0-windows\refint\Grid.dll
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.pdb
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net6.0-windows\Grid.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits\Grid\Grid\obj\x64\Debug\net6.0-windows\ref\Grid.dll

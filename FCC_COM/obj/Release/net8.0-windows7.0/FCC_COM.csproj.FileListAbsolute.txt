@@ -1,0 +1,24 @@
+C:\Users\MarkA\Desktop\Refbits\FCC_COM\bin\Release\net8.0-windows7.0\FCC_COM.deps.json
+C:\Users\MarkA\Desktop\Refbits\FCC_COM\bin\Release\net8.0-windows7.0\FCC_COM.dll
+C:\Users\MarkA\Desktop\Refbits\FCC_COM\bin\Release\net8.0-windows7.0\FCC_COM.pdb
+C:\Users\MarkA\Desktop\Refbits\FCC_COM\obj\Release\net8.0-windows7.0\FCC_COM.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\FCC_COM\obj\Release\net8.0-windows7.0\FCC_COM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\FCC_COM\obj\Release\net8.0-windows7.0\FCC_COM.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\FCC_COM\obj\Release\net8.0-windows7.0\FCC_COM.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\FCC_COM\obj\Release\net8.0-windows7.0\FCC_COM.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\FCC_COM\obj\Release\net8.0-windows7.0\FCC_COM.dll
+C:\Users\MarkA\Desktop\Refbits\FCC_COM\obj\Release\net8.0-windows7.0\refint\FCC_COM.dll
+C:\Users\MarkA\Desktop\Refbits\FCC_COM\obj\Release\net8.0-windows7.0\FCC_COM.pdb
+C:\Users\MarkA\Desktop\Refbits\FCC_COM\obj\Release\net8.0-windows7.0\ref\FCC_COM.dll
+C:\Users\MarkA\Desktop\Refbits New\FCC_COM\bin\Release\net8.0-windows7.0\FCC_COM.deps.json
+C:\Users\MarkA\Desktop\Refbits New\FCC_COM\bin\Release\net8.0-windows7.0\FCC_COM.dll
+C:\Users\MarkA\Desktop\Refbits New\FCC_COM\bin\Release\net8.0-windows7.0\FCC_COM.pdb
+C:\Users\MarkA\Desktop\Refbits New\FCC_COM\obj\Release\net8.0-windows7.0\FCC_COM.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits New\FCC_COM\obj\Release\net8.0-windows7.0\FCC_COM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits New\FCC_COM\obj\Release\net8.0-windows7.0\FCC_COM.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\FCC_COM\obj\Release\net8.0-windows7.0\FCC_COM.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits New\FCC_COM\obj\Release\net8.0-windows7.0\FCC_COM.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\FCC_COM\obj\Release\net8.0-windows7.0\FCC_COM.dll
+C:\Users\MarkA\Desktop\Refbits New\FCC_COM\obj\Release\net8.0-windows7.0\refint\FCC_COM.dll
+C:\Users\MarkA\Desktop\Refbits New\FCC_COM\obj\Release\net8.0-windows7.0\FCC_COM.pdb
+C:\Users\MarkA\Desktop\Refbits New\FCC_COM\obj\Release\net8.0-windows7.0\ref\FCC_COM.dll

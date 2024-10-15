@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Components\Assays\GenericAssayData\GenericAssayForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inconsitencies\InconsistencyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thermodynamics\BinaryInteraction\BIPForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thermodynamics\ThermodynamicMethods\InputBoxMA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thermodynamics\ThermodynamicMethods\PhaseDiagrams\Equilibriums.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thermodynamics\ThermodynamicMethods\PhaseDiagrams\PhaseDiagram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UnitOperations\Reactions\ReactionEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UnitsClasses\DataBoundDimText.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnitsClasses\DimTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnitsClasses\FlexComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UnitsClasses\FlexTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UnitsClasses\TestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UnitsClasses\UOMTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

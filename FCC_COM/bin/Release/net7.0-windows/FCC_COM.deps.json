@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FCC_COM/1.0.0": {
+        "runtime": {
+          "FCC_COM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FCC_COM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

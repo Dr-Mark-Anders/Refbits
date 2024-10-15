@@ -1,0 +1,8 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\netstandard2.0\ModelEngine.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\netstandard2.0\ModelEngine.Inconsitencies.InconsistencyForm.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\netstandard2.0\ModelEngine.UnitOperations.Column.Solver.ViewArray.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\netstandard2.0\ModelEngine.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\netstandard2.0\ModelEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\netstandard2.0\ModelEngine.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\netstandard2.0\ModelEngine.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\ModelEngine\obj\x64\Debug\netstandard2.0\ModelEngine.csproj.CoreCompileInputs.cache

@@ -1,0 +1,44 @@
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\bin\x64\Debug\net8.0-windows7.0\Units.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\bin\x64\Debug\net8.0-windows7.0\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\bin\x64\Debug\net8.0-windows7.0\Steam.deps.json
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\bin\x64\Debug\net8.0-windows7.0\Steam.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\bin\x64\Debug\net8.0-windows7.0\Steam.dll
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\bin\x64\Debug\net8.0-windows7.0\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\bin\x64\Debug\net8.0-windows7.0\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\bin\x64\Debug\net8.0-windows7.0\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\bin\x64\Debug\net8.0-windows7.0\Units.dll
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\bin\x64\Debug\net8.0-windows7.0\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\bin\x64\Debug\net8.0-windows7.0\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.csproj.Up2Date
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.dll
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\obj\x64\Debug\net8.0-windows7.0\refint\Steam.dll
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits\SteamProperties\obj\x64\Debug\net8.0-windows7.0\ref\Steam.dll
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\bin\x64\Debug\net8.0-windows7.0\Units.comhost.dll
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\bin\x64\Debug\net8.0-windows7.0\Steam.comhost.dll
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\bin\x64\Debug\net8.0-windows7.0\Steam.deps.json
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\bin\x64\Debug\net8.0-windows7.0\Steam.runtimeconfig.json
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\bin\x64\Debug\net8.0-windows7.0\Steam.dll
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\bin\x64\Debug\net8.0-windows7.0\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\bin\x64\Debug\net8.0-windows7.0\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\bin\x64\Debug\net8.0-windows7.0\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\bin\x64\Debug\net8.0-windows7.0\Units.dll
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\bin\x64\Debug\net8.0-windows7.0\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\bin\x64\Debug\net8.0-windows7.0\Units.pdb
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.csproj.Up2Date
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.dll
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\obj\x64\Debug\net8.0-windows7.0\refint\Steam.dll
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.pdb
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\obj\x64\Debug\net8.0-windows7.0\Steam.genruntimeconfig.cache
+C:\Users\MarkA\Desktop\Refbits New\SteamProperties\obj\x64\Debug\net8.0-windows7.0\ref\Steam.dll

@@ -1,0 +1,35 @@
+C:\Users\MarkA\Desktop\Refbits 91123\Alglib\bin\x64\Debug\net7.0-windows\Alglib.deps.json
+C:\Users\MarkA\Desktop\Refbits 91123\Alglib\bin\x64\Debug\net7.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits 91123\Alglib\bin\x64\Debug\net7.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits 91123\Alglib\obj\x64\Debug\net7.0-windows\Alglib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits 91123\Alglib\obj\x64\Debug\net7.0-windows\Alglib.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits 91123\Alglib\obj\x64\Debug\net7.0-windows\Alglib.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits 91123\Alglib\obj\x64\Debug\net7.0-windows\Alglib.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits 91123\Alglib\obj\x64\Debug\net7.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits 91123\Alglib\obj\x64\Debug\net7.0-windows\refint\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits 91123\Alglib\obj\x64\Debug\net7.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits 91123\Alglib\obj\x64\Debug\net7.0-windows\ref\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\Alglib\bin\x64\Debug\net7.0-windows\Alglib.deps.json
+C:\Users\MarkA\Desktop\Refbits\Alglib\bin\x64\Debug\net7.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\Alglib\bin\x64\Debug\net7.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Debug\net7.0-windows\Alglib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Debug\net7.0-windows\Alglib.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Debug\net7.0-windows\Alglib.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Debug\net7.0-windows\Alglib.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Debug\net7.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Debug\net7.0-windows\refint\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Debug\net7.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Debug\net7.0-windows\ref\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\x64\Debug\net7.0-windows\Alglib.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Current\Alglib\bin\x64\Debug\net7.0-windows\Alglib.deps.json
+C:\Users\MarkA\Desktop\Refbits Current\Alglib\bin\x64\Debug\net7.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits Current\Alglib\bin\x64\Debug\net7.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits Current\Alglib\obj\x64\Debug\net7.0-windows\Alglib.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Current\Alglib\obj\x64\Debug\net7.0-windows\Alglib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Current\Alglib\obj\x64\Debug\net7.0-windows\Alglib.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Current\Alglib\obj\x64\Debug\net7.0-windows\Alglib.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Current\Alglib\obj\x64\Debug\net7.0-windows\Alglib.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Current\Alglib\obj\x64\Debug\net7.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits Current\Alglib\obj\x64\Debug\net7.0-windows\refint\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits Current\Alglib\obj\x64\Debug\net7.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits Current\Alglib\obj\x64\Debug\net7.0-windows\ref\Alglib.dll

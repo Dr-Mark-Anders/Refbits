@@ -1,0 +1,1405 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Simulator\\Simulator1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Alglib\\Alglib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Alglib\\Alglib.csproj",
+        "projectName": "Alglib",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Alglib\\Alglib.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Alglib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ChartControl\\ChartControl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ChartControl\\ChartControl.csproj",
+        "projectName": "ChartControl",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ChartControl\\ChartControl.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ChartControl\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
+            "System.Windows.Forms.DataVisualization": {
+              "target": "Package",
+              "version": "[1.0.0-prerelease.20110.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\COMThermoClass\\COMThermo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\COMThermoClass\\COMThermo.csproj",
+        "projectName": "COMThermo",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\COMThermoClass\\COMThermo.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\COMThermoClass\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Data\\Data.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelEngine\\ModelEngine.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelEngine\\ModelEngine.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\SteamProperties\\Steam.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\SteamProperties\\Steam.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DialogControls\\DialogControls.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DialogControls\\DialogControls.csproj",
+        "projectName": "DialogControls",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DialogControls\\DialogControls.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DialogControls\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Extensions\\Extensions.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Extensions\\Extensions.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelEngine\\ModelEngine.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelEngine\\ModelEngine.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DocToolkit\\DocToolkit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DocToolkit\\DocToolkit.csproj",
+        "projectName": "DocToolkit",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DocToolkit\\DocToolkit.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DocToolkit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Extensions\\Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Extensions\\Extensions.csproj",
+        "projectName": "Extensions",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Extensions\\Extensions.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\GeneralMatrix\\GeneralMatrix.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\GeneralMatrix\\GeneralMatrix.csproj",
+        "projectName": "GeneralMatrix",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\GeneralMatrix\\GeneralMatrix.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\GeneralMatrix\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\GenericRxBed\\GenericRxBed.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\GenericRxBed\\GenericRxBed.csproj",
+        "projectName": "GenericRxBed",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\GenericRxBed\\GenericRxBed.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\GenericRxBed\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Extensions\\Extensions.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Extensions\\Extensions.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Grid\\Grid\\Grid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Grid\\Grid\\Grid.csproj",
+        "projectName": "Grid",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Grid\\Grid\\Grid.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Grid\\Grid\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DialogControls\\DialogControls.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DialogControls\\DialogControls.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\IAPWSSteam\\IAPWSSteam.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\IAPWSSteam\\IAPWSSteam.csproj",
+        "projectName": "IAPWSSteam",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\IAPWSSteam\\IAPWSSteam.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\IAPWSSteam\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Math\\Math.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Math\\Math.csproj",
+        "projectName": "Math",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Math\\Math.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Math\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Extensions\\Extensions.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Extensions\\Extensions.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelEngine\\ModelEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelEngine\\ModelEngine.csproj",
+        "projectName": "ModelEngine",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelEngine\\ModelEngine.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Alglib\\Alglib.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Alglib\\Alglib.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ChartControl\\ChartControl.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ChartControl\\ChartControl.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\GeneralMatrix\\GeneralMatrix.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\GeneralMatrix\\GeneralMatrix.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Math\\Math.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Math\\Math.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\SteamProperties\\Steam.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\SteamProperties\\Steam.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
+            "System.Windows.Forms.DataVisualization": {
+              "target": "Package",
+              "version": "[1.0.0-prerelease.20110.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj",
+        "projectName": "EngineThermo",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelThermo\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Data\\Data.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Extensions\\Extensions.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Extensions\\Extensions.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\IAPWSSteam\\IAPWSSteam.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\IAPWSSteam\\IAPWSSteam.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Math\\Math.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Math\\Math.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Collections.Specialized": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\NaphthaReformerSI\\NaphthaReformerSI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\NaphthaReformerSI\\NaphthaReformerSI.csproj",
+        "projectName": "NaphthaReformerSI",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\NaphthaReformerSI\\NaphthaReformerSI.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\NaphthaReformerSI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ChartControl\\ChartControl.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ChartControl\\ChartControl.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DialogControls\\DialogControls.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DialogControls\\DialogControls.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\GenericRxBed\\GenericRxBed.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\GenericRxBed\\GenericRxBed.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Windows.Forms.DataVisualization": {
+              "target": "Package",
+              "version": "[1.0.0-prerelease.20110.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\RefBits\\Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\RefBits\\Main.csproj",
+        "projectName": "Main",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\RefBits\\Main.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\RefBits\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DialogControls\\DialogControls.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DialogControls\\DialogControls.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DocToolkit\\DocToolkit.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DocToolkit\\DocToolkit.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Extensions\\Extensions.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Extensions\\Extensions.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Grid\\Grid\\Grid.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Grid\\Grid\\Grid.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelEngine\\ModelEngine.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelEngine\\ModelEngine.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "DockPanelSuite": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "DockPanelSuite.ThemeVS2015": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Simulator\\Simulator1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Simulator\\Simulator1.csproj",
+        "projectName": "Simulator1",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Simulator\\Simulator1.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Simulator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\COMThermoClass\\COMThermo.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\COMThermoClass\\COMThermo.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DialogControls\\DialogControls.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\DialogControls\\DialogControls.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\NaphthaReformerSI\\NaphthaReformerSI.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\NaphthaReformerSI\\NaphthaReformerSI.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\RefBits\\Main.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\RefBits\\Main.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\SteamProperties\\Steam.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\SteamProperties\\Steam.csproj",
+        "projectName": "Steam",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\SteamProperties\\Steam.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\SteamProperties\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\IAPWSSteam\\IAPWSSteam.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\IAPWSSteam\\IAPWSSteam.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\ModelThermo\\EngineThermo.csproj"
+              },
+              "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj": {
+                "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj",
+        "projectName": "Units",
+        "projectPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\Units.csproj",
+        "packagesPath": "C:\\Users\\MarkA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarkA\\Desktop\\RefBitsNet6\\Units\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarkA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

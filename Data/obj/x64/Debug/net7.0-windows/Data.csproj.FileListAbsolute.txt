@@ -1,0 +1,35 @@
+C:\Users\MarkA\Desktop\Refbits 91123\Data\bin\x64\Debug\net7.0-windows\Data.deps.json
+C:\Users\MarkA\Desktop\Refbits 91123\Data\bin\x64\Debug\net7.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits 91123\Data\bin\x64\Debug\net7.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits 91123\Data\obj\x64\Debug\net7.0-windows\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits 91123\Data\obj\x64\Debug\net7.0-windows\Data.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits 91123\Data\obj\x64\Debug\net7.0-windows\Data.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits 91123\Data\obj\x64\Debug\net7.0-windows\Data.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits 91123\Data\obj\x64\Debug\net7.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits 91123\Data\obj\x64\Debug\net7.0-windows\refint\Data.dll
+C:\Users\MarkA\Desktop\Refbits 91123\Data\obj\x64\Debug\net7.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits 91123\Data\obj\x64\Debug\net7.0-windows\ref\Data.dll
+C:\Users\MarkA\Desktop\Refbits\Data\bin\x64\Debug\net7.0-windows\Data.deps.json
+C:\Users\MarkA\Desktop\Refbits\Data\bin\x64\Debug\net7.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits\Data\bin\x64\Debug\net7.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net7.0-windows\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net7.0-windows\Data.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net7.0-windows\Data.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net7.0-windows\Data.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net7.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net7.0-windows\refint\Data.dll
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net7.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net7.0-windows\ref\Data.dll
+C:\Users\MarkA\Desktop\Refbits\Data\obj\x64\Debug\net7.0-windows\Data.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Current\Data\bin\x64\Debug\net7.0-windows\Data.deps.json
+C:\Users\MarkA\Desktop\Refbits Current\Data\bin\x64\Debug\net7.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits Current\Data\bin\x64\Debug\net7.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits Current\Data\obj\x64\Debug\net7.0-windows\Data.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Current\Data\obj\x64\Debug\net7.0-windows\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Current\Data\obj\x64\Debug\net7.0-windows\Data.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Current\Data\obj\x64\Debug\net7.0-windows\Data.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Current\Data\obj\x64\Debug\net7.0-windows\Data.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Current\Data\obj\x64\Debug\net7.0-windows\Data.dll
+C:\Users\MarkA\Desktop\Refbits Current\Data\obj\x64\Debug\net7.0-windows\refint\Data.dll
+C:\Users\MarkA\Desktop\Refbits Current\Data\obj\x64\Debug\net7.0-windows\Data.pdb
+C:\Users\MarkA\Desktop\Refbits Current\Data\obj\x64\Debug\net7.0-windows\ref\Data.dll

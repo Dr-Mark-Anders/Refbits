@@ -1,0 +1,3043 @@
+Renamed Types:
+
+[Units]Elements -> [Units] . 
+{
+	Elements [Units]Elements Elements::C ->  
+	Elements [Units]Elements Elements::H2 ->  
+	Elements [Units]Elements Elements::O2 ->  
+	Elements [Units]Elements Elements::S ->  
+	Elements [Units]Elements Elements::N2 ->  
+	Elements [Units]Elements Elements::Cl2 ->  
+	Elements [Units]Elements Elements::Br2 ->  
+
+	System.Int32 [Units]System.Int32 Elements::value__ skipped:  special name
+}
+
+[Units]Atoms -> [Units] . 
+{
+	Atoms [Units]Atoms Atoms::C ->  
+	Atoms [Units]Atoms Atoms::H ->  
+	Atoms [Units]Atoms Atoms::S ->  
+	Atoms [Units]Atoms Atoms::O ->  
+	Atoms [Units]Atoms Atoms::N ->  
+	Atoms [Units]Atoms Atoms::Cl ->  
+	Atoms [Units]Atoms Atoms::Br ->  
+
+	System.Int32 [Units]System.Int32 Atoms::value__ skipped:  special name
+}
+
+[Units]enumproptype -> [Units] . 
+{
+	enumproptype [Units]enumproptype enumproptype::Conditions ->  
+	enumproptype [Units]enumproptype enumproptype::Properties ->  
+	enumproptype [Units]enumproptype enumproptype::All ->  
+
+	System.Int32 [Units]System.Int32 enumproptype::value__ skipped:  special name
+}
+
+[Units]enumVapPressure  -> [Units] . 
+{
+	enumVapPressure  [Units]enumVapPressure  enumVapPressure ::Antoine ->  
+	enumVapPressure  [Units]enumVapPressure  enumVapPressure ::LeeKesler ->  
+	enumVapPressure  [Units]enumVapPressure  enumVapPressure ::RK ->  
+	enumVapPressure  [Units]enumVapPressure  enumVapPressure ::SRK ->  
+	enumVapPressure  [Units]enumVapPressure  enumVapPressure ::PR76 ->  
+	enumVapPressure  [Units]enumVapPressure  enumVapPressure ::PR78 ->  
+	enumVapPressure  [Units]enumVapPressure  enumVapPressure ::PRSV ->  
+	enumVapPressure  [Units]enumVapPressure  enumVapPressure ::ChaoSeader ->  
+	enumVapPressure  [Units]enumVapPressure  enumVapPressure ::GraysonStreed ->  
+	enumVapPressure  [Units]enumVapPressure  enumVapPressure ::SimpleTest ->  
+
+	System.Int32 [Units]System.Int32 enumVapPressure ::value__ skipped:  special name
+}
+
+[Units]enumEquiKMethod -> [Units] . 
+{
+	enumEquiKMethod [Units]enumEquiKMethod enumEquiKMethod::Antoine ->  
+	enumEquiKMethod [Units]enumEquiKMethod enumEquiKMethod::LeeKesler ->  
+	enumEquiKMethod [Units]enumEquiKMethod enumEquiKMethod::RK ->  
+	enumEquiKMethod [Units]enumEquiKMethod enumEquiKMethod::SRK ->  
+	enumEquiKMethod [Units]enumEquiKMethod enumEquiKMethod::PR76 ->  
+	enumEquiKMethod [Units]enumEquiKMethod enumEquiKMethod::PR78 ->  
+	enumEquiKMethod [Units]enumEquiKMethod enumEquiKMethod::PRSV ->  
+	enumEquiKMethod [Units]enumEquiKMethod enumEquiKMethod::ChaoSeader ->  
+	enumEquiKMethod [Units]enumEquiKMethod enumEquiKMethod::GraysonStreed ->  
+	enumEquiKMethod [Units]enumEquiKMethod enumEquiKMethod::Wilson ->  
+	enumEquiKMethod [Units]enumEquiKMethod enumEquiKMethod::SimpleTest ->  
+
+	System.Int32 [Units]System.Int32 enumEquiKMethod::value__ skipped:  special name
+}
+
+[Units]enumEnthalpy -> [Units] . 
+{
+	enumEnthalpy [Units]enumEnthalpy enumEnthalpy::Ideal ->  
+	enumEnthalpy [Units]enumEnthalpy enumEnthalpy::LeeKesler ->  
+	enumEnthalpy [Units]enumEnthalpy enumEnthalpy::RK ->  
+	enumEnthalpy [Units]enumEnthalpy enumEnthalpy::SRK ->  
+	enumEnthalpy [Units]enumEnthalpy enumEnthalpy::PR76 ->  
+	enumEnthalpy [Units]enumEnthalpy enumEnthalpy::PR78 ->  
+	enumEnthalpy [Units]enumEnthalpy enumEnthalpy::PRSV ->  
+	enumEnthalpy [Units]enumEnthalpy enumEnthalpy::ChaoSeader ->  
+	enumEnthalpy [Units]enumEnthalpy enumEnthalpy::GraysonStreed ->  
+	enumEnthalpy [Units]enumEnthalpy enumEnthalpy::SimpleTest ->  
+
+	System.Int32 [Units]System.Int32 enumEnthalpy::value__ skipped:  special name
+}
+
+[Units]enumDensity -> [Units] . 
+{
+	enumDensity [Units]enumDensity enumDensity::Rackett ->  
+	enumDensity [Units]enumDensity enumDensity::Costald ->  
+
+	System.Int32 [Units]System.Int32 enumDensity::value__ skipped:  special name
+}
+
+[Units]enumViscLiqMethod -> [Units] . 
+{
+	enumViscLiqMethod [Units]enumViscLiqMethod enumViscLiqMethod::LetsouStiel ->  
+	enumViscLiqMethod [Units]enumViscLiqMethod enumViscLiqMethod::ElyHanley ->  
+	enumViscLiqMethod [Units]enumViscLiqMethod enumViscLiqMethod::Fixed ->  
+
+	System.Int32 [Units]System.Int32 enumViscLiqMethod::value__ skipped:  special name
+}
+
+[Units]enumViscVapMethod -> [Units] . 
+{
+	enumViscVapMethod [Units]enumViscVapMethod enumViscVapMethod::Lucas ->  
+	enumViscVapMethod [Units]enumViscVapMethod enumViscVapMethod::YoonThodos ->  
+	enumViscVapMethod [Units]enumViscVapMethod enumViscVapMethod::ElyHanley ->  
+
+	System.Int32 [Units]System.Int32 enumViscVapMethod::value__ skipped:  special name
+}
+
+[Units]enumThermalConductivity -> [Units] . 
+{
+	enumThermalConductivity [Units]enumThermalConductivity enumThermalConductivity::API_1981_3_12A3_1 ->  
+	enumThermalConductivity [Units]enumThermalConductivity enumThermalConductivity::ElyHanley ->  
+
+	System.Int32 [Units]System.Int32 enumThermalConductivity::value__ skipped:  special name
+}
+
+[Units]enumSurfaceTensionMethod -> [Units] . 
+{
+	enumSurfaceTensionMethod [Units]enumSurfaceTensionMethod enumSurfaceTensionMethod::BrockBird ->  
+	enumSurfaceTensionMethod [Units]enumSurfaceTensionMethod enumSurfaceTensionMethod::EscobedoMansoori ->  
+	enumSurfaceTensionMethod [Units]enumSurfaceTensionMethod enumSurfaceTensionMethod::HugillVanWelseness ->  
+	enumSurfaceTensionMethod [Units]enumSurfaceTensionMethod enumSurfaceTensionMethod::SastriRaoAcids ->  
+	enumSurfaceTensionMethod [Units]enumSurfaceTensionMethod enumSurfaceTensionMethod::SastriRaoAlcohols ->  
+
+	System.Int32 [Units]System.Int32 enumSurfaceTensionMethod::value__ skipped:  special name
+}
+
+[Units]IdealHeatCapMethod -> [Units] . 
+{
+	IdealHeatCapMethod [Units]IdealHeatCapMethod IdealHeatCapMethod::Cavett ->  
+	IdealHeatCapMethod [Units]IdealHeatCapMethod IdealHeatCapMethod::LeeKesler ->  
+	IdealHeatCapMethod [Units]IdealHeatCapMethod IdealHeatCapMethod::API ->  
+	IdealHeatCapMethod [Units]IdealHeatCapMethod IdealHeatCapMethod::RefBits ->  
+
+	System.Int32 [Units]System.Int32 IdealHeatCapMethod::value__ skipped:  special name
+}
+
+[Units]enumMassOrMolar -> [Units] . 
+{
+	enumMassOrMolar [Units]enumMassOrMolar enumMassOrMolar::Mass ->  
+	enumMassOrMolar [Units]enumMassOrMolar enumMassOrMolar::Molar ->  
+
+	System.Int32 [Units]System.Int32 enumMassOrMolar::value__ skipped:  special name
+}
+
+[Units]enumMassMolarOrVol -> [Units] .​
+{
+	enumMassMolarOrVol [Units]enumMassMolarOrVol enumMassMolarOrVol::Mass ->  
+	enumMassMolarOrVol [Units]enumMassMolarOrVol enumMassMolarOrVol::Molar ->  
+	enumMassMolarOrVol [Units]enumMassMolarOrVol enumMassMolarOrVol::Vol ->  
+
+	System.Int32 [Units]System.Int32 enumMassMolarOrVol::value__ skipped:  special name
+}
+
+[Units]enumFlowOrFraction -> [Units] .‐
+{
+	enumFlowOrFraction [Units]enumFlowOrFraction enumFlowOrFraction::Flow ->  
+	enumFlowOrFraction [Units]enumFlowOrFraction enumFlowOrFraction::Fraction ->  
+
+	System.Int32 [Units]System.Int32 enumFlowOrFraction::value__ skipped:  special name
+}
+
+[Units]enumShortMediumFull -> [Units] .‑
+{
+	enumShortMediumFull [Units]enumShortMediumFull enumShortMediumFull::Short ->  
+	enumShortMediumFull [Units]enumShortMediumFull enumShortMediumFull::Medium ->  
+	enumShortMediumFull [Units]enumShortMediumFull enumShortMediumFull::Full ->  
+
+	System.Int32 [Units]System.Int32 enumShortMediumFull::value__ skipped:  special name
+}
+
+[Units]enumFluidRegion -> [Units] .‒
+{
+	enumFluidRegion [Units]enumFluidRegion enumFluidRegion::Solid ->  
+	enumFluidRegion [Units]enumFluidRegion enumFluidRegion::Liquid ->  
+	enumFluidRegion [Units]enumFluidRegion enumFluidRegion::Vapour ->  
+	enumFluidRegion [Units]enumFluidRegion enumFluidRegion::Gaseous ->  
+	enumFluidRegion [Units]enumFluidRegion enumFluidRegion::SuperCritical ->  
+	enumFluidRegion [Units]enumFluidRegion enumFluidRegion::TwoPhase ->  
+	enumFluidRegion [Units]enumFluidRegion enumFluidRegion::Undefined ->  
+	enumFluidRegion [Units]enumFluidRegion enumFluidRegion::CompressibleLiquid ->  
+
+	System.Int32 [Units]System.Int32 enumFluidRegion::value__ skipped:  special name
+}
+
+[Units]enumFlashAlgorithm -> [Units] .–
+{
+	enumFlashAlgorithm [Units]enumFlashAlgorithm enumFlashAlgorithm::Old_RR ->  
+	enumFlashAlgorithm [Units]enumFlashAlgorithm enumFlashAlgorithm::new RR ->  
+	enumFlashAlgorithm [Units]enumFlashAlgorithm enumFlashAlgorithm::StripFact ->  
+
+	System.Int32 [Units]System.Int32 enumFlashAlgorithm::value__ skipped:  special name
+}
+
+[Units]enumPRVariation -> [Units] .—
+{
+	enumPRVariation [Units]enumPRVariation enumPRVariation::PR76 ->  
+	enumPRVariation [Units]enumPRVariation enumPRVariation::PR78 ->  
+	enumPRVariation [Units]enumPRVariation enumPRVariation::PRSV ->  
+
+	System.Int32 [Units]System.Int32 enumPRVariation::value__ skipped:  special name
+}
+
+[Units]enumPropLocation -> [Units] .―
+{
+	enumPropLocation [Units]enumPropLocation enumPropLocation::LVPCT ->  
+	enumPropLocation [Units]enumPropLocation enumPropLocation::SG ->  
+	enumPropLocation [Units]enumPropLocation enumPropLocation::VISC1 ->  
+	enumPropLocation [Units]enumPropLocation enumPropLocation::VISC2 ->  
+	enumPropLocation [Units]enumPropLocation enumPropLocation::VISC3 ->  
+	enumPropLocation [Units]enumPropLocation enumPropLocation::VISC4 ->  
+	enumPropLocation [Units]enumPropLocation enumPropLocation::VISC5 ->  
+	enumPropLocation [Units]enumPropLocation enumPropLocation::AROMATICS ->  
+	enumPropLocation [Units]enumPropLocation enumPropLocation::NAPHTHENES ->  
+	enumPropLocation [Units]enumPropLocation enumPropLocation::PARRAFINS ->  
+	enumPropLocation [Units]enumPropLocation enumPropLocation::OLEFINS ->  
+	enumPropLocation [Units]enumPropLocation enumPropLocation::NICKEL ->  
+	enumPropLocation [Units]enumPropLocation enumPropLocation::VANADIUM ->  
+
+	System.Int32 [Units]System.Int32 enumPropLocation::value__ skipped:  special name
+}
+
+[Units]enumPCTType -> [Units] .•
+{
+	enumPCTType [Units]enumPCTType enumPCTType::LV_Crude ->  
+	enumPCTType [Units]enumPCTType enumPCTType::Mass_Crude ->  
+	enumPCTType [Units]enumPCTType enumPCTType::Mol_Crude ->  
+	enumPCTType [Units]enumPCTType enumPCTType::LV_Stream ->  
+	enumPCTType [Units]enumPCTType enumPCTType::Mass_Stream ->  
+	enumPCTType [Units]enumPCTType enumPCTType::Mol_Stream ->  
+	enumPCTType [Units]enumPCTType enumPCTType::NaN ->  
+
+	System.Int32 [Units]System.Int32 enumPCTType::value__ skipped:  special name
+}
+
+[Units]enumDistType -> [Units] .․
+{
+	enumDistType [Units]enumDistType enumDistType::D86 ->  
+	enumDistType [Units]enumDistType enumDistType::D1160 ->  
+	enumDistType [Units]enumDistType enumDistType::D2887 ->  
+	enumDistType [Units]enumDistType enumDistType::TBP_WT ->  
+	enumDistType [Units]enumDistType enumDistType::TBP_VOL ->  
+	enumDistType [Units]enumDistType enumDistType::NON ->  
+
+	System.Int32 [Units]System.Int32 enumDistType::value__ skipped:  special name
+}
+
+[Units]enumDistPoint s -> [Units] .‥
+{
+	enumDistPoint s [Units]enumDistPoint s enumDistPoint s::D1 ->  
+	enumDistPoint s [Units]enumDistPoint s enumDistPoint s::D5 ->  
+	enumDistPoint s [Units]enumDistPoint s enumDistPoint s::D10 ->  
+	enumDistPoint s [Units]enumDistPoint s enumDistPoint s::D20 ->  
+	enumDistPoint s [Units]enumDistPoint s enumDistPoint s::D30 ->  
+	enumDistPoint s [Units]enumDistPoint s enumDistPoint s::D50 ->  
+	enumDistPoint s [Units]enumDistPoint s enumDistPoint s::D70 ->  
+	enumDistPoint s [Units]enumDistPoint s enumDistPoint s::D80 ->  
+	enumDistPoint s [Units]enumDistPoint s enumDistPoint s::D90 ->  
+	enumDistPoint s [Units]enumDistPoint s enumDistPoint s::D95 ->  
+	enumDistPoint s [Units]enumDistPoint s enumDistPoint s::D99 ->  
+
+	System.Int32 [Units]System.Int32 enumDistPoint s::value__ skipped:  special name
+}
+
+[Units]enumStreamType -> [Units] .‧
+{
+	enumStreamType [Units]enumStreamType enumStreamType::empty ->  
+	enumStreamType [Units]enumStreamType enumStreamType::Pure ->  
+	enumStreamType [Units]enumStreamType enumStreamType::Pseudo ->  
+	enumStreamType [Units]enumStreamType enumStreamType::Mixed ->  
+
+	System.Int32 [Units]System.Int32 enumStreamType::value__ skipped:  special name
+}
+
+[Units]enumTemp -> [Units] . 
+{
+	enumTemp [Units]enumTemp enumTemp::C ->  
+	enumTemp [Units]enumTemp enumTemp::F ->  
+	enumTemp [Units]enumTemp enumTemp::K ->  
+	enumTemp [Units]enumTemp enumTemp::R ->  
+	enumTemp [Units]enumTemp enumTemp::NON ->  
+
+	System.Int32 [Units]System.Int32 enumTemp::value__ skipped:  special name
+}
+
+[Units]enumStreamComponentType -> [Units] . 
+{
+	enumStreamComponentType [Units]enumStreamComponentType enumStreamComponentType::Pure ->  
+	enumStreamComponentType [Units]enumStreamComponentType enumStreamComponentType::Mixed ->  
+	enumStreamComponentType [Units]enumStreamComponentType enumStreamComponentType::Pseudo ->  
+	enumStreamComponentType [Units]enumStreamComponentType enumStreamComponentType::UNDF ->  
+
+	System.Int32 [Units]System.Int32 enumStreamComponentType::value__ skipped:  special name
+}
+
+[Units]PseudoMixingMethod -> [Units] .‪
+{
+	PseudoMixingMethod [Units]PseudoMixingMethod PseudoMixingMethod::Molar ->  
+
+	System.Int32 [Units]System.Int32 PseudoMixingMethod::value__ skipped:  special name
+}
+
+[Units]enumOmegaMethod -> [Units] .‫
+{
+	enumOmegaMethod [Units]enumOmegaMethod enumOmegaMethod::LeeKesler ->  
+	enumOmegaMethod [Units]enumOmegaMethod enumOmegaMethod::Edmister ->  
+	enumOmegaMethod [Units]enumOmegaMethod enumOmegaMethod::Cavett ->  
+
+	System.Int32 [Units]System.Int32 enumOmegaMethod::value__ skipped:  special name
+}
+
+[Units]enumCritTMethod -> [Units] .‬
+{
+	enumCritTMethod [Units]enumCritTMethod enumCritTMethod::LeeKesler ->  
+	enumCritTMethod [Units]enumCritTMethod enumCritTMethod::RiaziDaubert1 ->  
+	enumCritTMethod [Units]enumCritTMethod enumCritTMethod::RiaziDaubert2 ->  
+	enumCritTMethod [Units]enumCritTMethod enumCritTMethod::RiaziDaubert3 ->  
+	enumCritTMethod [Units]enumCritTMethod enumCritTMethod::Vetere ->  
+	enumCritTMethod [Units]enumCritTMethod enumCritTMethod::TWU ->  
+
+	System.Int32 [Units]System.Int32 enumCritTMethod::value__ skipped:  special name
+}
+
+[Units]enumCritPMethod -> [Units] .‭
+{
+	enumCritPMethod [Units]enumCritPMethod enumCritPMethod::LeeKesler ->  
+	enumCritPMethod [Units]enumCritPMethod enumCritPMethod::RiaziDaubert0 ->  
+	enumCritPMethod [Units]enumCritPMethod enumCritPMethod::RiaziDaubert1 ->  
+	enumCritPMethod [Units]enumCritPMethod enumCritPMethod::RiaziDaubert2 ->  
+	enumCritPMethod [Units]enumCritPMethod enumCritPMethod::Vetere ->  
+	enumCritPMethod [Units]enumCritPMethod enumCritPMethod::TWU ->  
+
+	System.Int32 [Units]System.Int32 enumCritPMethod::value__ skipped:  special name
+}
+
+[Units]enumCritZMethod -> [Units] .‮
+{
+	enumCritZMethod [Units]enumCritZMethod enumCritZMethod::LeeKesler ->  
+
+	System.Int32 [Units]System.Int32 enumCritZMethod::value__ skipped:  special name
+}
+
+[Units]enumCritVMethod -> [Units] . 
+{
+	enumCritVMethod [Units]enumCritVMethod enumCritVMethod::LeeKesler ->  
+
+	System.Int32 [Units]System.Int32 enumCritVMethod::value__ skipped:  special name
+}
+
+[Units]enumMW_Method -> [Units] .′
+{
+	enumMW_Method [Units]enumMW_Method enumMW_Method::RiaziDaubert ->  
+	enumMW_Method [Units]enumMW_Method enumMW_Method::LeeKesler ->  
+	enumMW_Method [Units]enumMW_Method enumMW_Method::TWU ->  
+
+	System.Int32 [Units]System.Int32 enumMW_Method::value__ skipped:  special name
+}
+
+[Units]enumHeatVapMethod -> [Units] .‵
+{
+	enumHeatVapMethod [Units]enumHeatVapMethod enumHeatVapMethod::Vetere79 ->  
+	enumHeatVapMethod [Units]enumHeatVapMethod enumHeatVapMethod::Mehmendoust ->  
+
+	System.Int32 [Units]System.Int32 enumHeatVapMethod::value__ skipped:  special name
+}
+
+[Units]enumAssayType -> [Units] .″
+{
+	enumAssayType [Units]enumAssayType enumAssayType::Assay ->  
+	enumAssayType [Units]enumAssayType enumAssayType::MultipleStream ->  
+	enumAssayType [Units]enumAssayType enumAssayType::SingleStream ->  
+
+	System.Int32 [Units]System.Int32 enumAssayType::value__ skipped:  special name
+}
+
+[Units]enumBIPPredMethod -> [Units] .‶
+{
+	enumBIPPredMethod [Units]enumBIPPredMethod enumBIPPredMethod::Nishiumi1988 ->  
+	enumBIPPredMethod [Units]enumBIPPredMethod enumBIPPredMethod::ValdReyes ->  
+	enumBIPPredMethod [Units]enumBIPPredMethod enumBIPPredMethod::Elnabawy ->  
+	enumBIPPredMethod [Units]enumBIPPredMethod enumBIPPredMethod::Tsonopoulos ->  
+	enumBIPPredMethod [Units]enumBIPPredMethod enumBIPPredMethod::PPR78 ->  
+	enumBIPPredMethod [Units]enumBIPPredMethod enumBIPPredMethod::Benedeck ->  
+	enumBIPPredMethod [Units]enumBIPPredMethod enumBIPPredMethod::ChuePrausnitz ->  
+
+	System.Int32 [Units]System.Int32 enumBIPPredMethod::value__ skipped:  special name
+}
+
+[Units]EnumQuasiType -> [Units] .‾
+{
+	EnumQuasiType [Units]EnumQuasiType EnumQuasiType::Type1 ->  
+	EnumQuasiType [Units]EnumQuasiType EnumQuasiType::Type2 ->  
+
+	System.Int32 [Units]System.Int32 EnumQuasiType::value__ skipped:  special name
+}
+
+[Units]enumAssayPCProperty -> [Units] .⁇
+{
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::ANILINEPOint  ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::API ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::DENSITY15 ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::SG ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::MW ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::RI ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::BASICNITROGEN ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::TOTALNITROGEN ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::FREEZEPOint  ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::POURPOint  ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::CLOUDPOint  ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::CETANEINDEX ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::CONCARBON ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::MICROCARBONRESIDUE -> ​
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::RAMSBOTTOMCARBON -> ‐
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C7ASPHALTENES -> ‑
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::CTOHRATIO -> ‒
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::SULFUR -> –
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::MERCAPTANSULFUR -> —
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::MONC -> ―
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::RONC -> •
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::MONL -> ․
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::RONL -> ‥
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::PARAFFINS -> ‧
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::ISOPARAFFINS ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::NAPHTHENES ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::AROMATICS -> ‪
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::NAPHTHALENES -> ‫
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::OLEFINS -> ‬
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::NICKEL -> ‭
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::SODIUM -> ‮
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::VANADIUM ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::IRON -> ′
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::CUFE -> ‵
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::SATURATEDRINGS -> ″
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::TBPCUTPOint  -> ‶
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::T2C4E -> ‾
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::TOTALACIDNUMER -> ⁇
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::TVP -> ⁈
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::VIS20 -> ⁉
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::VIS40 -> ⁊
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::VIS50 -> ⁋
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::VIS60 -> ⁌
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::VIS100 -> ⁍
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::VIS130 -> ⁎
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::WAX -> ⁏
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::IBP -> ⁐
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::BP1 -> ⁑
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::BP5 -> ⁒
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::BP10 -> ⁓
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::BP20 -> ⁔
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::BP30 -> ⁕
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::BP40 -> ⁖
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::BP50 -> ⁗
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::BP60 -> ⁘
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::BP70 -> ⁙
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::BP80 -> ⁚
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::BP90 -> ⁛
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::BP95 -> ⁜
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::BP99 -> ⁝
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::FBP -> ⁞
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::H2 ->  
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::O2 -> ⁠
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::CO -> ⁡
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::CO2 -> ⁢
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::N2 -> ⁣
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::NITROGEN -> ⁤
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::NC4 -> ⁪
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::NC5 -> ⁫
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::H2S -> ⁬
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::HYDROGEN -> ⁭
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::PENT1 -> ⁮
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::IC4 -> ⁯
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::IC4E -> 　
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::IC5 ->   
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::IC5E ->   
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::BUT1 ->   
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::BUT13 ->   
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C1 ->   
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C10A ->   
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C10IP ->   
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C10N ->   
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C10NP ->   
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C10O ->   
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C10P ->   
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C11A ->   
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C11IP ->   
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C11N ->  ​
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C11NP ->  ‐
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C11O ->  ‑
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C11P ->  ‒
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C2 ->  –
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C2C4E ->  —
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C2E ->  ―
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C3 ->  •
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C3E ->  ․
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C6A ->  ‥
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C6IP ->  ‧
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C6N ->   
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C6NP ->   
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C6O ->  ‪
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C6P ->  ‫
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C7A ->  ‬
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C7IP ->  ‭
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C7N ->  ‮
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C7NP ->   
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C7O ->  ′
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C7P ->  ‵
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C8A ->  ″
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C8IP ->  ‶
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C8N ->  ‾
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C8NP ->  ⁇
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C8O ->  ⁈
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C8P ->  ⁉
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C9A ->  ⁊
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C9IP ->  ⁋
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C9N ->  ⁌
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C9NP ->  ⁍
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C9O ->  ⁎
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::C9P ->  ⁏
+	enumAssayPCProperty [Units]enumAssayPCProperty enumAssayPCProperty::CC5 ->  ⁐
+
+	System.Int32 [Units]System.Int32 enumAssayPCProperty::value__ skipped:  special name
+}
+
+[Units]enumCommonPureComps -> [Units] .⁈
+{
+	enumCommonPureComps [Units]enumCommonPureComps enumCommonPureComps::H2 ->  
+	enumCommonPureComps [Units]enumCommonPureComps enumCommonPureComps::N2 ->  
+	enumCommonPureComps [Units]enumCommonPureComps enumCommonPureComps::O2 ->  
+	enumCommonPureComps [Units]enumCommonPureComps enumCommonPureComps::CO ->  
+	enumCommonPureComps [Units]enumCommonPureComps enumCommonPureComps::CO2 ->  
+	enumCommonPureComps [Units]enumCommonPureComps enumCommonPureComps::H2S ->  
+	enumCommonPureComps [Units]enumCommonPureComps enumCommonPureComps::C1 ->  
+	enumCommonPureComps [Units]enumCommonPureComps enumCommonPureComps::C2 ->  
+	enumCommonPureComps [Units]enumCommonPureComps enumCommonPureComps::C3 ->  
+	enumCommonPureComps [Units]enumCommonPureComps enumCommonPureComps::iC4 ->  
+	enumCommonPureComps [Units]enumCommonPureComps enumCommonPureComps::nC4 ->  
+	enumCommonPureComps [Units]enumCommonPureComps enumCommonPureComps::iC5 ->  
+	enumCommonPureComps [Units]enumCommonPureComps enumCommonPureComps::nC5 ->  
+
+	System.Int32 [Units]System.Int32 enumCommonPureComps::value__ skipped:  special name
+}
+
+[Units]enumMassVolMol -> [Units] .⁉
+{
+	enumMassVolMol [Units]enumMassVolMol enumMassVolMol::Wt_PCT ->  
+	enumMassVolMol [Units]enumMassVolMol enumMassVolMol::Vol_PCT ->  
+	enumMassVolMol [Units]enumMassVolMol enumMassVolMol::Mol_PCT ->  
+	enumMassVolMol [Units]enumMassVolMol enumMassVolMol::UNDF ->  
+
+	System.Int32 [Units]System.Int32 enumMassVolMol::value__ skipped:  special name
+}
+
+[Units]CharacterisationBasis -> [Units] .⁋
+{
+
+	[Units]CharacterisationBasis::.ctor[0]( ) skipped:  special name
+	[Units]CharacterisationBasis::.cctor[0]( ) skipped:  special name
+
+	enumOmegaMethod [Units]enumOmegaMethod CharacterisationBasis::omegaMethod ->  
+	enumCritTMethod [Units]enumCritTMethod CharacterisationBasis::critTMethod ->  
+	enumCritPMethod [Units]enumCritPMethod CharacterisationBasis::critPMethod ->  
+}
+
+[Units]Global -> [Units] .⁌
+{
+	[Units]Global::BRangeM[0]( ) ->  
+	[Units]Global::MidBPt[1]( [System.Runtime]System.Int32 ) ->  
+	[Units]Global::PCIndex[1]( [System.Runtime]System.double  ) ->  
+	[Units]Global::fract[2]( [System.Runtime]System.Int32, [System.Runtime]System.double  ) ->  
+
+	[Units]Global::.ctor[0]( ) skipped:  special name
+	[Units]Global::.cctor[0]( ) skipped:  special name
+
+	System.Int32[] [Units]System.Int32[] Global::lvpct_standard ->  
+	System.double [] [Units]System.double [] Global::lv1 ->  
+	System.bool ean [Units]System.bool ean Global::DeductHForm25 ->  
+	System.double [] [Units]System.double [] Global::BRangeL ->  
+	System.double [] [Units]System.double [] Global::BRangeU ->  
+}
+
+[Units]UnitExtension -> [Units] .⁍
+{
+	[Units]UnitExtension::GetDescription[1]( !0 ) ->  
+	[Units]UnitExtension::Temperature todouble [1]( [Units]Temperature [][] ) ->  
+	[Units]UnitExtension::Temperature Todouble [1]( [Units]Temperature [] ) ->  
+	[Units]UnitExtension::Temperature Todouble List[1]( [Units]Temperature [] ) ->  
+	[Units]UnitExtension::double ToTemperature [1]( [System.Runtime]System.double [][] ) ->  
+	[Units]UnitExtension::AlmostEquals[3]( [System.Runtime]System.double , [System.Runtime]System.double , [System.Runtime]System.double  ) ->  
+	[Units]UnitExtension::DegKtodouble [1]( [Units]Temperature [][] ) ->  
+	[Units]UnitExtension::DegKtodouble [1]( [Units]Temperature [] ) ->  
+	[Units]UnitExtension::double ToDegK[1]( [System.Runtime]System.double [][] ) ->  
+	[Units]UnitExtension::DegKtoDegC[1]( [Units]Temperature [][] ) ->  
+	[Units]UnitExtension::DegCtoDegK[1]( [Units]Temperature [] ) ->  
+	[Units]UnitExtension::DegKtoDoublr[1]( [Units]Temperature [][] ) ->  
+	[Units]UnitExtension::DegCtoDegK[1]( [Units]Temperature [][] ) ->  
+	[Units]UnitExtension::DegCtodouble [1]( [Units]Temperature [][] ) ->  
+
+	System.double  [Units]System.double  UnitExtension::double _EPSILON ->  
+}
+
+[Units]DeltaPressureUnit -> [Units] .⁎
+{
+	DeltaPressureUnit [Units]DeltaPressureUnit DeltaPressureUnit::BarA ->  
+	DeltaPressureUnit [Units]DeltaPressureUnit DeltaPressureUnit::MPa ->  
+	DeltaPressureUnit [Units]DeltaPressureUnit DeltaPressureUnit::KPa ->  
+	DeltaPressureUnit [Units]DeltaPressureUnit DeltaPressureUnit::MMHga ->  
+	DeltaPressureUnit [Units]DeltaPressureUnit DeltaPressureUnit::PSI ->  
+
+	System.Int32 [Units]System.Int32 DeltaPressureUnit::value__ skipped:  special name
+}
+
+[Units]DeltaTemperatureUnit -> [Units] .⁏
+{
+	DeltaTemperatureUnit [Units]DeltaTemperatureUnit DeltaTemperatureUnit::Kelvin ->  
+	DeltaTemperatureUnit [Units]DeltaTemperatureUnit DeltaTemperatureUnit::Celsius ->  
+	DeltaTemperatureUnit [Units]DeltaTemperatureUnit DeltaTemperatureUnit::Fahrenheit ->  
+	DeltaTemperatureUnit [Units]DeltaTemperatureUnit DeltaTemperatureUnit::Rankine ->  
+
+	System.Int32 [Units]System.Int32 DeltaTemperatureUnit::value__ skipped:  special name
+}
+
+[Units]DensityUnit -> [Units] .⁐
+{
+	DensityUnit [Units]DensityUnit DensityUnit::kg_m3 ->  
+	DensityUnit [Units]DensityUnit DensityUnit::SG ->  
+
+	System.Int32 [Units]System.Int32 DensityUnit::value__ skipped:  special name
+}
+
+[Units]EnergyFlowUnit -> [Units] .⁑
+{
+	EnergyFlowUnit [Units]EnergyFlowUnit EnergyFlowUnit::kW ->  
+	EnergyFlowUnit [Units]EnergyFlowUnit EnergyFlowUnit::MW ->  
+	EnergyFlowUnit [Units]EnergyFlowUnit EnergyFlowUnit::kJ_s ->  
+	EnergyFlowUnit [Units]EnergyFlowUnit EnergyFlowUnit::kJ_hr ->  
+	EnergyFlowUnit [Units]EnergyFlowUnit EnergyFlowUnit::BTU_hr ->  
+
+	System.Int32 [Units]System.Int32 EnergyFlowUnit::value__ skipped:  special name
+}
+
+[Units]EntropyUnit -> [Units] .⁒
+{
+	EntropyUnit [Units]EntropyUnit EntropyUnit::J_mole_K ->  
+
+	System.Int32 [Units]System.Int32 EntropyUnit::value__ skipped:  special name
+}
+
+[Units]GibbsUnit -> [Units] .⁓
+{
+	GibbsUnit [Units]GibbsUnit GibbsUnit::J_mole ->  
+	GibbsUnit [Units]GibbsUnit GibbsUnit::kJ_kgmole ->  
+
+	System.Int32 [Units]System.Int32 GibbsUnit::value__ skipped:  special name
+}
+
+[Units]HelmotzUnit -> [Units] .⁔
+{
+	HelmotzUnit [Units]HelmotzUnit HelmotzUnit::kJ_kgmole ->  
+	HelmotzUnit [Units]HelmotzUnit HelmotzUnit::J_mole ->  
+
+	System.Int32 [Units]System.Int32 HelmotzUnit::value__ skipped:  special name
+}
+
+[Units]internalEnergyUnit -> [Units] .⁕
+{
+	internalEnergyUnit [Units]internalEnergyUnit internalEnergyUnit::kJ_kgmole ->  
+	internalEnergyUnit [Units]internalEnergyUnit internalEnergyUnit::J_mole ->  
+
+	System.Int32 [Units]System.Int32 internalEnergyUnit::value__ skipped:  special name
+}
+
+[Units]LengthUnit -> [Units] .⁗
+{
+	LengthUnit [Units]LengthUnit LengthUnit::m ->  
+	LengthUnit [Units]LengthUnit LengthUnit::cm ->  
+	LengthUnit [Units]LengthUnit LengthUnit::mm ->  
+
+	System.Int32 [Units]System.Int32 LengthUnit::value__ skipped:  special name
+}
+
+[Units]MassUnits -> [Units] .⁘
+{
+	MassUnits [Units]MassUnits MassUnits::te ->  
+	MassUnits [Units]MassUnits MassUnits::kg ->  
+	MassUnits [Units]MassUnits MassUnits::g ->  
+	MassUnits [Units]MassUnits MassUnits::lbs ->  
+
+	System.Int32 [Units]System.Int32 MassUnits::value__ skipped:  special name
+}
+
+[Units]MassHeatCapacityUnit -> [Units] .⁙
+{
+	MassHeatCapacityUnit [Units]MassHeatCapacityUnit MassHeatCapacityUnit::kJ_kg_C ->  
+	MassHeatCapacityUnit [Units]MassHeatCapacityUnit MassHeatCapacityUnit::J_g_C ->  
+
+	System.Int32 [Units]System.Int32 MassHeatCapacityUnit::value__ skipped:  special name
+}
+
+[Units]MassEnthalpyUnit -> [Units] .⁚
+{
+	MassEnthalpyUnit [Units]MassEnthalpyUnit MassEnthalpyUnit::kJ_kg ->  
+	MassEnthalpyUnit [Units]MassEnthalpyUnit MassEnthalpyUnit::J_g ->  
+
+	System.Int32 [Units]System.Int32 MassEnthalpyUnit::value__ skipped:  special name
+}
+
+[Units]MassEntropyUnit -> [Units] .⁛
+{
+	MassEntropyUnit [Units]MassEntropyUnit MassEntropyUnit::J_K ->  
+	MassEntropyUnit [Units]MassEntropyUnit MassEntropyUnit::kJ_K ->  
+
+	System.Int32 [Units]System.Int32 MassEntropyUnit::value__ skipped:  special name
+}
+
+[Units]MassFlowUnit -> [Units] .⁜
+{
+	MassFlowUnit [Units]MassFlowUnit MassFlowUnit::kg_hr ->  
+	MassFlowUnit [Units]MassFlowUnit MassFlowUnit::kg_s ->  
+	MassFlowUnit [Units]MassFlowUnit MassFlowUnit::te_d ->  
+	MassFlowUnit [Units]MassFlowUnit MassFlowUnit::te_hr ->  
+	MassFlowUnit [Units]MassFlowUnit MassFlowUnit::lbs_hr ->  
+
+	System.Int32 [Units]System.Int32 MassFlowUnit::value__ skipped:  special name
+}
+
+[Units]MassHelmotzUnit -> [Units] .⁝
+{
+	MassHelmotzUnit [Units]MassHelmotzUnit MassHelmotzUnit::kJ_kg ->  
+	MassHelmotzUnit [Units]MassHelmotzUnit MassHelmotzUnit::J_g ->  
+
+	System.Int32 [Units]System.Int32 MassHelmotzUnit::value__ skipped:  special name
+}
+
+[Units]HeatCapacityUnit -> [Units] .⁞
+{
+	HeatCapacityUnit [Units]HeatCapacityUnit HeatCapacityUnit::kJ_kgmole_C ->  
+	HeatCapacityUnit [Units]HeatCapacityUnit HeatCapacityUnit::J_mole_C ->  
+
+	System.Int32 [Units]System.Int32 HeatCapacityUnit::value__ skipped:  special name
+}
+
+[Units]EnthalpyUnit -> [Units] . 
+{
+	EnthalpyUnit [Units]EnthalpyUnit EnthalpyUnit::kJ_kgmole ->  
+	EnthalpyUnit [Units]EnthalpyUnit EnthalpyUnit::J_mole ->  
+
+	System.Int32 [Units]System.Int32 EnthalpyUnit::value__ skipped:  special name
+}
+
+[Units]MoleFlowUnit -> [Units] .⁠
+{
+	MoleFlowUnit [Units]MoleFlowUnit MoleFlowUnit::kgmol_hr ->  
+	MoleFlowUnit [Units]MoleFlowUnit MoleFlowUnit::kgmol_s ->  
+	MoleFlowUnit [Units]MoleFlowUnit MoleFlowUnit::lb_moles_hr ->  
+
+	System.Int32 [Units]System.Int32 MoleFlowUnit::value__ skipped:  special name
+}
+
+[Units]NullUnits -> [Units] .⁡
+{
+	NullUnits [Units]NullUnits NullUnits::None ->  
+	NullUnits [Units]NullUnits NullUnits::pct ->  
+
+	System.Int32 [Units]System.Int32 NullUnits::value__ skipped:  special name
+}
+
+[Units]PressureUnit -> [Units] .⁢
+{
+	PressureUnit [Units]PressureUnit PressureUnit::BarA ->  
+	PressureUnit [Units]PressureUnit PressureUnit::MPa ->  
+	PressureUnit [Units]PressureUnit PressureUnit::KPa ->  
+	PressureUnit [Units]PressureUnit PressureUnit::MMHga ->  
+	PressureUnit [Units]PressureUnit PressureUnit::PSIA ->  
+	PressureUnit [Units]PressureUnit PressureUnit::BarG ->  
+	PressureUnit [Units]PressureUnit PressureUnit::MPaG ->  
+	PressureUnit [Units]PressureUnit PressureUnit::KPaG ->  
+	PressureUnit [Units]PressureUnit PressureUnit::MMHgG ->  
+	PressureUnit [Units]PressureUnit PressureUnit::PSIG ->  
+	PressureUnit [Units]PressureUnit PressureUnit::Kg_cm2_g ->  
+	PressureUnit [Units]PressureUnit PressureUnit::Kg_cm2 ->  
+
+	System.Int32 [Units]System.Int32 PressureUnit::value__ skipped:  special name
+}
+
+[Units]QualityUnit -> [Units] .⁣
+{
+	QualityUnit [Units]QualityUnit QualityUnit::Quality  ->  
+
+	System.Int32 [Units]System.Int32 QualityUnit::value__ skipped:  special name
+}
+
+[Units]SpecificEnergyUnit -> [Units] .⁤
+{
+	SpecificEnergyUnit [Units]SpecificEnergyUnit SpecificEnergyUnit::kj_kg ->  
+
+	System.Int32 [Units]System.Int32 SpecificEnergyUnit::value__ skipped:  special name
+}
+
+[Units]SpecificVolumeUnit -> [Units] .⁪
+{
+	SpecificVolumeUnit [Units]SpecificVolumeUnit SpecificVolumeUnit::m3_kg ->  
+
+	System.Int32 [Units]System.Int32 SpecificVolumeUnit::value__ skipped:  special name
+}
+
+[Units]TemperatureUnit -> [Units] .⁫
+{
+	TemperatureUnit [Units]TemperatureUnit TemperatureUnit::Kelvin ->  
+	TemperatureUnit [Units]TemperatureUnit TemperatureUnit::Celsius ->  
+	TemperatureUnit [Units]TemperatureUnit TemperatureUnit::Fahrenheit ->  
+	TemperatureUnit [Units]TemperatureUnit TemperatureUnit::Rankine ->  
+
+	System.Int32 [Units]System.Int32 TemperatureUnit::value__ skipped:  special name
+}
+
+[Units]UAUnit -> [Units] .⁬
+{
+	UAUnit [Units]UAUnit UAUnit::kW_C ->  
+
+	System.Int32 [Units]System.Int32 UAUnit::value__ skipped:  special name
+}
+
+[Units]VolFlowUnit -> [Units] .⁭
+{
+	VolFlowUnit [Units]VolFlowUnit VolFlowUnit::m3_hr ->  
+	VolFlowUnit [Units]VolFlowUnit VolFlowUnit::m3_s ->  
+	VolFlowUnit [Units]VolFlowUnit VolFlowUnit::kbpd ->  
+	VolFlowUnit [Units]VolFlowUnit VolFlowUnit::bpd ->  
+	VolFlowUnit [Units]VolFlowUnit VolFlowUnit::bphr ->  
+
+	System.Int32 [Units]System.Int32 VolFlowUnit::value__ skipped:  special name
+}
+
+[Units]Units.ePropID  -> [Units] .⁮
+{
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::NullUnits ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::T ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::P ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::H ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::S ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Z ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::F ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::MOLEF ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::MF ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::VF ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Q ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::SG ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Density ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::FUG -> ​
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::DeltaP -> ‐
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::SG_ACT -> ‑
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::VolFlow_ACT -> ‒
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Density_ACT -> –
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::DeltaT -> —
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::EnergyFlow -> ―
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::LiquidVolumeFlow -> •
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Mass -> ․
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::LHV -> ‥
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::SpecificVolume -> ‧
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::DynViscosity ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::ElectricalFlow ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Fueloil -> ‪
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::HeatFlowRate -> ‫
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::HeatFlux -> ‬
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::KinViscosity -> ‭
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Length -> ‮
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::LiquidVolume ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Luminance -> ′
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::MolarSpecificEnergy -> ‵
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::SpecificEnergy -> ″
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::SurfaceTension -> ‶
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::ThermalConductivity -> ‾
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Time -> ⁇
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::VapourVolume -> ⁈
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::VapourVolumeFlow -> ⁉
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Velocity -> ⁊
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Voltage -> ⁋
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::VolumeRatio -> ⁌
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::VolumeSpecificEnergy -> ⁍
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::MassEnthalpy -> ⁎
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::MassEntropy -> ⁏
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::EnergyPrice -> ⁐
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::MassPrice -> ⁑
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Quality  -> ⁒
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Percentage -> ⁓
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Area  -> ⁔
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::HeatTransferResistace -> ⁕
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::MolarHeatCapacity -> ⁖
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::MassCp -> ⁗
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::UA -> ⁘
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Value -> ⁙
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Components -> ⁚
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::HForm25 -> ⁛
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Gibbs -> ⁜
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Entropyf25 -> ⁝
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Gibbsf25 -> ⁞
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::U ->  
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::A -> ⁠
+	Units.ePropID  [Units]Units.ePropID  Units.ePropID ::Error -> ⁡
+
+	System.Int32 [Units]System.Int32 Units.ePropID ::value__ skipped:  special name
+}
+
+[Units]Units.Temperature class  -> [Units] . 
+{
+
+	[Units]Units.Temperature class ::.ctor[0]( ) skipped:  special name
+
+	Temperature  [Units]Temperature  Units.Temperature class ::T ->  
+}
+
+[Units]Units.DisplayUnits -> [Units] . 
+{
+
+	[Units]Units.DisplayUnits::.ctor[0]( ) skipped:  special name
+
+	System.Collections.Generic.Dictionary`2<Units.ePropID ,System.string > [Units]System.Collections.Generic.Dictionary`2<Units.ePropID ,System.string > Units.DisplayUnits::UnitsDict ->  
+}
+
+[Units]Units.UOMDisplayList -> [Units] . 
+{
+	[Units]Units.UOMDisplayList::DisplayUnit[1]( [Units]Units.ePropID  ) ->  
+	[Units]Units.UOMDisplayList::System.Runtime.Serialization.ISerializable.GetObjectData[2]( [System.Runtime]System.Runtime.Serialization.SerializationInfo, [System.Runtime]System.Runtime.Serialization.StreamingContext ) ->  
+
+	[Units]Units.UOMDisplayList::.ctor[2]( [System.Runtime]System.Runtime.Serialization.SerializationInfo, [System.Runtime]System.Runtime.Serialization.StreamingContext ) skipped:  special name
+	[Units]Units.UOMDisplayList::.ctor[0]( ) skipped:  special name
+
+	TemperatureUnit [Units]TemperatureUnit Units.UOMDisplayList::T ->  
+	PressureUnit [Units]PressureUnit Units.UOMDisplayList::P ->  
+	MassFlowUnit [Units]MassFlowUnit Units.UOMDisplayList::MF ->  
+	VolFlowUnit [Units]VolFlowUnit Units.UOMDisplayList::VF ->  
+	MoleFlowUnit [Units]MoleFlowUnit Units.UOMDisplayList::MoleF ->  
+	EnthalpyUnit [Units]EnthalpyUnit Units.UOMDisplayList::H ->  
+	EntropyUnit [Units]EntropyUnit Units.UOMDisplayList::S ->  
+	QualityUnit [Units]QualityUnit Units.UOMDisplayList::Q ->  
+}
+
+[Units]<private ImplementationDetails> -> [Units] . 
+{
+	<private ImplementationDetails>/__StaticArrayInitTypeSize=88 [Units]<private ImplementationDetails>/__StaticArrayInitTypeSize=88 <private ImplementationDetails>::926F74E1DB9F3FDD4ED569DE42D7BE4E393B75295A6503F615C47414667FBE9F ->  
+	<private ImplementationDetails>/__StaticArrayInitTypeSize=600 [Units]<private ImplementationDetails>/__StaticArrayInitTypeSize=600 <private ImplementationDetails>::B9D692ACC3B89E9B4E4100285100D12C8C3B616EB2A8B88C9A3019A0FB6FAACA ->  
+	<private ImplementationDetails>/__StaticArrayInitTypeSize=44 [Units]<private ImplementationDetails>/__StaticArrayInitTypeSize=44 <private ImplementationDetails>::D053D7167B63CBE551555E53A1425A00A86ED84D552225A281792843B22E96A1 ->  
+	<private ImplementationDetails>/__StaticArrayInitTypeSize=600 [Units]<private ImplementationDetails>/__StaticArrayInitTypeSize=600 <private ImplementationDetails>::E14D9CC933F26149A76BD8A63FA92351F13BDA27A534C57B36CFA9537537B948 ->  
+}
+
+[Units]ThermoDynamicOptions -> [Units] . 
+{
+	[Units]ThermoDynamicOptions::get_PSat[0]( ) ->  
+	[Units]ThermoDynamicOptions::set_PSat[1]( [Units]enumVapPressure  ) ->  
+	[Units]ThermoDynamicOptions::get_Enthalpy[0]( ) ->  
+	[Units]ThermoDynamicOptions::set_Enthalpy[1]( [Units]enumEnthalpy ) ->  
+	[Units]ThermoDynamicOptions::get_Density[0]( ) ->  
+	[Units]ThermoDynamicOptions::set_Density[1]( [Units]enumDensity ) ->  
+	[Units]ThermoDynamicOptions::get_KMethod[0]( ) ->  
+	[Units]ThermoDynamicOptions::set_KMethod[1]( [Units]enumEquiKMethod ) ->  
+	[Units]ThermoDynamicOptions::get_SurfaceTensionMethod[0]( ) ->  
+	[Units]ThermoDynamicOptions::set_SurfaceTensionMethod[1]( [Units]enumSurfaceTensionMethod ) ->  
+	[Units]ThermoDynamicOptions::get_ThermcondMethod[0]( ) ->  
+	[Units]ThermoDynamicOptions::set_ThermcondMethod[1]( [Units]enumThermalConductivity ) ->  
+	[Units]ThermoDynamicOptions::get_ViscLiqMethod[0]( ) ->  
+	[Units]ThermoDynamicOptions::set_ViscLiqMethod[1]( [Units]enumViscLiqMethod ) ->  
+	[Units]ThermoDynamicOptions::get_ViscVapMethod[0]( ) ->  
+	[Units]ThermoDynamicOptions::set_ViscVapMethod[1]( [Units]enumViscVapMethod ) ->  
+	[Units]ThermoDynamicOptions::get_OmegaMethod[0]( ) ->  
+	[Units]ThermoDynamicOptions::set_OmegaMethod[1]( [Units]enumOmegaMethod ) ->  
+	[Units]ThermoDynamicOptions::get_CritTMethod[0]( ) ->  
+	[Units]ThermoDynamicOptions::set_CritTMethod[1]( [Units]enumCritTMethod ) ->  
+	[Units]ThermoDynamicOptions::get_CritPMethod[0]( ) ->  
+	[Units]ThermoDynamicOptions::set_CritPMethod[1]( [Units]enumCritPMethod ) ->  
+	[Units]ThermoDynamicOptions::get_MW_Method[0]( ) ->  
+	[Units]ThermoDynamicOptions::set_MW_Method[1]( [Units]enumMW_Method ) ->  
+	[Units]ThermoDynamicOptions::get_CritZMethod[0]( ) ->  
+	[Units]ThermoDynamicOptions::set_CritZMethod[1]( [Units]enumCritZMethod ) ->  
+	[Units]ThermoDynamicOptions::get_CritVMethod[0]( ) -> ​
+	[Units]ThermoDynamicOptions::set_CritVMethod[1]( [Units]enumCritVMethod ) ->  
+	[Units]ThermoDynamicOptions::get_BIPMethod[0]( ) -> ‐
+	[Units]ThermoDynamicOptions::set_BIPMethod[1]( [Units]enumBIPPredMethod ) ->  
+	[Units]ThermoDynamicOptions::GetObjectData[2]( [System.Runtime]System.Runtime.Serialization.SerializationInfo, [System.Runtime]System.Runtime.Serialization.StreamingContext ) ->  
+
+	[Units]ThermoDynamicOptions::.ctor[0]( ) skipped:  special name
+	[Units]ThermoDynamicOptions::.ctor[2]( [System.Runtime]System.Runtime.Serialization.SerializationInfo, [System.Runtime]System.Runtime.Serialization.StreamingContext ) skipped:  special name
+
+	System.bool ean [Units]System.bool ean ThermoDynamicOptions::UseBIPs ->  
+	enumVapPressure  [Units]enumVapPressure  ThermoDynamicOptions::pSat ->  
+	enumEnthalpy [Units]enumEnthalpy ThermoDynamicOptions::EnthalpyMethod ->  
+	enumDensity [Units]enumDensity ThermoDynamicOptions::DensityMethod ->  
+	enumViscLiqMethod [Units]enumViscLiqMethod ThermoDynamicOptions::viscliqMethod ->  
+	enumViscVapMethod [Units]enumViscVapMethod ThermoDynamicOptions::viscvapMethod ->  
+	enumThermalConductivity [Units]enumThermalConductivity ThermoDynamicOptions::thermcondMethod ->  
+	enumSurfaceTensionMethod [Units]enumSurfaceTensionMethod ThermoDynamicOptions::surftenMethod ->  
+	enumEquiKMethod [Units]enumEquiKMethod ThermoDynamicOptions::EquilKMethod ->  
+	enumOmegaMethod [Units]enumOmegaMethod ThermoDynamicOptions::omegaMethod ->  
+	enumCritTMethod [Units]enumCritTMethod ThermoDynamicOptions::critTMethod ->  
+	enumCritPMethod [Units]enumCritPMethod ThermoDynamicOptions::critPMEthod ->  
+	enumCritZMethod [Units]enumCritZMethod ThermoDynamicOptions::critZMethod ->  
+	enumCritVMethod [Units]enumCritVMethod ThermoDynamicOptions::critVMethod ->  
+	enumBIPPredMethod [Units]enumBIPPredMethod ThermoDynamicOptions::bIPMethod ->  
+	enumMW_Method [Units]enumMW_Method ThermoDynamicOptions::mw_Method ->  
+
+	enumVapPressure  [Units]enumVapPressure  ThermoDynamicOptions::PSat ->  
+	enumEnthalpy [Units]enumEnthalpy ThermoDynamicOptions::Enthalpy ->  
+	enumDensity [Units]enumDensity ThermoDynamicOptions::Density -> dropped
+	enumEquiKMethod [Units]enumEquiKMethod ThermoDynamicOptions::KMethod -> dropped
+	enumSurfaceTensionMethod [Units]enumSurfaceTensionMethod ThermoDynamicOptions::SurfaceTensionMethod -> dropped
+	enumThermalConductivity [Units]enumThermalConductivity ThermoDynamicOptions::ThermcondMethod -> dropped
+	enumViscLiqMethod [Units]enumViscLiqMethod ThermoDynamicOptions::ViscLiqMethod -> dropped
+	enumViscVapMethod [Units]enumViscVapMethod ThermoDynamicOptions::ViscVapMethod -> dropped
+	enumOmegaMethod [Units]enumOmegaMethod ThermoDynamicOptions::OmegaMethod -> dropped
+	enumCritTMethod [Units]enumCritTMethod ThermoDynamicOptions::CritTMethod -> dropped
+	enumCritPMethod [Units]enumCritPMethod ThermoDynamicOptions::CritPMethod -> dropped
+	enumMW_Method [Units]enumMW_Method ThermoDynamicOptions::MW_Method -> dropped
+	enumCritZMethod [Units]enumCritZMethod ThermoDynamicOptions::CritZMethod -> dropped
+	enumCritVMethod [Units]enumCritVMethod ThermoDynamicOptions::CritVMethod -> dropped
+	enumBIPPredMethod [Units]enumBIPPredMethod ThermoDynamicOptions::BIPMethod -> dropped
+}
+
+[Units]DeltaPressure  -> [Units] . 
+{
+	[Units]DeltaPressure ::get_Tolerance[0]( ) ->  
+	[Units]DeltaPressure ::get_propid[0]( ) ->  
+	[Units]DeltaPressure ::get_IsKnown[0]( ) ->  
+	[Units]DeltaPressure ::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaPressure ::EraseValue[0]( ) ->  
+	[Units]DeltaPressure ::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]DeltaPressure ::get_BaseValue[0]( ) ->  
+	[Units]DeltaPressure ::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaPressure ::get_DefaultUnit[0]( ) ->  
+	[Units]DeltaPressure ::get_AllUnits[0]( ) ->  
+	[Units]DeltaPressure ::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]DeltaPressure ::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]DeltaPressure ::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]DeltaPressure ::get_Name[0]( ) ->  
+	[Units]DeltaPressure ::get_DisplayValue[0]( ) ->  
+	[Units]DeltaPressure ::set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaPressure ::get_BarA[0]( ) ->  
+	[Units]DeltaPressure ::set_BarA[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaPressure ::get_MPa[0]( ) ->  
+	[Units]DeltaPressure ::set_MPa[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaPressure ::get_MMHGA[0]( ) ->  
+	[Units]DeltaPressure ::set_MMHGA[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaPressure ::MMHGAtoBARA[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaPressure ::BarAToMMG[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaPressure ::get_kg_cm2[0]( ) ->  
+	[Units]DeltaPressure ::set_kg_cm2[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaPressure ::get_PSI[0]( ) -> ​
+	[Units]DeltaPressure ::set_PSI[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaPressure ::psiatoBarA[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaPressure ::BarAtoPSIA[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaPressure ::get_kPa[0]( ) -> ‐
+	[Units]DeltaPressure ::set_kPa[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaPressure ::ToString [2]( [Units]PressureUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]DeltaPressure ::ToString [1]( [Units]PressureUnit ) ->  
+	[Units]DeltaPressure ::SetValue[1]( [Units]Pressure  ) ->  
+	[Units]DeltaPressure ::BarAToMPA[1]( [System.Runtime]System.double  ) -> ​
+	[Units]DeltaPressure ::MPatoBarA[1]( [System.Runtime]System.double  ) -> ‐
+	[Units]DeltaPressure ::BarAtokPa[1]( [System.Runtime]System.double  ) -> ‑
+	[Units]DeltaPressure ::kPatoBarA[1]( [System.Runtime]System.double  ) -> ‒
+	[Units]DeltaPressure ::ClearpublicSetVariable[0]( ) -> ‑
+	[Units]DeltaPressure ::Valueout [1]( [Units]DeltaPressureUnit ) ->  
+	[Units]DeltaPressure ::ValueIn[2]( [Units]DeltaPressureUnit, [System.Runtime]System.double  ) ->  
+	[Units]DeltaPressure ::Pow[1]( [System.Runtime]System.double  ) -> –
+
+	[Units]DeltaPressure ::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]DeltaPressure ::CompareTo[1]( [Units]DeltaPressure  ) skipped:  external base class  or interface
+	[Units]DeltaPressure ::ToString [0]( ) skipped:  external base class  or interface
+	[Units]DeltaPressure ::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]DeltaPressure ::.ctor[2]( [System.Runtime]System.double , [Units]DeltaPressureUnit ) skipped:  special name
+	[Units]DeltaPressure ::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]DeltaPressure ::Equals[1]( [Units]DeltaPressure  ) skipped:  external base class  or interface
+	[Units]DeltaPressure ::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]DeltaPressure ::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]DeltaPressure ::op_EQuality [2]( [Units]DeltaPressure , [Units]DeltaPressure  ) skipped:  special name
+	[Units]DeltaPressure ::op_IneQuality [2]( [Units]DeltaPressure , [Units]DeltaPressure  ) skipped:  special name
+	[Units]DeltaPressure ::op_GreaterThan[2]( [Units]DeltaPressure , [Units]DeltaPressure  ) skipped:  special name
+	[Units]DeltaPressure ::op_LessThan[2]( [Units]DeltaPressure , [Units]DeltaPressure  ) skipped:  special name
+	[Units]DeltaPressure ::op_GreaterThanOrEqual[2]( [Units]DeltaPressure , [Units]DeltaPressure  ) skipped:  special name
+	[Units]DeltaPressure ::op_LessThanOrEqual[2]( [Units]DeltaPressure , [Units]DeltaPressure  ) skipped:  special name
+	[Units]DeltaPressure ::op_Addition[2]( [Units]DeltaPressure , [Units]DeltaPressure  ) skipped:  special name
+	[Units]DeltaPressure ::op_Subtraction[2]( [Units]DeltaPressure , [Units]DeltaPressure  ) skipped:  special name
+	[Units]DeltaPressure ::op_Multiply[2]( [Units]DeltaPressure , [Units]DeltaPressure  ) skipped:  special name
+	[Units]DeltaPressure ::op_Division[2]( [Units]DeltaPressure , [Units]DeltaPressure  ) skipped:  special name
+	[Units]DeltaPressure ::op_Modulus[2]( [Units]DeltaPressure , [Units]DeltaPressure  ) skipped:  special name
+	[Units]DeltaPressure ::op_Implicit[1]( [Units]DeltaPressure  ) skipped:  special name
+	[Units]DeltaPressure ::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  DeltaPressure ::_Bar ->  
+
+	System.double  [Units]System.double  DeltaPressure ::BarA -> dropped
+	System.double  [Units]System.double  DeltaPressure ::MPa -> dropped
+	System.double  [Units]System.double  DeltaPressure ::MMHGA -> dropped
+	System.double  [Units]System.double  DeltaPressure ::kg_cm2 -> dropped
+	System.double  [Units]System.double  DeltaPressure ::PSI -> dropped
+	System.double  [Units]System.double  DeltaPressure ::kPa -> dropped
+	System.bool ean [Units]System.bool ean DeltaPressure ::IsKnown -> dropped
+	System.double  [Units]System.double  DeltaPressure ::BaseValue -> dropped
+	System.string  [Units]System.string  DeltaPressure ::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] DeltaPressure ::AllUnits -> dropped
+	System.string  [Units]System.string  DeltaPressure ::Name -> dropped
+	Units.ePropID  [Units]Units.ePropID  DeltaPressure ::propid -> dropped
+	System.double  [Units]System.double  DeltaPressure ::Tolerance -> dropped
+	System.double  [Units]System.double  DeltaPressure ::DisplayValue -> dropped
+}
+
+[Units]DeltaTemperature  -> [Units] . 
+{
+	[Units]DeltaTemperature ::get_Tolerance[0]( ) ->  
+	[Units]DeltaTemperature ::get_propid[0]( ) ->  
+	[Units]DeltaTemperature ::get_IsKnown[0]( ) ->  
+	[Units]DeltaTemperature ::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaTemperature ::EraseValue[0]( ) ->  
+	[Units]DeltaTemperature ::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]DeltaTemperature ::get_BaseValue[0]( ) ->  
+	[Units]DeltaTemperature ::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaTemperature ::get_DefaultUnit[0]( ) ->  
+	[Units]DeltaTemperature ::get_AllUnits[0]( ) ->  
+	[Units]DeltaTemperature ::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]DeltaTemperature ::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]DeltaTemperature ::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]DeltaTemperature ::get_Name[0]( ) ->  
+	[Units]DeltaTemperature ::Pow[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaTemperature ::get_Kelvin[0]( ) ->  
+	[Units]DeltaTemperature ::set_Kelvin[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaTemperature ::get_Celsius[0]( ) ->  
+	[Units]DeltaTemperature ::set_Celsius[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaTemperature ::get_Fahrenheit[0]( ) ->  
+	[Units]DeltaTemperature ::set_Fahrenheit[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaTemperature ::get_Rankine[0]( ) ->  
+	[Units]DeltaTemperature ::set_Rankine[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaTemperature ::Valueout [1]( [Units]DeltaTemperatureUnit ) ->  
+	[Units]DeltaTemperature ::ValueIn[2]( [Units]DeltaTemperatureUnit, [System.Runtime]System.double  ) ->  
+	[Units]DeltaTemperature ::ToString [2]( [Units]DeltaTemperatureUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]DeltaTemperature ::ToString [1]( [Units]DeltaTemperatureUnit ) ->  
+	[Units]DeltaTemperature ::get_HasChanged[0]( ) -> ​
+	[Units]DeltaTemperature ::set_HasChanged[1]( [System.Runtime]System.bool ean ) ->  
+	[Units]DeltaTemperature ::IUOM.get_DisplayValue[0]( ) -> ‐
+	[Units]DeltaTemperature ::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaTemperature ::KelvintoCelsius[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaTemperature ::CelsiusToKelvin[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaTemperature ::KelvintoFahrenheit[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaTemperature ::FahrenheitToKelvin[1]( [System.Runtime]System.double  ) ->  
+	[Units]DeltaTemperature ::KelvintoRankine[1]( [System.Runtime]System.double  ) -> ​
+	[Units]DeltaTemperature ::RankineToKelvin[1]( [System.Runtime]System.double  ) -> ‐
+	[Units]DeltaTemperature ::FahrenheitToCelsius[1]( [System.Runtime]System.double  ) -> ‑
+	[Units]DeltaTemperature ::CelsiusToFahrenheit[1]( [System.Runtime]System.double  ) -> ‒
+	[Units]DeltaTemperature ::ToDefault[2]( [Units]DeltaTemperatureUnit, [System.Runtime]System.double  ) ->  
+	[Units]DeltaTemperature ::FromDefault[1]( [Units]DeltaTemperatureUnit ) ->  
+
+	[Units]DeltaTemperature ::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]DeltaTemperature ::CompareTo[1]( [Units]DeltaTemperature  ) skipped:  external base class  or interface
+	[Units]DeltaTemperature ::ToString [0]( ) skipped:  external base class  or interface
+	[Units]DeltaTemperature ::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]DeltaTemperature ::Equals[1]( [Units]DeltaTemperature  ) skipped:  external base class  or interface
+	[Units]DeltaTemperature ::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]DeltaTemperature ::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]DeltaTemperature ::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]DeltaTemperature ::.ctor[2]( [System.Runtime]System.double , [Units]DeltaTemperatureUnit ) skipped:  special name
+	[Units]DeltaTemperature ::op_EQuality [2]( [Units]DeltaTemperature , [Units]DeltaTemperature  ) skipped:  special name
+	[Units]DeltaTemperature ::op_IneQuality [2]( [Units]DeltaTemperature , [Units]DeltaTemperature  ) skipped:  special name
+	[Units]DeltaTemperature ::op_GreaterThan[2]( [Units]DeltaTemperature , [Units]DeltaTemperature  ) skipped:  special name
+	[Units]DeltaTemperature ::op_LessThan[2]( [Units]DeltaTemperature , [Units]DeltaTemperature  ) skipped:  special name
+	[Units]DeltaTemperature ::op_GreaterThanOrEqual[2]( [Units]DeltaTemperature , [Units]DeltaTemperature  ) skipped:  special name
+	[Units]DeltaTemperature ::op_LessThanOrEqual[2]( [Units]DeltaTemperature , [Units]DeltaTemperature  ) skipped:  special name
+	[Units]DeltaTemperature ::op_Addition[2]( [Units]DeltaTemperature , [Units]DeltaTemperature  ) skipped:  special name
+	[Units]DeltaTemperature ::op_Subtraction[2]( [Units]DeltaTemperature , [Units]DeltaTemperature  ) skipped:  special name
+	[Units]DeltaTemperature ::op_Multiply[2]( [Units]DeltaTemperature , [Units]DeltaTemperature  ) skipped:  special name
+	[Units]DeltaTemperature ::op_Division[2]( [Units]DeltaTemperature , [Units]DeltaTemperature  ) skipped:  special name
+	[Units]DeltaTemperature ::op_Modulus[2]( [Units]DeltaTemperature , [Units]DeltaTemperature  ) skipped:  special name
+	[Units]DeltaTemperature ::op_Implicit[1]( [Units]DeltaTemperature  ) skipped:  special name
+	[Units]DeltaTemperature ::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  DeltaTemperature ::_Kelvin ->  
+	System.bool ean [Units]System.bool ean DeltaTemperature ::<HasChanged>k__BackingField ->  
+
+	System.double  [Units]System.double  DeltaTemperature ::Tolerance -> dropped
+	Units.ePropID  [Units]Units.ePropID  DeltaTemperature ::propid -> dropped
+	System.bool ean [Units]System.bool ean DeltaTemperature ::IsKnown -> dropped
+	System.string  [Units]System.string  DeltaTemperature ::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] DeltaTemperature ::AllUnits -> dropped
+	System.double  [Units]System.double  DeltaTemperature ::Kelvin -> dropped
+	System.double  [Units]System.double  DeltaTemperature ::Celsius -> dropped
+	System.double  [Units]System.double  DeltaTemperature ::Fahrenheit -> dropped
+	System.double  [Units]System.double  DeltaTemperature ::Rankine -> dropped
+	System.double  [Units]System.double  DeltaTemperature ::BaseValue -> dropped
+	System.string  [Units]System.string  DeltaTemperature ::Name -> dropped
+	System.bool ean [Units]System.bool ean DeltaTemperature ::HasChanged -> dropped
+	System.double  [Units]System.double  DeltaTemperature ::IUOM.DisplayValue -> dropped
+}
+
+[Units]Density -> [Units] . 
+{
+	[Units]Density::get_Tolerance[0]( ) ->  
+	[Units]Density::get_propid[0]( ) ->  
+	[Units]Density::get_IsKnown[0]( ) ->  
+	[Units]Density::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Density::EraseValue[0]( ) ->  
+	[Units]Density::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]Density::get_BaseValue[0]( ) ->  
+	[Units]Density::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Density::get_DefaultUnit[0]( ) ->  
+	[Units]Density::get_AllUnits[0]( ) ->  
+	[Units]Density::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]Density::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]Density::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]Density::get_Name[0]( ) ->  
+	[Units]Density::get_SG[0]( ) ->  
+	[Units]Density::set_SG[1]( [System.Runtime]System.double  ) ->  
+	[Units]Density::set_IsKnown[1]( [System.Runtime]System.bool ean ) ->  
+	[Units]Density::IUOM.get_DisplayValue[0]( ) ->  
+	[Units]Density::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Density::ValueIn[1]( [Units]DensityUnit ) ->  
+	[Units]Density::ToString [2]( [Units]DensityUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]Density::ToString [1]( [Units]DensityUnit ) ->  
+	[Units]Density::SetValue[1]( [Units]Quality  ) ->  
+	[Units]Density::ClearpublicSetVariable[0]( ) ->  
+	[Units]Density::Pow[1]( [System.Runtime]System.double  ) ->  
+
+	[Units]Density::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Density::CompareTo[1]( [Units]Density ) skipped:  external base class  or interface
+	[Units]Density::ToString [0]( ) skipped:  external base class  or interface
+	[Units]Density::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]Density::Equals[1]( [Units]Density ) skipped:  external base class  or interface
+	[Units]Density::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Density::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]Density::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]Density::.ctor[2]( [System.Runtime]System.double , [Units]DensityUnit ) skipped:  special name
+	[Units]Density::op_EQuality [2]( [Units]Density, [Units]Density ) skipped:  special name
+	[Units]Density::op_IneQuality [2]( [Units]Density, [Units]Density ) skipped:  special name
+	[Units]Density::op_GreaterThan[2]( [Units]Density, [Units]Density ) skipped:  special name
+	[Units]Density::op_LessThan[2]( [Units]Density, [Units]Density ) skipped:  special name
+	[Units]Density::op_GreaterThanOrEqual[2]( [Units]Density, [Units]Density ) skipped:  special name
+	[Units]Density::op_LessThanOrEqual[2]( [Units]Density, [Units]Density ) skipped:  special name
+	[Units]Density::op_Addition[2]( [Units]Density, [Units]Density ) skipped:  special name
+	[Units]Density::op_Subtraction[2]( [Units]Density, [Units]Density ) skipped:  special name
+	[Units]Density::op_Multiply[2]( [Units]Density, [Units]Density ) skipped:  special name
+	[Units]Density::op_Division[2]( [Units]Density, [Units]Density ) skipped:  special name
+	[Units]Density::op_Modulus[2]( [Units]Density, [Units]Density ) skipped:  special name
+	[Units]Density::op_Implicit[1]( [Units]Density ) skipped:  special name
+	[Units]Density::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  Density::_kg_m3 ->  
+	System.bool ean [Units]System.bool ean Density::_isKnown ->  
+	System.bool ean [Units]System.bool ean Density::IsPrimary ->  
+	System.double  [Units]System.double  Density::WaterDensity ->  
+
+	System.double  [Units]System.double  Density::Tolerance -> dropped
+	Units.ePropID  [Units]Units.ePropID  Density::propid -> dropped
+	System.double  [Units]System.double  Density::SG -> dropped
+	System.bool ean [Units]System.bool ean Density::IsKnown -> dropped
+	System.double  [Units]System.double  Density::BaseValue -> dropped
+	System.string  [Units]System.string  Density::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] Density::AllUnits -> dropped
+	System.string  [Units]System.string  Density::Name -> dropped
+	System.double  [Units]System.double  Density::IUOM.DisplayValue -> dropped
+}
+
+[Units]EnergyFlow -> [Units] . 
+{
+	[Units]EnergyFlow::get_Tolerance[0]( ) ->  
+	[Units]EnergyFlow::get_propid[0]( ) ->  
+	[Units]EnergyFlow::get_IsKnown[0]( ) ->  
+	[Units]EnergyFlow::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]EnergyFlow::EraseValue[0]( ) ->  
+	[Units]EnergyFlow::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]EnergyFlow::get_BaseValue[0]( ) ->  
+	[Units]EnergyFlow::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]EnergyFlow::get_DefaultUnit[0]( ) ->  
+	[Units]EnergyFlow::get_AllUnits[0]( ) ->  
+	[Units]EnergyFlow::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]EnergyFlow::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]EnergyFlow::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]EnergyFlow::get_Name[0]( ) ->  
+	[Units]EnergyFlow::get_kW[0]( ) ->  
+	[Units]EnergyFlow::set_kW[1]( [System.Runtime]System.double  ) ->  
+	[Units]EnergyFlow::get_MW[0]( ) ->  
+	[Units]EnergyFlow::set_MW[1]( [System.Runtime]System.double  ) ->  
+	[Units]EnergyFlow::get_kJ_s[0]( ) ->  
+	[Units]EnergyFlow::set_kJ_s[1]( [System.Runtime]System.double  ) ->  
+	[Units]EnergyFlow::get_kJ_hr[0]( ) ->  
+	[Units]EnergyFlow::set_kJ_hr[1]( [System.Runtime]System.double  ) ->  
+	[Units]EnergyFlow::get_BTU_hr[0]( ) -> ​
+	[Units]EnergyFlow::set_BTU_hr[1]( [System.Runtime]System.double  ) ->  
+	[Units]EnergyFlow::BTU_hr_to_kW[1]( [System.Runtime]System.double  ) ->  
+	[Units]EnergyFlow::kwtoBTU_hr[1]( [System.Runtime]System.double  ) ->  
+	[Units]EnergyFlow::IUOM.get_DisplayValue[0]( ) -> ‐
+	[Units]EnergyFlow::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]EnergyFlow::ToString [2]( [Units]EnergyFlowUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]EnergyFlow::ToString [1]( [Units]EnergyFlowUnit ) ->  
+	[Units]EnergyFlow::SetValue[1]( [Units]EnergyFlow ) ->  
+	[Units]EnergyFlow::kwtoMW[1]( [System.Runtime]System.double  ) ->  
+	[Units]EnergyFlow::MWtokw[1]( [System.Runtime]System.double  ) ->  
+	[Units]EnergyFlow::kwtokJ_hr[1]( [System.Runtime]System.double  ) -> ​
+	[Units]EnergyFlow::kJ_hrtokW[1]( [System.Runtime]System.double  ) -> ‐
+	[Units]EnergyFlow::kwtokJ_s[1]( [System.Runtime]System.double  ) -> ‑
+	[Units]EnergyFlow::kJ_stokW[1]( [System.Runtime]System.double  ) -> ‒
+	[Units]EnergyFlow::ClearpublicSetVariable[0]( ) -> ‑
+	[Units]EnergyFlow::Valueout [1]( [Units]EnergyFlowUnit ) ->  
+	[Units]EnergyFlow::ValueIn[2]( [Units]EnergyFlowUnit, [System.Runtime]System.double  ) ->  
+	[Units]EnergyFlow::Pow[1]( [System.Runtime]System.double  ) -> –
+
+	[Units]EnergyFlow::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]EnergyFlow::CompareTo[1]( [Units]EnergyFlow ) skipped:  external base class  or interface
+	[Units]EnergyFlow::ToString [0]( ) skipped:  external base class  or interface
+	[Units]EnergyFlow::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]EnergyFlow::Equals[1]( [Units]EnergyFlow ) skipped:  external base class  or interface
+	[Units]EnergyFlow::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]EnergyFlow::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]EnergyFlow::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]EnergyFlow::.ctor[2]( [System.Runtime]System.double , [Units]EnergyFlowUnit ) skipped:  special name
+	[Units]EnergyFlow::op_EQuality [2]( [Units]EnergyFlow, [Units]EnergyFlow ) skipped:  special name
+	[Units]EnergyFlow::op_IneQuality [2]( [Units]EnergyFlow, [Units]EnergyFlow ) skipped:  special name
+	[Units]EnergyFlow::op_GreaterThan[2]( [Units]EnergyFlow, [Units]EnergyFlow ) skipped:  special name
+	[Units]EnergyFlow::op_LessThan[2]( [Units]EnergyFlow, [Units]EnergyFlow ) skipped:  special name
+	[Units]EnergyFlow::op_GreaterThanOrEqual[2]( [Units]EnergyFlow, [Units]EnergyFlow ) skipped:  special name
+	[Units]EnergyFlow::op_LessThanOrEqual[2]( [Units]EnergyFlow, [Units]EnergyFlow ) skipped:  special name
+	[Units]EnergyFlow::op_Addition[2]( [Units]EnergyFlow, [Units]EnergyFlow ) skipped:  special name
+	[Units]EnergyFlow::op_Subtraction[2]( [Units]EnergyFlow, [Units]EnergyFlow ) skipped:  special name
+	[Units]EnergyFlow::op_Multiply[2]( [Units]EnergyFlow, [Units]EnergyFlow ) skipped:  special name
+	[Units]EnergyFlow::op_Division[2]( [Units]EnergyFlow, [Units]EnergyFlow ) skipped:  special name
+	[Units]EnergyFlow::op_Modulus[2]( [Units]EnergyFlow, [Units]EnergyFlow ) skipped:  special name
+	[Units]EnergyFlow::op_Implicit[1]( [Units]EnergyFlow ) skipped:  special name
+	[Units]EnergyFlow::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  EnergyFlow::_kW ->  
+
+	System.double  [Units]System.double  EnergyFlow::Tolerance -> dropped
+	System.double  [Units]System.double  EnergyFlow::kW -> dropped
+	System.double  [Units]System.double  EnergyFlow::MW -> dropped
+	System.double  [Units]System.double  EnergyFlow::kJ_s -> dropped
+	System.double  [Units]System.double  EnergyFlow::kJ_hr -> dropped
+	System.double  [Units]System.double  EnergyFlow::BTU_hr -> dropped
+	System.bool ean [Units]System.bool ean EnergyFlow::IsKnown -> dropped
+	System.double  [Units]System.double  EnergyFlow::BaseValue -> dropped
+	System.string  [Units]System.string  EnergyFlow::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] EnergyFlow::AllUnits -> dropped
+	System.string  [Units]System.string  EnergyFlow::Name -> dropped
+	Units.ePropID  [Units]Units.ePropID  EnergyFlow::propid -> dropped
+	System.double  [Units]System.double  EnergyFlow::IUOM.DisplayValue -> dropped
+}
+
+[Units]Entropy -> [Units] . 
+{
+	[Units]Entropy::get_Tolerance[0]( ) ->  
+	[Units]Entropy::get_propid[0]( ) ->  
+	[Units]Entropy::get_IsKnown[0]( ) ->  
+	[Units]Entropy::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Entropy::EraseValue[0]( ) ->  
+	[Units]Entropy::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]Entropy::get_BaseValue[0]( ) ->  
+	[Units]Entropy::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Entropy::get_DefaultUnit[0]( ) ->  
+	[Units]Entropy::get_AllUnits[0]( ) ->  
+	[Units]Entropy::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]Entropy::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]Entropy::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]Entropy::get_Name[0]( ) ->  
+	[Units]Entropy::get_J_kg_mole_K[0]( ) ->  
+	[Units]Entropy::set_J_kg_mole_K[1]( [System.Runtime]System.double  ) ->  
+	[Units]Entropy::get_kJ_kgmole_K[0]( ) ->  
+	[Units]Entropy::set_kJ_kgmole_K[1]( [System.Runtime]System.double  ) ->  
+	[Units]Entropy::IUOM.get_DisplayValue[0]( ) ->  
+	[Units]Entropy::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Entropy::Valueout [1]( [Units]EntropyUnit ) ->  
+	[Units]Entropy::ToString [2]( [Units]EntropyUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]Entropy::ToString [1]( [Units]EntropyUnit ) ->  
+	[Units]Entropy::J_K_to_kJ_K[1]( [System.Runtime]System.double  ) ->  
+	[Units]Entropy::KJ_K_to_J_K[1]( [System.Runtime]System.double  ) ->  
+	[Units]Entropy::ClearpublicSetVariable[0]( ) ->  
+	[Units]Entropy::ValueIn[2]( [Units]EntropyUnit, [System.Runtime]System.double  ) ->  
+
+	[Units]Entropy::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Entropy::CompareTo[1]( [Units]Entropy ) skipped:  external base class  or interface
+	[Units]Entropy::ToString [0]( ) skipped:  external base class  or interface
+	[Units]Entropy::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]Entropy::Equals[1]( [Units]Entropy ) skipped:  external base class  or interface
+	[Units]Entropy::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Entropy::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]Entropy::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]Entropy::.ctor[2]( [System.Runtime]System.double , [Units]EntropyUnit ) skipped:  special name
+	[Units]Entropy::op_EQuality [2]( [Units]Entropy, [Units]Entropy ) skipped:  special name
+	[Units]Entropy::op_IneQuality [2]( [Units]Entropy, [Units]Entropy ) skipped:  special name
+	[Units]Entropy::op_GreaterThan[2]( [Units]Entropy, [Units]Entropy ) skipped:  special name
+	[Units]Entropy::op_LessThan[2]( [Units]Entropy, [Units]Entropy ) skipped:  special name
+	[Units]Entropy::op_GreaterThanOrEqual[2]( [Units]Entropy, [Units]Entropy ) skipped:  special name
+	[Units]Entropy::op_LessThanOrEqual[2]( [Units]Entropy, [Units]Entropy ) skipped:  special name
+	[Units]Entropy::op_Addition[2]( [Units]Entropy, [Units]Entropy ) skipped:  special name
+	[Units]Entropy::op_Subtraction[2]( [Units]Entropy, [Units]Entropy ) skipped:  special name
+	[Units]Entropy::op_Multiply[2]( [Units]Entropy, [Units]Entropy ) skipped:  special name
+	[Units]Entropy::op_Division[2]( [Units]Entropy, [Units]Entropy ) skipped:  special name
+	[Units]Entropy::op_Modulus[2]( [Units]Entropy, [Units]Entropy ) skipped:  special name
+	[Units]Entropy::op_Implicit[1]( [Units]Entropy ) skipped:  special name
+	[Units]Entropy::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  Entropy::_basevalue ->  
+
+	System.double  [Units]System.double  Entropy::Tolerance -> dropped
+	Units.ePropID  [Units]Units.ePropID  Entropy::propid -> dropped
+	System.double  [Units]System.double  Entropy::J_kg_mole_K -> dropped
+	System.double  [Units]System.double  Entropy::kJ_kgmole_K -> dropped
+	System.bool ean [Units]System.bool ean Entropy::IsKnown -> dropped
+	System.double  [Units]System.double  Entropy::BaseValue -> dropped
+	System.string  [Units]System.string  Entropy::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] Entropy::AllUnits -> dropped
+	System.string  [Units]System.string  Entropy::Name -> dropped
+	System.double  [Units]System.double  Entropy::IUOM.DisplayValue -> dropped
+}
+
+[Units]Gibbs -> [Units] . 
+{
+	[Units]Gibbs::get_Tolerance[0]( ) ->  
+	[Units]Gibbs::get_propid[0]( ) ->  
+	[Units]Gibbs::get_IsKnown[0]( ) ->  
+	[Units]Gibbs::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Gibbs::EraseValue[0]( ) ->  
+	[Units]Gibbs::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]Gibbs::get_BaseValue[0]( ) ->  
+	[Units]Gibbs::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Gibbs::get_DefaultUnit[0]( ) ->  
+	[Units]Gibbs::get_AllUnits[0]( ) ->  
+	[Units]Gibbs::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]Gibbs::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]Gibbs::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]Gibbs::get_Name[0]( ) ->  
+	[Units]Gibbs::get_DisplayValue[0]( ) ->  
+	[Units]Gibbs::set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Gibbs::get_kJ_kgmole[0]( ) ->  
+	[Units]Gibbs::set_kJ_kgmole[1]( [System.Runtime]System.double  ) ->  
+	[Units]Gibbs::get_j_mole[0]( ) ->  
+	[Units]Gibbs::set_j_mole[1]( [System.Runtime]System.double  ) ->  
+	[Units]Gibbs::ValueIn[1]( [Units]GibbsUnit ) ->  
+	[Units]Gibbs::ToString [2]( [Units]GibbsUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]Gibbs::ToString [1]( [Units]GibbsUnit ) ->  
+	[Units]Gibbs::SetValue[1]( [Units]Gibbs ) ->  
+	[Units]Gibbs::kJ_kgmol_to_J_mole[1]( [System.Runtime]System.double  ) ->  
+	[Units]Gibbs::J_mol_to_kJ_kgmole[1]( [System.Runtime]System.double  ) ->  
+	[Units]Gibbs::ClearpublicSetVariable[0]( ) ->  
+
+	[Units]Gibbs::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Gibbs::CompareTo[1]( [Units]Gibbs ) skipped:  external base class  or interface
+	[Units]Gibbs::ToString [0]( ) skipped:  external base class  or interface
+	[Units]Gibbs::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]Gibbs::Equals[1]( [Units]Gibbs ) skipped:  external base class  or interface
+	[Units]Gibbs::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Gibbs::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]Gibbs::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]Gibbs::.ctor[2]( [System.Runtime]System.double , [Units]GibbsUnit ) skipped:  special name
+	[Units]Gibbs::op_EQuality [2]( [Units]Gibbs, [Units]Gibbs ) skipped:  special name
+	[Units]Gibbs::op_IneQuality [2]( [Units]Gibbs, [Units]Gibbs ) skipped:  special name
+	[Units]Gibbs::op_GreaterThan[2]( [Units]Gibbs, [Units]Gibbs ) skipped:  special name
+	[Units]Gibbs::op_LessThan[2]( [Units]Gibbs, [Units]Gibbs ) skipped:  special name
+	[Units]Gibbs::op_GreaterThanOrEqual[2]( [Units]Gibbs, [Units]Gibbs ) skipped:  special name
+	[Units]Gibbs::op_LessThanOrEqual[2]( [Units]Gibbs, [Units]Gibbs ) skipped:  special name
+	[Units]Gibbs::op_Addition[2]( [Units]Gibbs, [Units]Gibbs ) skipped:  special name
+	[Units]Gibbs::op_Subtraction[2]( [Units]Gibbs, [Units]Gibbs ) skipped:  special name
+	[Units]Gibbs::op_Multiply[2]( [Units]Gibbs, [Units]Gibbs ) skipped:  special name
+	[Units]Gibbs::op_Division[2]( [Units]Gibbs, [Units]Gibbs ) skipped:  special name
+	[Units]Gibbs::op_Modulus[2]( [Units]Gibbs, [Units]Gibbs ) skipped:  special name
+	[Units]Gibbs::op_Implicit[1]( [Units]Gibbs ) skipped:  special name
+	[Units]Gibbs::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  Gibbs::_kJ_kgmole ->  
+
+	System.double  [Units]System.double  Gibbs::kJ_kgmole -> dropped
+	System.double  [Units]System.double  Gibbs::j_mole -> dropped
+	System.bool ean [Units]System.bool ean Gibbs::IsKnown -> dropped
+	System.double  [Units]System.double  Gibbs::Tolerance -> dropped
+	Units.ePropID  [Units]Units.ePropID  Gibbs::propid -> dropped
+	System.double  [Units]System.double  Gibbs::BaseValue -> dropped
+	System.string  [Units]System.string  Gibbs::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] Gibbs::AllUnits -> dropped
+	System.string  [Units]System.string  Gibbs::Name -> dropped
+	System.double  [Units]System.double  Gibbs::DisplayValue -> dropped
+}
+
+[Units]Helmotz -> [Units] .​
+{
+	[Units]Helmotz::get_Tolerance[0]( ) ->  
+	[Units]Helmotz::get_propid[0]( ) ->  
+	[Units]Helmotz::get_IsKnown[0]( ) ->  
+	[Units]Helmotz::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Helmotz::EraseValue[0]( ) ->  
+	[Units]Helmotz::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]Helmotz::get_BaseValue[0]( ) ->  
+	[Units]Helmotz::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Helmotz::get_DefaultUnit[0]( ) ->  
+	[Units]Helmotz::get_AllUnits[0]( ) ->  
+	[Units]Helmotz::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]Helmotz::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]Helmotz::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]Helmotz::get_Name[0]( ) ->  
+	[Units]Helmotz::get_DisplayValue[0]( ) ->  
+	[Units]Helmotz::set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Helmotz::get_kJ_kgmole[0]( ) ->  
+	[Units]Helmotz::set_kJ_kgmole[1]( [System.Runtime]System.double  ) ->  
+	[Units]Helmotz::get_j_mole[0]( ) ->  
+	[Units]Helmotz::set_j_mole[1]( [System.Runtime]System.double  ) ->  
+	[Units]Helmotz::ValueIn[1]( [Units]HelmotzUnit ) ->  
+	[Units]Helmotz::ToString [2]( [Units]HelmotzUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]Helmotz::ToString [1]( [Units]HelmotzUnit ) ->  
+	[Units]Helmotz::SetValue[1]( [Units]Helmotz ) ->  
+	[Units]Helmotz::kJ_kgmol_to_J_mole[1]( [System.Runtime]System.double  ) ->  
+	[Units]Helmotz::J_mol_to_kJ_kgmole[1]( [System.Runtime]System.double  ) ->  
+	[Units]Helmotz::ClearpublicSetVariable[0]( ) ->  
+
+	[Units]Helmotz::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Helmotz::CompareTo[1]( [Units]Helmotz ) skipped:  external base class  or interface
+	[Units]Helmotz::ToString [0]( ) skipped:  external base class  or interface
+	[Units]Helmotz::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]Helmotz::Equals[1]( [Units]Helmotz ) skipped:  external base class  or interface
+	[Units]Helmotz::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Helmotz::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]Helmotz::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]Helmotz::.ctor[2]( [System.Runtime]System.double , [Units]HelmotzUnit ) skipped:  special name
+	[Units]Helmotz::op_EQuality [2]( [Units]Helmotz, [Units]Helmotz ) skipped:  special name
+	[Units]Helmotz::op_IneQuality [2]( [Units]Helmotz, [Units]Helmotz ) skipped:  special name
+	[Units]Helmotz::op_GreaterThan[2]( [Units]Helmotz, [Units]Helmotz ) skipped:  special name
+	[Units]Helmotz::op_LessThan[2]( [Units]Helmotz, [Units]Helmotz ) skipped:  special name
+	[Units]Helmotz::op_GreaterThanOrEqual[2]( [Units]Helmotz, [Units]Helmotz ) skipped:  special name
+	[Units]Helmotz::op_LessThanOrEqual[2]( [Units]Helmotz, [Units]Helmotz ) skipped:  special name
+	[Units]Helmotz::op_Addition[2]( [Units]Helmotz, [Units]Helmotz ) skipped:  special name
+	[Units]Helmotz::op_Subtraction[2]( [Units]Helmotz, [Units]Helmotz ) skipped:  special name
+	[Units]Helmotz::op_Multiply[2]( [Units]Helmotz, [Units]Helmotz ) skipped:  special name
+	[Units]Helmotz::op_Division[2]( [Units]Helmotz, [Units]Helmotz ) skipped:  special name
+	[Units]Helmotz::op_Modulus[2]( [Units]Helmotz, [Units]Helmotz ) skipped:  special name
+	[Units]Helmotz::op_Implicit[1]( [Units]Helmotz ) skipped:  special name
+	[Units]Helmotz::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  Helmotz::_kJ_kgmole ->  
+
+	System.double  [Units]System.double  Helmotz::kJ_kgmole -> dropped
+	System.double  [Units]System.double  Helmotz::j_mole -> dropped
+	System.bool ean [Units]System.bool ean Helmotz::IsKnown -> dropped
+	System.double  [Units]System.double  Helmotz::Tolerance -> dropped
+	Units.ePropID  [Units]Units.ePropID  Helmotz::propid -> dropped
+	System.double  [Units]System.double  Helmotz::BaseValue -> dropped
+	System.string  [Units]System.string  Helmotz::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] Helmotz::AllUnits -> dropped
+	System.string  [Units]System.string  Helmotz::Name -> dropped
+	System.double  [Units]System.double  Helmotz::DisplayValue -> dropped
+}
+
+[Units]internalEnergy -> [Units] .‐
+{
+	[Units]internalEnergy::get_Tolerance[0]( ) ->  
+	[Units]internalEnergy::get_propid[0]( ) ->  
+	[Units]internalEnergy::get_IsKnown[0]( ) ->  
+	[Units]internalEnergy::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]internalEnergy::EraseValue[0]( ) ->  
+	[Units]internalEnergy::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]internalEnergy::get_BaseValue[0]( ) ->  
+	[Units]internalEnergy::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]internalEnergy::get_DefaultUnit[0]( ) ->  
+	[Units]internalEnergy::get_AllUnits[0]( ) ->  
+	[Units]internalEnergy::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]internalEnergy::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]internalEnergy::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]internalEnergy::get_Name[0]( ) ->  
+	[Units]internalEnergy::get_DisplayValue[0]( ) ->  
+	[Units]internalEnergy::set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]internalEnergy::get_kJ_kgmole[0]( ) ->  
+	[Units]internalEnergy::set_kJ_kgmole[1]( [System.Runtime]System.double  ) ->  
+	[Units]internalEnergy::get_j_mole[0]( ) ->  
+	[Units]internalEnergy::set_j_mole[1]( [System.Runtime]System.double  ) ->  
+	[Units]internalEnergy::ValueIn[1]( [Units]internalEnergyUnit ) ->  
+	[Units]internalEnergy::ToString [2]( [Units]internalEnergyUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]internalEnergy::ToString [1]( [Units]internalEnergyUnit ) ->  
+	[Units]internalEnergy::SetValue[1]( [Units]internalEnergy ) ->  
+	[Units]internalEnergy::kJ_kgmol_to_J_mole[1]( [System.Runtime]System.double  ) ->  
+	[Units]internalEnergy::J_mol_to_kJ_kgmole[1]( [System.Runtime]System.double  ) ->  
+	[Units]internalEnergy::ClearpublicSetVariable[0]( ) ->  
+
+	[Units]internalEnergy::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]internalEnergy::CompareTo[1]( [Units]internalEnergy ) skipped:  external base class  or interface
+	[Units]internalEnergy::ToString [0]( ) skipped:  external base class  or interface
+	[Units]internalEnergy::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]internalEnergy::Equals[1]( [Units]internalEnergy ) skipped:  external base class  or interface
+	[Units]internalEnergy::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]internalEnergy::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]internalEnergy::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]internalEnergy::.ctor[2]( [System.Runtime]System.double , [Units]internalEnergyUnit ) skipped:  special name
+	[Units]internalEnergy::op_EQuality [2]( [Units]internalEnergy, [Units]internalEnergy ) skipped:  special name
+	[Units]internalEnergy::op_IneQuality [2]( [Units]internalEnergy, [Units]internalEnergy ) skipped:  special name
+	[Units]internalEnergy::op_GreaterThan[2]( [Units]internalEnergy, [Units]internalEnergy ) skipped:  special name
+	[Units]internalEnergy::op_LessThan[2]( [Units]internalEnergy, [Units]internalEnergy ) skipped:  special name
+	[Units]internalEnergy::op_GreaterThanOrEqual[2]( [Units]internalEnergy, [Units]internalEnergy ) skipped:  special name
+	[Units]internalEnergy::op_LessThanOrEqual[2]( [Units]internalEnergy, [Units]internalEnergy ) skipped:  special name
+	[Units]internalEnergy::op_Addition[2]( [Units]internalEnergy, [Units]internalEnergy ) skipped:  special name
+	[Units]internalEnergy::op_Subtraction[2]( [Units]internalEnergy, [Units]internalEnergy ) skipped:  special name
+	[Units]internalEnergy::op_Multiply[2]( [Units]internalEnergy, [Units]internalEnergy ) skipped:  special name
+	[Units]internalEnergy::op_Division[2]( [Units]internalEnergy, [Units]internalEnergy ) skipped:  special name
+	[Units]internalEnergy::op_Modulus[2]( [Units]internalEnergy, [Units]internalEnergy ) skipped:  special name
+	[Units]internalEnergy::op_Implicit[1]( [Units]internalEnergy ) skipped:  special name
+	[Units]internalEnergy::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  internalEnergy::_kJ_kgmole ->  
+
+	System.double  [Units]System.double  internalEnergy::kJ_kgmole -> dropped
+	System.double  [Units]System.double  internalEnergy::j_mole -> dropped
+	System.bool ean [Units]System.bool ean internalEnergy::IsKnown -> dropped
+	System.double  [Units]System.double  internalEnergy::Tolerance -> dropped
+	Units.ePropID  [Units]Units.ePropID  internalEnergy::propid -> dropped
+	System.double  [Units]System.double  internalEnergy::BaseValue -> dropped
+	System.string  [Units]System.string  internalEnergy::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] internalEnergy::AllUnits -> dropped
+	System.string  [Units]System.string  internalEnergy::Name -> dropped
+	System.double  [Units]System.double  internalEnergy::DisplayValue -> dropped
+}
+
+[Units]Length -> [Units] .‑
+{
+	[Units]Length::get_Tolerance[0]( ) ->  
+	[Units]Length::get_propid[0]( ) ->  
+	[Units]Length::get_IsKnown[0]( ) ->  
+	[Units]Length::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Length::EraseValue[0]( ) ->  
+	[Units]Length::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]Length::get_BaseValue[0]( ) ->  
+	[Units]Length::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Length::get_DefaultUnit[0]( ) ->  
+	[Units]Length::get_AllUnits[0]( ) ->  
+	[Units]Length::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]Length::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]Length::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]Length::get_Name[0]( ) ->  
+	[Units]Length::Pow[1]( [System.Runtime]System.double  ) ->  
+	[Units]Length::get_m[0]( ) ->  
+	[Units]Length::set_m[1]( [System.Runtime]System.double  ) ->  
+	[Units]Length::get_cm[0]( ) ->  
+	[Units]Length::set_cm[1]( [System.Runtime]System.double  ) ->  
+	[Units]Length::get_mm[0]( ) ->  
+	[Units]Length::set_mm[1]( [System.Runtime]System.double  ) ->  
+	[Units]Length::ValueIn[1]( [Units]LengthUnit ) ->  
+	[Units]Length::Valueout [2]( [Units]LengthUnit, [System.Runtime]System.double  ) ->  
+	[Units]Length::ToString [2]( [Units]LengthUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]Length::ToString [1]( [Units]LengthUnit ) ->  
+	[Units]Length::IUOM.get_DisplayValue[0]( ) ->  
+	[Units]Length::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Length::m_to_cm[1]( [System.Runtime]System.double  ) ->  
+	[Units]Length::cm_to_m[1]( [System.Runtime]System.double  ) ->  
+	[Units]Length::mm_to_m[1]( [System.Runtime]System.double  ) ->  
+	[Units]Length::m_to_mm[1]( [System.Runtime]System.double  ) ->  
+	[Units]Length::Valueout [1]( [Units]LengthUnit ) ->  
+	[Units]Length::ValueIn[2]( [Units]LengthUnit, [System.Runtime]System.double  ) ->  
+	[Units]Length::Unitstring [1]( [Units]Units.ePropID  ) ->  
+	[Units]Length::ToString [2]( [Units]Units.ePropID , [System.Runtime]System.IFormatProvider ) ->  
+
+	[Units]Length::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Length::CompareTo[1]( [Units]Length ) skipped:  external base class  or interface
+	[Units]Length::ToString [0]( ) skipped:  external base class  or interface
+	[Units]Length::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]Length::Equals[1]( [Units]Length ) skipped:  external base class  or interface
+	[Units]Length::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Length::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]Length::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]Length::.ctor[2]( [System.Runtime]System.double , [Units]LengthUnit ) skipped:  special name
+	[Units]Length::op_EQuality [2]( [Units]Length, [Units]Length ) skipped:  special name
+	[Units]Length::op_IneQuality [2]( [Units]Length, [Units]Length ) skipped:  special name
+	[Units]Length::op_GreaterThan[2]( [Units]Length, [Units]Length ) skipped:  special name
+	[Units]Length::op_LessThan[2]( [Units]Length, [Units]Length ) skipped:  special name
+	[Units]Length::op_GreaterThanOrEqual[2]( [Units]Length, [Units]Length ) skipped:  special name
+	[Units]Length::op_LessThanOrEqual[2]( [Units]Length, [Units]Length ) skipped:  special name
+	[Units]Length::op_Addition[2]( [Units]Length, [Units]Length ) skipped:  special name
+	[Units]Length::op_Subtraction[2]( [Units]Length, [Units]Length ) skipped:  special name
+	[Units]Length::op_Multiply[2]( [Units]Length, [Units]Length ) skipped:  special name
+	[Units]Length::op_Division[2]( [Units]Length, [Units]Length ) skipped:  special name
+	[Units]Length::op_Modulus[2]( [Units]Length, [Units]Length ) skipped:  special name
+	[Units]Length::op_Implicit[1]( [Units]Length ) skipped:  special name
+	[Units]Length::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  Length::_value ->  
+	System.string  [Units]System.string  Length::name ->  
+
+	System.double  [Units]System.double  Length::Tolerance -> dropped
+	System.bool ean [Units]System.bool ean Length::IsKnown -> dropped
+	System.double  [Units]System.double  Length::m -> dropped
+	System.double  [Units]System.double  Length::cm -> dropped
+	System.double  [Units]System.double  Length::mm -> dropped
+	System.double  [Units]System.double  Length::BaseValue -> dropped
+	System.string  [Units]System.string  Length::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] Length::AllUnits -> dropped
+	System.string  [Units]System.string  Length::Name -> dropped
+	Units.ePropID  [Units]Units.ePropID  Length::propid -> dropped
+	System.double  [Units]System.double  Length::IUOM.DisplayValue -> dropped
+}
+
+[Units]Mass -> [Units] .‒
+{
+	[Units]Mass::get_Tolerance[0]( ) ->  
+	[Units]Mass::get_propid[0]( ) ->  
+	[Units]Mass::get_IsKnown[0]( ) ->  
+	[Units]Mass::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Mass::EraseValue[0]( ) ->  
+	[Units]Mass::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]Mass::get_BaseValue[0]( ) ->  
+	[Units]Mass::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Mass::get_DefaultUnit[0]( ) ->  
+	[Units]Mass::get_AllUnits[0]( ) ->  
+	[Units]Mass::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]Mass::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]Mass::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]Mass::get_Name[0]( ) ->  
+	[Units]Mass::get_kg[0]( ) ->  
+	[Units]Mass::set_kg[1]( [System.Runtime]System.double  ) ->  
+	[Units]Mass::get_g[0]( ) ->  
+	[Units]Mass::set_g[1]( [System.Runtime]System.double  ) ->  
+	[Units]Mass::get_te[0]( ) ->  
+	[Units]Mass::set_te[1]( [System.Runtime]System.double  ) ->  
+	[Units]Mass::get_lbs[0]( ) ->  
+	[Units]Mass::set_lbs[1]( [System.Runtime]System.double  ) ->  
+	[Units]Mass::IUOM.get_DisplayValue[0]( ) -> ​
+	[Units]Mass::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Mass::ValueIn[1]( [Units]MassEnthalpyUnit ) ->  
+	[Units]Mass::ToString [2]( [Units]MassEnthalpyUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]Mass::ToString [1]( [Units]MassEnthalpyUnit ) ->  
+	[Units]Mass::SetValue[1]( [Units]MassEnthalpy ) ->  
+	[Units]Mass::kg_to_g[1]( [System.Runtime]System.double  ) ->  
+	[Units]Mass::J_mol_to_kJ_kgmole[1]( [System.Runtime]System.double  ) ->  
+	[Units]Mass::ClearpublicSetVariable[0]( ) -> ‐
+	[Units]Mass::Pow[1]( [System.Runtime]System.double  ) ->  
+	[Units]Mass::Unitstring [1]( [Units]Units.ePropID  ) ->  
+	[Units]Mass::ToString [2]( [Units]Units.ePropID , [System.Runtime]System.IFormatProvider ) ->  
+
+	[Units]Mass::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Mass::CompareTo[1]( [Units]Mass ) skipped:  external base class  or interface
+	[Units]Mass::ToString [0]( ) skipped:  external base class  or interface
+	[Units]Mass::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]Mass::Equals[1]( [Units]Mass ) skipped:  external base class  or interface
+	[Units]Mass::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Mass::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]Mass::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]Mass::.ctor[2]( [System.Runtime]System.double , [Units]MassUnits ) skipped:  special name
+	[Units]Mass::op_EQuality [2]( [Units]Mass, [Units]Mass ) skipped:  special name
+	[Units]Mass::op_IneQuality [2]( [Units]Mass, [Units]Mass ) skipped:  special name
+	[Units]Mass::op_GreaterThan[2]( [Units]Mass, [Units]Mass ) skipped:  special name
+	[Units]Mass::op_LessThan[2]( [Units]Mass, [Units]Mass ) skipped:  special name
+	[Units]Mass::op_GreaterThanOrEqual[2]( [Units]Mass, [Units]Mass ) skipped:  special name
+	[Units]Mass::op_LessThanOrEqual[2]( [Units]Mass, [Units]Mass ) skipped:  special name
+	[Units]Mass::op_Addition[2]( [Units]Mass, [Units]Mass ) skipped:  special name
+	[Units]Mass::op_Subtraction[2]( [Units]Mass, [Units]Mass ) skipped:  special name
+	[Units]Mass::op_Multiply[2]( [Units]Mass, [Units]Mass ) skipped:  special name
+	[Units]Mass::op_Division[2]( [Units]Mass, [Units]Mass ) skipped:  special name
+	[Units]Mass::op_Modulus[2]( [Units]Mass, [Units]Mass ) skipped:  special name
+	[Units]Mass::op_Implicit[1]( [Units]Mass ) skipped:  special name
+	[Units]Mass::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  Mass::_kg ->  
+
+	System.double  [Units]System.double  Mass::Tolerance -> dropped
+	System.double  [Units]System.double  Mass::kg -> dropped
+	System.double  [Units]System.double  Mass::g -> dropped
+	System.double  [Units]System.double  Mass::te -> dropped
+	System.double  [Units]System.double  Mass::lbs -> dropped
+	System.bool ean [Units]System.bool ean Mass::IsKnown -> dropped
+	System.double  [Units]System.double  Mass::BaseValue -> dropped
+	System.string  [Units]System.string  Mass::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] Mass::AllUnits -> dropped
+	System.string  [Units]System.string  Mass::Name -> dropped
+	Units.ePropID  [Units]Units.ePropID  Mass::propid -> dropped
+	System.double  [Units]System.double  Mass::IUOM.DisplayValue -> dropped
+}
+
+[Units]MassHeatCapacity -> [Units] .–
+{
+	[Units]MassHeatCapacity::get_Tolerance[0]( ) ->  
+	[Units]MassHeatCapacity::get_propid[0]( ) ->  
+	[Units]MassHeatCapacity::get_IsKnown[0]( ) ->  
+	[Units]MassHeatCapacity::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassHeatCapacity::EraseValue[0]( ) ->  
+	[Units]MassHeatCapacity::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]MassHeatCapacity::get_BaseValue[0]( ) ->  
+	[Units]MassHeatCapacity::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassHeatCapacity::get_DefaultUnit[0]( ) ->  
+	[Units]MassHeatCapacity::get_AllUnits[0]( ) ->  
+	[Units]MassHeatCapacity::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]MassHeatCapacity::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]MassHeatCapacity::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]MassHeatCapacity::get_Name[0]( ) ->  
+	[Units]MassHeatCapacity::get_kJ_kg_C[0]( ) ->  
+	[Units]MassHeatCapacity::set_kJ_kg_C[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassHeatCapacity::get_J_g_C[0]( ) ->  
+	[Units]MassHeatCapacity::set_J_g_C[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassHeatCapacity::IUOM.get_DisplayValue[0]( ) ->  
+	[Units]MassHeatCapacity::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassHeatCapacity::ValueIn[1]( [Units]MassHeatCapacityUnit ) ->  
+	[Units]MassHeatCapacity::ToString [2]( [Units]MassHeatCapacityUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]MassHeatCapacity::ToString [1]( [Units]MassHeatCapacityUnit ) ->  
+	[Units]MassHeatCapacity::kJ_kg_Cmol_to_J_mole[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassHeatCapacity::J_mol_to_kJ_kg_Cmole[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassHeatCapacity::ClearpublicSetVariable[0]( ) ->  
+	[Units]MassHeatCapacity::Pow[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassHeatCapacity::Unitstring [1]( [Units]Units.ePropID  ) ->  
+	[Units]MassHeatCapacity::ToString [2]( [Units]Units.ePropID , [System.Runtime]System.IFormatProvider ) ->  
+
+	[Units]MassHeatCapacity::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]MassHeatCapacity::CompareTo[1]( [Units]MassHeatCapacity ) skipped:  external base class  or interface
+	[Units]MassHeatCapacity::ToString [0]( ) skipped:  external base class  or interface
+	[Units]MassHeatCapacity::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]MassHeatCapacity::Equals[1]( [Units]MassHeatCapacity ) skipped:  external base class  or interface
+	[Units]MassHeatCapacity::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]MassHeatCapacity::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]MassHeatCapacity::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]MassHeatCapacity::.ctor[2]( [System.Runtime]System.double , [Units]MassHeatCapacityUnit ) skipped:  special name
+	[Units]MassHeatCapacity::op_EQuality [2]( [Units]MassHeatCapacity, [Units]MassHeatCapacity ) skipped:  special name
+	[Units]MassHeatCapacity::op_IneQuality [2]( [Units]MassHeatCapacity, [Units]MassHeatCapacity ) skipped:  special name
+	[Units]MassHeatCapacity::op_GreaterThan[2]( [Units]MassHeatCapacity, [Units]MassHeatCapacity ) skipped:  special name
+	[Units]MassHeatCapacity::op_LessThan[2]( [Units]MassHeatCapacity, [Units]MassHeatCapacity ) skipped:  special name
+	[Units]MassHeatCapacity::op_GreaterThanOrEqual[2]( [Units]MassHeatCapacity, [Units]MassHeatCapacity ) skipped:  special name
+	[Units]MassHeatCapacity::op_LessThanOrEqual[2]( [Units]MassHeatCapacity, [Units]MassHeatCapacity ) skipped:  special name
+	[Units]MassHeatCapacity::op_Addition[2]( [Units]MassHeatCapacity, [Units]MassHeatCapacity ) skipped:  special name
+	[Units]MassHeatCapacity::op_Subtraction[2]( [Units]MassHeatCapacity, [Units]MassHeatCapacity ) skipped:  special name
+	[Units]MassHeatCapacity::op_Multiply[2]( [Units]MassHeatCapacity, [Units]MassHeatCapacity ) skipped:  special name
+	[Units]MassHeatCapacity::op_Division[2]( [Units]MassHeatCapacity, [Units]MassHeatCapacity ) skipped:  special name
+	[Units]MassHeatCapacity::op_Modulus[2]( [Units]MassHeatCapacity, [Units]MassHeatCapacity ) skipped:  special name
+	[Units]MassHeatCapacity::op_Implicit[1]( [Units]MassHeatCapacity ) skipped:  special name
+	[Units]MassHeatCapacity::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  MassHeatCapacity::_kJ_kg_C ->  
+
+	System.double  [Units]System.double  MassHeatCapacity::Tolerance -> dropped
+	System.double  [Units]System.double  MassHeatCapacity::kJ_kg_C -> dropped
+	System.double  [Units]System.double  MassHeatCapacity::J_g_C -> dropped
+	System.bool ean [Units]System.bool ean MassHeatCapacity::IsKnown -> dropped
+	System.double  [Units]System.double  MassHeatCapacity::BaseValue -> dropped
+	System.string  [Units]System.string  MassHeatCapacity::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] MassHeatCapacity::AllUnits -> dropped
+	System.string  [Units]System.string  MassHeatCapacity::Name -> dropped
+	Units.ePropID  [Units]Units.ePropID  MassHeatCapacity::propid -> dropped
+	System.double  [Units]System.double  MassHeatCapacity::IUOM.DisplayValue -> dropped
+}
+
+[Units]MassEnthalpy -> [Units] .—
+{
+	[Units]MassEnthalpy::get_Tolerance[0]( ) ->  
+	[Units]MassEnthalpy::get_propid[0]( ) ->  
+	[Units]MassEnthalpy::get_IsKnown[0]( ) ->  
+	[Units]MassEnthalpy::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassEnthalpy::EraseValue[0]( ) ->  
+	[Units]MassEnthalpy::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]MassEnthalpy::get_BaseValue[0]( ) ->  
+	[Units]MassEnthalpy::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassEnthalpy::get_DefaultUnit[0]( ) ->  
+	[Units]MassEnthalpy::get_AllUnits[0]( ) ->  
+	[Units]MassEnthalpy::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]MassEnthalpy::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]MassEnthalpy::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]MassEnthalpy::get_Name[0]( ) ->  
+	[Units]MassEnthalpy::get_kJ_kg[0]( ) ->  
+	[Units]MassEnthalpy::set_kJ_kg[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassEnthalpy::get_J_g[0]( ) ->  
+	[Units]MassEnthalpy::set_J_g[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassEnthalpy::IUOM.get_DisplayValue[0]( ) ->  
+	[Units]MassEnthalpy::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassEnthalpy::ValueIn[1]( [Units]MassEnthalpyUnit ) ->  
+	[Units]MassEnthalpy::ToString [2]( [Units]MassEnthalpyUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]MassEnthalpy::ToString [1]( [Units]MassEnthalpyUnit ) ->  
+	[Units]MassEnthalpy::SetValue[1]( [Units]MassEnthalpy ) ->  
+	[Units]MassEnthalpy::kJ_kgmol_to_J_mole[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassEnthalpy::J_mol_to_kJ_kgmole[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassEnthalpy::ClearpublicSetVariable[0]( ) ->  
+	[Units]MassEnthalpy::Pow[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassEnthalpy::Unitstring [1]( [Units]Units.ePropID  ) ->  
+	[Units]MassEnthalpy::ToString [2]( [Units]Units.ePropID , [System.Runtime]System.IFormatProvider ) ->  
+
+	[Units]MassEnthalpy::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]MassEnthalpy::CompareTo[1]( [Units]MassEnthalpy ) skipped:  external base class  or interface
+	[Units]MassEnthalpy::ToString [0]( ) skipped:  external base class  or interface
+	[Units]MassEnthalpy::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]MassEnthalpy::Equals[1]( [Units]MassEnthalpy ) skipped:  external base class  or interface
+	[Units]MassEnthalpy::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]MassEnthalpy::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]MassEnthalpy::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]MassEnthalpy::.ctor[2]( [System.Runtime]System.double , [Units]MassEnthalpyUnit ) skipped:  special name
+	[Units]MassEnthalpy::op_EQuality [2]( [Units]MassEnthalpy, [Units]MassEnthalpy ) skipped:  special name
+	[Units]MassEnthalpy::op_IneQuality [2]( [Units]MassEnthalpy, [Units]MassEnthalpy ) skipped:  special name
+	[Units]MassEnthalpy::op_GreaterThan[2]( [Units]MassEnthalpy, [Units]MassEnthalpy ) skipped:  special name
+	[Units]MassEnthalpy::op_LessThan[2]( [Units]MassEnthalpy, [Units]MassEnthalpy ) skipped:  special name
+	[Units]MassEnthalpy::op_GreaterThanOrEqual[2]( [Units]MassEnthalpy, [Units]MassEnthalpy ) skipped:  special name
+	[Units]MassEnthalpy::op_LessThanOrEqual[2]( [Units]MassEnthalpy, [Units]MassEnthalpy ) skipped:  special name
+	[Units]MassEnthalpy::op_Addition[2]( [Units]MassEnthalpy, [Units]MassEnthalpy ) skipped:  special name
+	[Units]MassEnthalpy::op_Subtraction[2]( [Units]MassEnthalpy, [Units]MassEnthalpy ) skipped:  special name
+	[Units]MassEnthalpy::op_Multiply[2]( [Units]MassEnthalpy, [Units]MassEnthalpy ) skipped:  special name
+	[Units]MassEnthalpy::op_Division[2]( [Units]MassEnthalpy, [Units]MassEnthalpy ) skipped:  special name
+	[Units]MassEnthalpy::op_Modulus[2]( [Units]MassEnthalpy, [Units]MassEnthalpy ) skipped:  special name
+	[Units]MassEnthalpy::op_Implicit[1]( [Units]MassEnthalpy ) skipped:  special name
+	[Units]MassEnthalpy::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  MassEnthalpy::_kJ_kgmole ->  
+
+	System.double  [Units]System.double  MassEnthalpy::Tolerance -> dropped
+	System.double  [Units]System.double  MassEnthalpy::kJ_kg -> dropped
+	System.double  [Units]System.double  MassEnthalpy::J_g -> dropped
+	System.bool ean [Units]System.bool ean MassEnthalpy::IsKnown -> dropped
+	System.double  [Units]System.double  MassEnthalpy::BaseValue -> dropped
+	System.string  [Units]System.string  MassEnthalpy::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] MassEnthalpy::AllUnits -> dropped
+	System.string  [Units]System.string  MassEnthalpy::Name -> dropped
+	Units.ePropID  [Units]Units.ePropID  MassEnthalpy::propid -> dropped
+	System.double  [Units]System.double  MassEnthalpy::IUOM.DisplayValue -> dropped
+}
+
+[Units]MassEntropy -> [Units] .―
+{
+	[Units]MassEntropy::get_Tolerance[0]( ) ->  
+	[Units]MassEntropy::get_propid[0]( ) ->  
+	[Units]MassEntropy::get_IsKnown[0]( ) ->  
+	[Units]MassEntropy::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassEntropy::EraseValue[0]( ) ->  
+	[Units]MassEntropy::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]MassEntropy::get_BaseValue[0]( ) ->  
+	[Units]MassEntropy::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassEntropy::get_DefaultUnit[0]( ) ->  
+	[Units]MassEntropy::get_AllUnits[0]( ) ->  
+	[Units]MassEntropy::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]MassEntropy::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]MassEntropy::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]MassEntropy::get_Name[0]( ) ->  
+	[Units]MassEntropy::get_J_K[0]( ) ->  
+	[Units]MassEntropy::set_J_K[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassEntropy::get_kJ_K[0]( ) ->  
+	[Units]MassEntropy::set_kJ_K[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassEntropy::IUOM.get_DisplayValue[0]( ) ->  
+	[Units]MassEntropy::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassEntropy::ValueIn[1]( [Units]MassEntropyUnit ) ->  
+	[Units]MassEntropy::ToString [2]( [Units]MassEntropyUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]MassEntropy::ToString [1]( [Units]MassEntropyUnit ) ->  
+	[Units]MassEntropy::SetValue[1]( [Units]MassEntropy ) ->  
+	[Units]MassEntropy::J_K_to_kJ_K[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassEntropy::KJ_K_to_J_K[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassEntropy::ClearpublicSetVariable[0]( ) ->  
+	[Units]MassEntropy::Pow[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassEntropy::Unitstring [1]( [Units]Units.ePropID  ) ->  
+	[Units]MassEntropy::ToString [2]( [Units]Units.ePropID , [System.Runtime]System.IFormatProvider ) ->  
+
+	[Units]MassEntropy::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]MassEntropy::CompareTo[1]( [Units]MassEntropy ) skipped:  external base class  or interface
+	[Units]MassEntropy::ToString [0]( ) skipped:  external base class  or interface
+	[Units]MassEntropy::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]MassEntropy::Equals[1]( [Units]MassEntropy ) skipped:  external base class  or interface
+	[Units]MassEntropy::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]MassEntropy::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]MassEntropy::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]MassEntropy::.ctor[2]( [System.Runtime]System.double , [Units]MassEntropyUnit ) skipped:  special name
+	[Units]MassEntropy::op_EQuality [2]( [Units]MassEntropy, [Units]MassEntropy ) skipped:  special name
+	[Units]MassEntropy::op_IneQuality [2]( [Units]MassEntropy, [Units]MassEntropy ) skipped:  special name
+	[Units]MassEntropy::op_GreaterThan[2]( [Units]MassEntropy, [Units]MassEntropy ) skipped:  special name
+	[Units]MassEntropy::op_LessThan[2]( [Units]MassEntropy, [Units]MassEntropy ) skipped:  special name
+	[Units]MassEntropy::op_GreaterThanOrEqual[2]( [Units]MassEntropy, [Units]MassEntropy ) skipped:  special name
+	[Units]MassEntropy::op_LessThanOrEqual[2]( [Units]MassEntropy, [Units]MassEntropy ) skipped:  special name
+	[Units]MassEntropy::op_Addition[2]( [Units]MassEntropy, [Units]MassEntropy ) skipped:  special name
+	[Units]MassEntropy::op_Subtraction[2]( [Units]MassEntropy, [Units]MassEntropy ) skipped:  special name
+	[Units]MassEntropy::op_Multiply[2]( [Units]MassEntropy, [Units]MassEntropy ) skipped:  special name
+	[Units]MassEntropy::op_Division[2]( [Units]MassEntropy, [Units]MassEntropy ) skipped:  special name
+	[Units]MassEntropy::op_Modulus[2]( [Units]MassEntropy, [Units]MassEntropy ) skipped:  special name
+	[Units]MassEntropy::op_Implicit[1]( [Units]MassEntropy ) skipped:  special name
+	[Units]MassEntropy::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  MassEntropy::_J_K ->  
+
+	System.double  [Units]System.double  MassEntropy::Tolerance -> dropped
+	System.double  [Units]System.double  MassEntropy::J_K -> dropped
+	System.double  [Units]System.double  MassEntropy::kJ_K -> dropped
+	System.bool ean [Units]System.bool ean MassEntropy::IsKnown -> dropped
+	System.double  [Units]System.double  MassEntropy::BaseValue -> dropped
+	System.string  [Units]System.string  MassEntropy::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] MassEntropy::AllUnits -> dropped
+	System.string  [Units]System.string  MassEntropy::Name -> dropped
+	Units.ePropID  [Units]Units.ePropID  MassEntropy::propid -> dropped
+	System.double  [Units]System.double  MassEntropy::IUOM.DisplayValue -> dropped
+}
+
+[Units]MassFlow -> [Units] .•
+{
+	[Units]MassFlow::get_Tolerance[0]( ) ->  
+	[Units]MassFlow::get_propid[0]( ) ->  
+	[Units]MassFlow::get_IsKnown[0]( ) ->  
+	[Units]MassFlow::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassFlow::EraseValue[0]( ) ->  
+	[Units]MassFlow::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]MassFlow::get_BaseValue[0]( ) ->  
+	[Units]MassFlow::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassFlow::get_DefaultUnit[0]( ) ->  
+	[Units]MassFlow::get_AllUnits[0]( ) ->  
+	[Units]MassFlow::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]MassFlow::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]MassFlow::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]MassFlow::get_Name[0]( ) ->  
+	[Units]MassFlow::Pow[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassFlow::get_kg_hr[0]( ) ->  
+	[Units]MassFlow::set_kg_hr[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassFlow::get_kg_s[0]( ) ->  
+	[Units]MassFlow::set_kg_s[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassFlow::get_te_d[0]( ) ->  
+	[Units]MassFlow::set_te_d[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassFlow::get_te_hr[0]( ) ->  
+	[Units]MassFlow::set_te_hr[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassFlow::get_lbs_hr[0]( ) -> ​
+	[Units]MassFlow::set_lbs_hr[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassFlow::ValueIn[2]( [Units]MassFlowUnit, [System.Runtime]System.double  ) ->  
+	[Units]MassFlow::Valueout [1]( [Units]MassFlowUnit ) ->  
+	[Units]MassFlow::ToString [2]( [Units]MassFlowUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]MassFlow::ToString [1]( [Units]MassFlowUnit ) ->  
+	[Units]MassFlow::get_HasChanged[0]( ) -> ‐
+	[Units]MassFlow::set_HasChanged[1]( [System.Runtime]System.bool ean ) ->  
+	[Units]MassFlow::IUOM.get_DisplayValue[0]( ) -> ‑
+	[Units]MassFlow::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassFlow::kg_hr_to_kg_s[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassFlow::kg_s_to_kg_hr[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassFlow::KelvintoFahrenheit[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassFlow::FahrenheitToKelvin[1]( [System.Runtime]System.double  ) -> ​
+	[Units]MassFlow::KelvintoRankine[1]( [System.Runtime]System.double  ) -> ‐
+	[Units]MassFlow::RankineToKelvin[1]( [System.Runtime]System.double  ) -> ‑
+	[Units]MassFlow::FahrenheitToCelsius[1]( [System.Runtime]System.double  ) -> ‒
+	[Units]MassFlow::CelsiusToFahrenheit[1]( [System.Runtime]System.double  ) -> –
+	[Units]MassFlow::Unitstring [1]( [Units]Units.ePropID  ) ->  
+	[Units]MassFlow::ToString [2]( [Units]Units.ePropID , [System.Runtime]System.IFormatProvider ) ->  
+
+	[Units]MassFlow::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]MassFlow::CompareTo[1]( [Units]MassFlow ) skipped:  external base class  or interface
+	[Units]MassFlow::ToString [0]( ) skipped:  external base class  or interface
+	[Units]MassFlow::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]MassFlow::Equals[1]( [Units]MassFlow ) skipped:  external base class  or interface
+	[Units]MassFlow::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]MassFlow::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]MassFlow::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]MassFlow::.ctor[2]( [System.Runtime]System.double , [Units]MassFlowUnit ) skipped:  special name
+	[Units]MassFlow::op_EQuality [2]( [Units]MassFlow, [Units]MassFlow ) skipped:  special name
+	[Units]MassFlow::op_IneQuality [2]( [Units]MassFlow, [Units]MassFlow ) skipped:  special name
+	[Units]MassFlow::op_GreaterThan[2]( [Units]MassFlow, [Units]MassFlow ) skipped:  special name
+	[Units]MassFlow::op_LessThan[2]( [Units]MassFlow, [Units]MassFlow ) skipped:  special name
+	[Units]MassFlow::op_GreaterThanOrEqual[2]( [Units]MassFlow, [Units]MassFlow ) skipped:  special name
+	[Units]MassFlow::op_LessThanOrEqual[2]( [Units]MassFlow, [Units]MassFlow ) skipped:  special name
+	[Units]MassFlow::op_Addition[2]( [Units]MassFlow, [Units]MassFlow ) skipped:  special name
+	[Units]MassFlow::op_Subtraction[2]( [Units]MassFlow, [Units]MassFlow ) skipped:  special name
+	[Units]MassFlow::op_Multiply[2]( [Units]MassFlow, [Units]MassFlow ) skipped:  special name
+	[Units]MassFlow::op_Division[2]( [Units]MassFlow, [Units]MassFlow ) skipped:  special name
+	[Units]MassFlow::op_Modulus[2]( [Units]MassFlow, [Units]MassFlow ) skipped:  special name
+	[Units]MassFlow::op_Implicit[1]( [Units]MassFlow ) skipped:  special name
+	[Units]MassFlow::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  MassFlow::_kg_hr ->  
+	System.double  [Units]System.double  MassFlow::kg_per_lb ->  
+	System.bool ean [Units]System.bool ean MassFlow::<HasChanged>k__BackingField ->  
+
+	System.double  [Units]System.double  MassFlow::Tolerance -> dropped
+	Units.ePropID  [Units]Units.ePropID  MassFlow::propid -> dropped
+	System.bool ean [Units]System.bool ean MassFlow::IsKnown -> dropped
+	System.double  [Units]System.double  MassFlow::kg_hr -> dropped
+	System.double  [Units]System.double  MassFlow::kg_s -> dropped
+	System.double  [Units]System.double  MassFlow::te_d -> dropped
+	System.double  [Units]System.double  MassFlow::te_hr -> dropped
+	System.double  [Units]System.double  MassFlow::lbs_hr -> dropped
+	System.double  [Units]System.double  MassFlow::BaseValue -> dropped
+	System.string  [Units]System.string  MassFlow::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] MassFlow::AllUnits -> dropped
+	System.string  [Units]System.string  MassFlow::Name -> dropped
+	System.bool ean [Units]System.bool ean MassFlow::HasChanged -> dropped
+	System.double  [Units]System.double  MassFlow::IUOM.DisplayValue -> dropped
+}
+
+[Units]MassHelmotz -> [Units] .․
+{
+	[Units]MassHelmotz::get_Tolerance[0]( ) ->  
+	[Units]MassHelmotz::get_propid[0]( ) ->  
+	[Units]MassHelmotz::get_IsKnown[0]( ) ->  
+	[Units]MassHelmotz::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassHelmotz::EraseValue[0]( ) ->  
+	[Units]MassHelmotz::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]MassHelmotz::get_BaseValue[0]( ) ->  
+	[Units]MassHelmotz::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassHelmotz::get_DefaultUnit[0]( ) ->  
+	[Units]MassHelmotz::get_AllUnits[0]( ) ->  
+	[Units]MassHelmotz::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]MassHelmotz::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]MassHelmotz::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]MassHelmotz::get_Name[0]( ) ->  
+	[Units]MassHelmotz::get_DisplayValue[0]( ) ->  
+	[Units]MassHelmotz::set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassHelmotz::get_kJ_kg[0]( ) ->  
+	[Units]MassHelmotz::set_kJ_kg[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassHelmotz::get_j_mole[0]( ) ->  
+	[Units]MassHelmotz::set_j_mole[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassHelmotz::ValueIn[1]( [Units]MassHelmotzUnit ) ->  
+	[Units]MassHelmotz::ToString [2]( [Units]MassHelmotzUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]MassHelmotz::ToString [1]( [Units]MassHelmotzUnit ) ->  
+	[Units]MassHelmotz::SetValue[1]( [Units]MassHelmotz ) ->  
+	[Units]MassHelmotz::kJ_kgmol_to_J_mole[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassHelmotz::J_g_to_kJ_kg[1]( [System.Runtime]System.double  ) ->  
+	[Units]MassHelmotz::ClearpublicSetVariable[0]( ) ->  
+
+	[Units]MassHelmotz::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]MassHelmotz::CompareTo[1]( [Units]MassHelmotz ) skipped:  external base class  or interface
+	[Units]MassHelmotz::ToString [0]( ) skipped:  external base class  or interface
+	[Units]MassHelmotz::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]MassHelmotz::Equals[1]( [Units]MassHelmotz ) skipped:  external base class  or interface
+	[Units]MassHelmotz::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]MassHelmotz::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]MassHelmotz::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]MassHelmotz::.ctor[2]( [System.Runtime]System.double , [Units]MassHelmotzUnit ) skipped:  special name
+	[Units]MassHelmotz::op_EQuality [2]( [Units]MassHelmotz, [Units]MassHelmotz ) skipped:  special name
+	[Units]MassHelmotz::op_IneQuality [2]( [Units]MassHelmotz, [Units]MassHelmotz ) skipped:  special name
+	[Units]MassHelmotz::op_GreaterThan[2]( [Units]MassHelmotz, [Units]MassHelmotz ) skipped:  special name
+	[Units]MassHelmotz::op_LessThan[2]( [Units]MassHelmotz, [Units]MassHelmotz ) skipped:  special name
+	[Units]MassHelmotz::op_GreaterThanOrEqual[2]( [Units]MassHelmotz, [Units]MassHelmotz ) skipped:  special name
+	[Units]MassHelmotz::op_LessThanOrEqual[2]( [Units]MassHelmotz, [Units]MassHelmotz ) skipped:  special name
+	[Units]MassHelmotz::op_Addition[2]( [Units]MassHelmotz, [Units]MassHelmotz ) skipped:  special name
+	[Units]MassHelmotz::op_Subtraction[2]( [Units]MassHelmotz, [Units]MassHelmotz ) skipped:  special name
+	[Units]MassHelmotz::op_Multiply[2]( [Units]MassHelmotz, [Units]MassHelmotz ) skipped:  special name
+	[Units]MassHelmotz::op_Division[2]( [Units]MassHelmotz, [Units]MassHelmotz ) skipped:  special name
+	[Units]MassHelmotz::op_Modulus[2]( [Units]MassHelmotz, [Units]MassHelmotz ) skipped:  special name
+	[Units]MassHelmotz::op_Implicit[1]( [Units]MassHelmotz ) skipped:  special name
+	[Units]MassHelmotz::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  MassHelmotz::_kJ_kg ->  
+
+	System.double  [Units]System.double  MassHelmotz::kJ_kg -> dropped
+	System.double  [Units]System.double  MassHelmotz::j_mole -> dropped
+	System.bool ean [Units]System.bool ean MassHelmotz::IsKnown -> dropped
+	System.double  [Units]System.double  MassHelmotz::Tolerance -> dropped
+	Units.ePropID  [Units]Units.ePropID  MassHelmotz::propid -> dropped
+	System.double  [Units]System.double  MassHelmotz::BaseValue -> dropped
+	System.string  [Units]System.string  MassHelmotz::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] MassHelmotz::AllUnits -> dropped
+	System.string  [Units]System.string  MassHelmotz::Name -> dropped
+	System.double  [Units]System.double  MassHelmotz::DisplayValue -> dropped
+}
+
+[Units]HeatCapacity -> [Units] .‥
+{
+	[Units]HeatCapacity::get_Tolerance[0]( ) ->  
+	[Units]HeatCapacity::get_propid[0]( ) ->  
+	[Units]HeatCapacity::get_IsKnown[0]( ) ->  
+	[Units]HeatCapacity::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]HeatCapacity::EraseValue[0]( ) ->  
+	[Units]HeatCapacity::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]HeatCapacity::get_BaseValue[0]( ) ->  
+	[Units]HeatCapacity::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]HeatCapacity::get_DefaultUnit[0]( ) ->  
+	[Units]HeatCapacity::get_AllUnits[0]( ) ->  
+	[Units]HeatCapacity::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]HeatCapacity::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]HeatCapacity::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]HeatCapacity::get_Name[0]( ) ->  
+	[Units]HeatCapacity::get_kJ_kgmole_C[0]( ) ->  
+	[Units]HeatCapacity::set_kJ_kgmole_C[1]( [System.Runtime]System.double  ) ->  
+	[Units]HeatCapacity::get_J_mole_C[0]( ) ->  
+	[Units]HeatCapacity::set_J_mole_C[1]( [System.Runtime]System.double  ) ->  
+	[Units]HeatCapacity::IUOM.get_DisplayValue[0]( ) ->  
+	[Units]HeatCapacity::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]HeatCapacity::ValueIn[1]( [Units]HeatCapacityUnit ) ->  
+	[Units]HeatCapacity::ToString [2]( [Units]HeatCapacityUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]HeatCapacity::ToString [1]( [Units]HeatCapacityUnit ) ->  
+	[Units]HeatCapacity::SetValue[1]( [Units]HeatCapacity ) ->  
+	[Units]HeatCapacity::kJ_kgmol_to_J_mole_C[1]( [System.Runtime]System.double  ) ->  
+	[Units]HeatCapacity::J_mol_to_kJ_kgmole_C[1]( [System.Runtime]System.double  ) ->  
+	[Units]HeatCapacity::ClearpublicSetVariable[0]( ) ->  
+	[Units]HeatCapacity::Pow[1]( [System.Runtime]System.double  ) ->  
+	[Units]HeatCapacity::Unitstring [1]( [Units]Units.ePropID  ) ->  
+	[Units]HeatCapacity::ToString [2]( [Units]Units.ePropID , [System.Runtime]System.IFormatProvider ) ->  
+
+	[Units]HeatCapacity::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]HeatCapacity::CompareTo[1]( [Units]HeatCapacity ) skipped:  external base class  or interface
+	[Units]HeatCapacity::ToString [0]( ) skipped:  external base class  or interface
+	[Units]HeatCapacity::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]HeatCapacity::Equals[1]( [Units]HeatCapacity ) skipped:  external base class  or interface
+	[Units]HeatCapacity::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]HeatCapacity::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]HeatCapacity::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]HeatCapacity::.ctor[2]( [System.Runtime]System.double , [Units]HeatCapacityUnit ) skipped:  special name
+	[Units]HeatCapacity::op_EQuality [2]( [Units]HeatCapacity, [Units]HeatCapacity ) skipped:  special name
+	[Units]HeatCapacity::op_IneQuality [2]( [Units]HeatCapacity, [Units]HeatCapacity ) skipped:  special name
+	[Units]HeatCapacity::op_GreaterThan[2]( [Units]HeatCapacity, [Units]HeatCapacity ) skipped:  special name
+	[Units]HeatCapacity::op_LessThan[2]( [Units]HeatCapacity, [Units]HeatCapacity ) skipped:  special name
+	[Units]HeatCapacity::op_GreaterThanOrEqual[2]( [Units]HeatCapacity, [Units]HeatCapacity ) skipped:  special name
+	[Units]HeatCapacity::op_LessThanOrEqual[2]( [Units]HeatCapacity, [Units]HeatCapacity ) skipped:  special name
+	[Units]HeatCapacity::op_Addition[2]( [Units]HeatCapacity, [Units]HeatCapacity ) skipped:  special name
+	[Units]HeatCapacity::op_Subtraction[2]( [Units]HeatCapacity, [Units]HeatCapacity ) skipped:  special name
+	[Units]HeatCapacity::op_Multiply[2]( [Units]HeatCapacity, [Units]HeatCapacity ) skipped:  special name
+	[Units]HeatCapacity::op_Division[2]( [Units]HeatCapacity, [Units]HeatCapacity ) skipped:  special name
+	[Units]HeatCapacity::op_Modulus[2]( [Units]HeatCapacity, [Units]HeatCapacity ) skipped:  special name
+	[Units]HeatCapacity::op_Implicit[1]( [Units]HeatCapacity ) skipped:  special name
+	[Units]HeatCapacity::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  HeatCapacity::_kJ_kgmole_C ->  
+
+	System.double  [Units]System.double  HeatCapacity::Tolerance -> dropped
+	System.double  [Units]System.double  HeatCapacity::kJ_kgmole_C -> dropped
+	System.double  [Units]System.double  HeatCapacity::J_mole_C -> dropped
+	System.bool ean [Units]System.bool ean HeatCapacity::IsKnown -> dropped
+	System.double  [Units]System.double  HeatCapacity::BaseValue -> dropped
+	System.string  [Units]System.string  HeatCapacity::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] HeatCapacity::AllUnits -> dropped
+	System.string  [Units]System.string  HeatCapacity::Name -> dropped
+	Units.ePropID  [Units]Units.ePropID  HeatCapacity::propid -> dropped
+	System.double  [Units]System.double  HeatCapacity::IUOM.DisplayValue -> dropped
+}
+
+[Units]Enthalpy -> [Units] .‧
+{
+	[Units]Enthalpy::get_Tolerance[0]( ) ->  
+	[Units]Enthalpy::get_propid[0]( ) ->  
+	[Units]Enthalpy::get_IsKnown[0]( ) ->  
+	[Units]Enthalpy::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Enthalpy::EraseValue[0]( ) ->  
+	[Units]Enthalpy::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]Enthalpy::get_BaseValue[0]( ) ->  
+	[Units]Enthalpy::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Enthalpy::get_DefaultUnit[0]( ) ->  
+	[Units]Enthalpy::get_AllUnits[0]( ) ->  
+	[Units]Enthalpy::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]Enthalpy::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]Enthalpy::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]Enthalpy::get_Name[0]( ) ->  
+	[Units]Enthalpy::get_kJ_kgmole[0]( ) ->  
+	[Units]Enthalpy::set_kJ_kgmole[1]( [System.Runtime]System.double  ) ->  
+	[Units]Enthalpy::get_J_mole[0]( ) ->  
+	[Units]Enthalpy::set_J_mole[1]( [System.Runtime]System.double  ) ->  
+	[Units]Enthalpy::IUOM.get_DisplayValue[0]( ) ->  
+	[Units]Enthalpy::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Enthalpy::Valueout [1]( [Units]EnthalpyUnit ) ->  
+	[Units]Enthalpy::ToString [2]( [Units]EnthalpyUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]Enthalpy::ToString [1]( [Units]EnthalpyUnit ) ->  
+	[Units]Enthalpy::SetValue[1]( [Units]Enthalpy ) ->  
+	[Units]Enthalpy::kJ_kgmol_to_J_mole[1]( [System.Runtime]System.double  ) ->  
+	[Units]Enthalpy::J_mol_to_kJ_kgmole[1]( [System.Runtime]System.double  ) ->  
+	[Units]Enthalpy::ClearpublicSetVariable[0]( ) ->  
+	[Units]Enthalpy::Pow[1]( [System.Runtime]System.double  ) ->  
+	[Units]Enthalpy::ValueIn[2]( [Units]EnthalpyUnit, [System.Runtime]System.double  ) ->  
+
+	[Units]Enthalpy::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Enthalpy::CompareTo[1]( [Units]Enthalpy ) skipped:  external base class  or interface
+	[Units]Enthalpy::ToString [0]( ) skipped:  external base class  or interface
+	[Units]Enthalpy::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]Enthalpy::Equals[1]( [Units]Enthalpy ) skipped:  external base class  or interface
+	[Units]Enthalpy::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Enthalpy::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]Enthalpy::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]Enthalpy::.ctor[2]( [System.Runtime]System.double , [Units]EnthalpyUnit ) skipped:  special name
+	[Units]Enthalpy::op_EQuality [2]( [Units]Enthalpy, [Units]Enthalpy ) skipped:  special name
+	[Units]Enthalpy::op_IneQuality [2]( [Units]Enthalpy, [Units]Enthalpy ) skipped:  special name
+	[Units]Enthalpy::op_GreaterThan[2]( [Units]Enthalpy, [Units]Enthalpy ) skipped:  special name
+	[Units]Enthalpy::op_LessThan[2]( [Units]Enthalpy, [Units]Enthalpy ) skipped:  special name
+	[Units]Enthalpy::op_GreaterThanOrEqual[2]( [Units]Enthalpy, [Units]Enthalpy ) skipped:  special name
+	[Units]Enthalpy::op_LessThanOrEqual[2]( [Units]Enthalpy, [Units]Enthalpy ) skipped:  special name
+	[Units]Enthalpy::op_Addition[2]( [Units]Enthalpy, [Units]Enthalpy ) skipped:  special name
+	[Units]Enthalpy::op_Subtraction[2]( [Units]Enthalpy, [Units]Enthalpy ) skipped:  special name
+	[Units]Enthalpy::op_Multiply[2]( [Units]Enthalpy, [Units]Enthalpy ) skipped:  special name
+	[Units]Enthalpy::op_Division[2]( [Units]Enthalpy, [Units]Enthalpy ) skipped:  special name
+	[Units]Enthalpy::op_Modulus[2]( [Units]Enthalpy, [Units]Enthalpy ) skipped:  special name
+	[Units]Enthalpy::op_Implicit[1]( [Units]Enthalpy ) skipped:  special name
+	[Units]Enthalpy::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  Enthalpy::_kJ_kgmole ->  
+
+	System.double  [Units]System.double  Enthalpy::Tolerance -> dropped
+	Units.ePropID  [Units]Units.ePropID  Enthalpy::propid -> dropped
+	System.double  [Units]System.double  Enthalpy::kJ_kgmole -> dropped
+	System.double  [Units]System.double  Enthalpy::J_mole -> dropped
+	System.bool ean [Units]System.bool ean Enthalpy::IsKnown -> dropped
+	System.double  [Units]System.double  Enthalpy::BaseValue -> dropped
+	System.string  [Units]System.string  Enthalpy::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] Enthalpy::AllUnits -> dropped
+	System.string  [Units]System.string  Enthalpy::Name -> dropped
+	System.double  [Units]System.double  Enthalpy::IUOM.DisplayValue -> dropped
+}
+
+[Units]MoleFlow -> [Units] . 
+{
+	[Units]MoleFlow::get_Tolerance[0]( ) ->  
+	[Units]MoleFlow::get_propid[0]( ) ->  
+	[Units]MoleFlow::get_IsKnown[0]( ) ->  
+	[Units]MoleFlow::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MoleFlow::EraseValue[0]( ) ->  
+	[Units]MoleFlow::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]MoleFlow::get_BaseValue[0]( ) ->  
+	[Units]MoleFlow::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MoleFlow::get_DefaultUnit[0]( ) ->  
+	[Units]MoleFlow::get_AllUnits[0]( ) ->  
+	[Units]MoleFlow::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]MoleFlow::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]MoleFlow::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]MoleFlow::get_Name[0]( ) ->  
+	[Units]MoleFlow::Pow[1]( [System.Runtime]System.double  ) ->  
+	[Units]MoleFlow::get_kgMole_hr[0]( ) ->  
+	[Units]MoleFlow::set_kgMole_hr[1]( [System.Runtime]System.double  ) ->  
+	[Units]MoleFlow::get_lbMole_hr[0]( ) ->  
+	[Units]MoleFlow::set_lbMole_hr[1]( [System.Runtime]System.double  ) ->  
+	[Units]MoleFlow::get_kgMole_s[0]( ) ->  
+	[Units]MoleFlow::set_kgMole_s[1]( [System.Runtime]System.double  ) ->  
+	[Units]MoleFlow::Valueout [1]( [Units]MoleFlowUnit ) ->  
+	[Units]MoleFlow::ValueIn[2]( [Units]MoleFlowUnit, [System.Runtime]System.double  ) ->  
+	[Units]MoleFlow::ToString [2]( [Units]MoleFlowUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]MoleFlow::ToString [1]( [Units]MoleFlowUnit ) ->  
+	[Units]MoleFlow::IUOM.get_DisplayValue[0]( ) ->  
+	[Units]MoleFlow::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]MoleFlow::kgMole_hr_to_kgMole_s[1]( [System.Runtime]System.double  ) ->  
+	[Units]MoleFlow::kgMole_s_to_kgMole_hr[1]( [System.Runtime]System.double  ) ->  
+	[Units]MoleFlow::KelvintoFahrenheit[1]( [System.Runtime]System.double  ) ->  
+	[Units]MoleFlow::FahrenheitToKelvin[1]( [System.Runtime]System.double  ) ->  
+	[Units]MoleFlow::KelvintoRankine[1]( [System.Runtime]System.double  ) ->  
+	[Units]MoleFlow::RankineToKelvin[1]( [System.Runtime]System.double  ) -> ​
+	[Units]MoleFlow::FahrenheitToCelsius[1]( [System.Runtime]System.double  ) -> ‐
+	[Units]MoleFlow::CelsiusToFahrenheit[1]( [System.Runtime]System.double  ) -> ‑
+	[Units]MoleFlow::Unitstring [1]( [Units]Units.ePropID  ) ->  
+	[Units]MoleFlow::ToString [2]( [Units]Units.ePropID , [System.Runtime]System.IFormatProvider ) ->  
+
+	[Units]MoleFlow::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]MoleFlow::CompareTo[1]( [Units]MoleFlow ) skipped:  external base class  or interface
+	[Units]MoleFlow::ToString [0]( ) skipped:  external base class  or interface
+	[Units]MoleFlow::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]MoleFlow::Equals[1]( [Units]MoleFlow ) skipped:  external base class  or interface
+	[Units]MoleFlow::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]MoleFlow::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]MoleFlow::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]MoleFlow::.ctor[2]( [System.Runtime]System.double , [Units]MoleFlowUnit ) skipped:  special name
+	[Units]MoleFlow::op_EQuality [2]( [Units]MoleFlow, [Units]MoleFlow ) skipped:  special name
+	[Units]MoleFlow::op_IneQuality [2]( [Units]MoleFlow, [Units]MoleFlow ) skipped:  special name
+	[Units]MoleFlow::op_GreaterThan[2]( [Units]MoleFlow, [Units]MoleFlow ) skipped:  special name
+	[Units]MoleFlow::op_LessThan[2]( [Units]MoleFlow, [Units]MoleFlow ) skipped:  special name
+	[Units]MoleFlow::op_GreaterThanOrEqual[2]( [Units]MoleFlow, [Units]MoleFlow ) skipped:  special name
+	[Units]MoleFlow::op_LessThanOrEqual[2]( [Units]MoleFlow, [Units]MoleFlow ) skipped:  special name
+	[Units]MoleFlow::op_Addition[2]( [Units]MoleFlow, [Units]MoleFlow ) skipped:  special name
+	[Units]MoleFlow::op_Subtraction[2]( [Units]MoleFlow, [Units]MoleFlow ) skipped:  special name
+	[Units]MoleFlow::op_Multiply[2]( [Units]MoleFlow, [Units]MoleFlow ) skipped:  special name
+	[Units]MoleFlow::op_Division[2]( [Units]MoleFlow, [Units]MoleFlow ) skipped:  special name
+	[Units]MoleFlow::op_Modulus[2]( [Units]MoleFlow, [Units]MoleFlow ) skipped:  special name
+	[Units]MoleFlow::op_Implicit[1]( [Units]MoleFlow ) skipped:  special name
+	[Units]MoleFlow::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  MoleFlow::_value ->  
+	System.double  [Units]System.double  MoleFlow::kg_per_lb ->  
+
+	System.double  [Units]System.double  MoleFlow::Tolerance -> dropped
+	Units.ePropID  [Units]Units.ePropID  MoleFlow::propid -> dropped
+	System.bool ean [Units]System.bool ean MoleFlow::IsKnown -> dropped
+	System.double  [Units]System.double  MoleFlow::kgMole_hr -> dropped
+	System.double  [Units]System.double  MoleFlow::lbMole_hr -> dropped
+	System.double  [Units]System.double  MoleFlow::kgMole_s -> dropped
+	System.double  [Units]System.double  MoleFlow::BaseValue -> dropped
+	System.string  [Units]System.string  MoleFlow::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] MoleFlow::AllUnits -> dropped
+	System.string  [Units]System.string  MoleFlow::Name -> dropped
+	System.double  [Units]System.double  MoleFlow::IUOM.DisplayValue -> dropped
+}
+
+[Units]Null -> [Units] . 
+{
+	[Units]Null::get_Tolerance[0]( ) ->  
+	[Units]Null::get_propid[0]( ) ->  
+	[Units]Null::get_IsKnown[0]( ) ->  
+	[Units]Null::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Null::EraseValue[0]( ) ->  
+	[Units]Null::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]Null::get_BaseValue[0]( ) ->  
+	[Units]Null::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Null::get_DefaultUnit[0]( ) ->  
+	[Units]Null::get_AllUnits[0]( ) ->  
+	[Units]Null::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]Null::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]Null::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]Null::get_Name[0]( ) ->  
+	[Units]Null::get_Quality Molar[0]( ) ->  
+	[Units]Null::set_Quality Molar[1]( [System.Runtime]System.double  ) ->  
+	[Units]Null::IUOM.get_DisplayValue[0]( ) ->  
+	[Units]Null::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Null::ValueIn[1]( [Units]NullUnits ) ->  
+	[Units]Null::ToString [2]( [Units]NullUnits, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]Null::ToString [1]( [Units]NullUnits ) ->  
+	[Units]Null::ClearpublicSetVariable[0]( ) ->  
+	[Units]Null::Pow[1]( [System.Runtime]System.double  ) ->  
+	[Units]Null::Unitstring [1]( [Units]Units.ePropID  ) ->  
+	[Units]Null::ToString [2]( [Units]Units.ePropID , [System.Runtime]System.IFormatProvider ) ->  
+
+	[Units]Null::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Null::CompareTo[1]( [Units]Null ) skipped:  external base class  or interface
+	[Units]Null::ToString [0]( ) skipped:  external base class  or interface
+	[Units]Null::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]Null::Equals[1]( [Units]Null ) skipped:  external base class  or interface
+	[Units]Null::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Null::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]Null::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]Null::.ctor[2]( [System.Runtime]System.double , [Units]NullUnits ) skipped:  special name
+	[Units]Null::op_EQuality [2]( [Units]Null, [Units]Null ) skipped:  special name
+	[Units]Null::op_IneQuality [2]( [Units]Null, [Units]Null ) skipped:  special name
+	[Units]Null::op_GreaterThan[2]( [Units]Null, [Units]Null ) skipped:  special name
+	[Units]Null::op_LessThan[2]( [Units]Null, [Units]Null ) skipped:  special name
+	[Units]Null::op_GreaterThanOrEqual[2]( [Units]Null, [Units]Null ) skipped:  special name
+	[Units]Null::op_LessThanOrEqual[2]( [Units]Null, [Units]Null ) skipped:  special name
+	[Units]Null::op_Addition[2]( [Units]Null, [Units]Null ) skipped:  special name
+	[Units]Null::op_Subtraction[2]( [Units]Null, [Units]Null ) skipped:  special name
+	[Units]Null::op_Multiply[2]( [Units]Null, [Units]Null ) skipped:  special name
+	[Units]Null::op_Division[2]( [Units]Null, [Units]Null ) skipped:  special name
+	[Units]Null::op_Modulus[2]( [Units]Null, [Units]Null ) skipped:  special name
+	[Units]Null::op_Implicit[1]( [Units]Null ) skipped:  special name
+	[Units]Null::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  Null::_Quality  ->  
+
+	System.double  [Units]System.double  Null::Tolerance -> dropped
+	System.double  [Units]System.double  Null::Quality Molar -> dropped
+	System.bool ean [Units]System.bool ean Null::IsKnown -> dropped
+	System.double  [Units]System.double  Null::BaseValue -> dropped
+	System.string  [Units]System.string  Null::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] Null::AllUnits -> dropped
+	System.string  [Units]System.string  Null::Name -> dropped
+	Units.ePropID  [Units]Units.ePropID  Null::propid -> dropped
+	System.double  [Units]System.double  Null::IUOM.DisplayValue -> dropped
+}
+
+[Units]Pressure  -> [Units] .‪
+{
+	[Units]Pressure ::get_Tolerance[0]( ) ->  
+	[Units]Pressure ::get_propid[0]( ) ->  
+	[Units]Pressure ::get_IsKnown[0]( ) ->  
+	[Units]Pressure ::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Pressure ::EraseValue[0]( ) ->  
+	[Units]Pressure ::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]Pressure ::get_BaseValue[0]( ) ->  
+	[Units]Pressure ::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Pressure ::get_DefaultUnit[0]( ) ->  
+	[Units]Pressure ::get_AllUnits[0]( ) ->  
+	[Units]Pressure ::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]Pressure ::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]Pressure ::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]Pressure ::get_Name[0]( ) ->  
+	[Units]Pressure ::get_BarA[0]( ) ->  
+	[Units]Pressure ::set_BarA[1]( [System.Runtime]System.double  ) ->  
+	[Units]Pressure ::get_MPa[0]( ) ->  
+	[Units]Pressure ::set_MPa[1]( [System.Runtime]System.double  ) ->  
+	[Units]Pressure ::get_MPaG[0]( ) ->  
+	[Units]Pressure ::set_MPaG[1]( [System.Runtime]System.double  ) ->  
+	[Units]Pressure ::get_MMHGA[0]( ) ->  
+	[Units]Pressure ::set_MMHGA[1]( [System.Runtime]System.double  ) ->  
+	[Units]Pressure ::get_MMHGG[0]( ) -> ​
+	[Units]Pressure ::set_MMHGG[1]( [System.Runtime]System.double  ) ->  
+	[Units]Pressure ::MMHGtoBAR[1]( [System.Runtime]System.double  ) ->  
+	[Units]Pressure ::BarToMMG[1]( [System.Runtime]System.double  ) ->  
+	[Units]Pressure ::get_kPa[0]( ) -> ‐
+	[Units]Pressure ::set_kPa[1]( [System.Runtime]System.double  ) ->  
+	[Units]Pressure ::get_PSIA[0]( ) -> ‑
+	[Units]Pressure ::set_PSIA[1]( [System.Runtime]System.double  ) ->  
+	[Units]Pressure ::get_ATMA[0]( ) -> ‒
+	[Units]Pressure ::set_ATMA[1]( [System.Runtime]System.double  ) ->  
+	[Units]Pressure ::get_BARG[0]( ) -> –
+	[Units]Pressure ::set_BARG[1]( [System.Runtime]System.double  ) -> ​
+	[Units]Pressure ::get_kg_cm2_g[0]( ) -> —
+	[Units]Pressure ::set_kg_cm2_g[1]( [System.Runtime]System.double  ) -> ‐
+	[Units]Pressure ::get_kg_cm2[0]( ) -> ―
+	[Units]Pressure ::set_kg_cm2[1]( [System.Runtime]System.double  ) -> ‑
+	[Units]Pressure ::get_PSIG[0]( ) -> •
+	[Units]Pressure ::set_PSIG[1]( [System.Runtime]System.double  ) -> ‒
+	[Units]Pressure ::BarAToBarG[1]( [System.Runtime]System.double  ) -> –
+	[Units]Pressure ::BarGToBarA[1]( [System.Runtime]System.double  ) -> —
+	[Units]Pressure ::kgcm2_to_bar[1]( [System.Runtime]System.double  ) -> ―
+	[Units]Pressure ::bar_to_kgcm2[1]( [System.Runtime]System.double  ) -> •
+	[Units]Pressure ::IUOM.get_DisplayValue[0]( ) -> ․
+	[Units]Pressure ::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) -> ․
+	[Units]Pressure ::ToString [2]( [Units]PressureUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]Pressure ::ToString [1]( [Units]PressureUnit ) ->  
+	[Units]Pressure ::SetValue[1]( [Units]Pressure  ) ->  
+	[Units]Pressure ::BarToMPA[1]( [System.Runtime]System.double  ) -> ‥
+	[Units]Pressure ::MPatoBar[1]( [System.Runtime]System.double  ) -> ‧
+	[Units]Pressure ::BarAtokPa[1]( [System.Runtime]System.double  ) ->  
+	[Units]Pressure ::kPatoBarA[1]( [System.Runtime]System.double  ) ->  
+	[Units]Pressure ::BarAtoPSIA[1]( [System.Runtime]System.double  ) -> ‪
+	[Units]Pressure ::BarGtoBarA[1]( [System.Runtime]System.double  ) -> ‫
+	[Units]Pressure ::BarAtoATMA[1]( [System.Runtime]System.double  ) -> ‬
+	[Units]Pressure ::ATMAtoBarA[1]( [System.Runtime]System.double  ) -> ‭
+	[Units]Pressure ::psiatoBarA[1]( [System.Runtime]System.double  ) -> ‮
+	[Units]Pressure ::ClearpublicSetVariable[0]( ) -> ‥
+	[Units]Pressure ::Valueout [1]( [Units]PressureUnit ) ->  
+	[Units]Pressure ::ValueIn[2]( [Units]PressureUnit, [System.Runtime]System.double  ) ->  
+	[Units]Pressure ::Pow[1]( [System.Runtime]System.double  ) ->  
+
+	[Units]Pressure ::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Pressure ::CompareTo[1]( [Units]Pressure  ) skipped:  external base class  or interface
+	[Units]Pressure ::ToString [0]( ) skipped:  external base class  or interface
+	[Units]Pressure ::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]Pressure ::Equals[1]( [Units]Pressure  ) skipped:  external base class  or interface
+	[Units]Pressure ::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Pressure ::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]Pressure ::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]Pressure ::.ctor[2]( [System.Runtime]System.double , [Units]PressureUnit ) skipped:  special name
+	[Units]Pressure ::op_EQuality [2]( [Units]Pressure , [Units]Pressure  ) skipped:  special name
+	[Units]Pressure ::op_IneQuality [2]( [Units]Pressure , [Units]Pressure  ) skipped:  special name
+	[Units]Pressure ::op_GreaterThan[2]( [Units]Pressure , [Units]Pressure  ) skipped:  special name
+	[Units]Pressure ::op_LessThan[2]( [Units]Pressure , [Units]Pressure  ) skipped:  special name
+	[Units]Pressure ::op_GreaterThanOrEqual[2]( [Units]Pressure , [Units]Pressure  ) skipped:  special name
+	[Units]Pressure ::op_LessThanOrEqual[2]( [Units]Pressure , [Units]Pressure  ) skipped:  special name
+	[Units]Pressure ::op_Addition[2]( [Units]Pressure , [Units]Pressure  ) skipped:  special name
+	[Units]Pressure ::op_Subtraction[2]( [Units]Pressure , [Units]Pressure  ) skipped:  special name
+	[Units]Pressure ::op_Multiply[2]( [Units]Pressure , [Units]Pressure  ) skipped:  special name
+	[Units]Pressure ::op_Division[2]( [Units]Pressure , [Units]Pressure  ) skipped:  special name
+	[Units]Pressure ::op_Modulus[2]( [Units]Pressure , [Units]Pressure  ) skipped:  special name
+	[Units]Pressure ::op_Implicit[1]( [Units]Pressure  ) skipped:  special name
+	[Units]Pressure ::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  Pressure ::One_Atm_in_bar ->  
+	System.double  [Units]System.double  Pressure ::Atm_bar ->  
+	System.double  [Units]System.double  Pressure ::bar_Atm ->  
+	System.double  [Units]System.double  Pressure ::kgcm2_kpa ->  
+	System.double  [Units]System.double  Pressure ::kgcm2_bar ->  
+	System.double  [Units]System.double  Pressure ::bar_kgcm2 ->  
+	System.double  [Units]System.double  Pressure ::bar_kpa ->  
+	System.double  [Units]System.double  Pressure ::bar_psi ->  
+	System.double  [Units]System.double  Pressure ::_BarA ->  
+
+	System.double  [Units]System.double  Pressure ::Tolerance -> dropped
+	System.double  [Units]System.double  Pressure ::BarA -> dropped
+	System.double  [Units]System.double  Pressure ::MPa -> dropped
+	System.double  [Units]System.double  Pressure ::MPaG -> dropped
+	System.double  [Units]System.double  Pressure ::MMHGA -> dropped
+	System.double  [Units]System.double  Pressure ::MMHGG -> dropped
+	System.double  [Units]System.double  Pressure ::kPa -> dropped
+	System.double  [Units]System.double  Pressure ::PSIA -> dropped
+	System.double  [Units]System.double  Pressure ::ATMA -> dropped
+	System.double  [Units]System.double  Pressure ::BARG -> dropped
+	System.double  [Units]System.double  Pressure ::kg_cm2_g -> dropped
+	System.double  [Units]System.double  Pressure ::kg_cm2 -> dropped
+	System.double  [Units]System.double  Pressure ::PSIG -> dropped
+	System.bool ean [Units]System.bool ean Pressure ::IsKnown -> dropped
+	System.double  [Units]System.double  Pressure ::BaseValue -> dropped
+	System.string  [Units]System.string  Pressure ::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] Pressure ::AllUnits -> dropped
+	System.string  [Units]System.string  Pressure ::Name -> dropped
+	Units.ePropID  [Units]Units.ePropID  Pressure ::propid -> dropped
+	System.double  [Units]System.double  Pressure ::IUOM.DisplayValue -> dropped
+}
+
+[Units]Quality  -> [Units] .‫
+{
+	[Units]Quality ::get_Tolerance[0]( ) ->  
+	[Units]Quality ::get_propid[0]( ) ->  
+	[Units]Quality ::get_IsKnown[0]( ) ->  
+	[Units]Quality ::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Quality ::EraseValue[0]( ) ->  
+	[Units]Quality ::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]Quality ::get_BaseValue[0]( ) ->  
+	[Units]Quality ::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Quality ::get_DefaultUnit[0]( ) ->  
+	[Units]Quality ::get_AllUnits[0]( ) ->  
+	[Units]Quality ::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]Quality ::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]Quality ::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]Quality ::get_Name[0]( ) ->  
+	[Units]Quality ::get_Quality Molar[0]( ) ->  
+	[Units]Quality ::set_Quality Molar[1]( [System.Runtime]System.double  ) ->  
+	[Units]Quality ::set_IsKnown[1]( [System.Runtime]System.bool ean ) ->  
+	[Units]Quality ::IUOM.get_DisplayValue[0]( ) ->  
+	[Units]Quality ::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Quality ::ValueIn[1]( [Units]QualityUnit ) ->  
+	[Units]Quality ::ToString [2]( [Units]QualityUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]Quality ::ToString [1]( [Units]QualityUnit ) ->  
+	[Units]Quality ::SetValue[1]( [Units]Quality  ) ->  
+	[Units]Quality ::ClearpublicSetVariable[0]( ) ->  
+	[Units]Quality ::Pow[1]( [System.Runtime]System.double  ) ->  
+
+	[Units]Quality ::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Quality ::CompareTo[1]( [Units]Quality  ) skipped:  external base class  or interface
+	[Units]Quality ::ToString [0]( ) skipped:  external base class  or interface
+	[Units]Quality ::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]Quality ::Equals[1]( [Units]Quality  ) skipped:  external base class  or interface
+	[Units]Quality ::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Quality ::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]Quality ::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]Quality ::.ctor[2]( [System.Runtime]System.double , [Units]QualityUnit ) skipped:  special name
+	[Units]Quality ::op_EQuality [2]( [Units]Quality , [Units]Quality  ) skipped:  special name
+	[Units]Quality ::op_IneQuality [2]( [Units]Quality , [Units]Quality  ) skipped:  special name
+	[Units]Quality ::op_GreaterThan[2]( [Units]Quality , [Units]Quality  ) skipped:  special name
+	[Units]Quality ::op_LessThan[2]( [Units]Quality , [Units]Quality  ) skipped:  special name
+	[Units]Quality ::op_GreaterThanOrEqual[2]( [Units]Quality , [Units]Quality  ) skipped:  special name
+	[Units]Quality ::op_LessThanOrEqual[2]( [Units]Quality , [Units]Quality  ) skipped:  special name
+	[Units]Quality ::op_Addition[2]( [Units]Quality , [Units]Quality  ) skipped:  special name
+	[Units]Quality ::op_Subtraction[2]( [Units]Quality , [Units]Quality  ) skipped:  special name
+	[Units]Quality ::op_Multiply[2]( [Units]Quality , [Units]Quality  ) skipped:  special name
+	[Units]Quality ::op_Division[2]( [Units]Quality , [Units]Quality  ) skipped:  special name
+	[Units]Quality ::op_Modulus[2]( [Units]Quality , [Units]Quality  ) skipped:  special name
+	[Units]Quality ::op_Implicit[1]( [Units]Quality  ) skipped:  special name
+	[Units]Quality ::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  Quality ::_Quality  ->  
+	System.bool ean [Units]System.bool ean Quality ::_isKnown ->  
+	System.bool ean [Units]System.bool ean Quality ::IsPrimary ->  
+
+	System.double  [Units]System.double  Quality ::Tolerance -> dropped
+	Units.ePropID  [Units]Units.ePropID  Quality ::propid -> dropped
+	System.double  [Units]System.double  Quality ::Quality Molar -> dropped
+	System.bool ean [Units]System.bool ean Quality ::IsKnown -> dropped
+	System.double  [Units]System.double  Quality ::BaseValue -> dropped
+	System.string  [Units]System.string  Quality ::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] Quality ::AllUnits -> dropped
+	System.string  [Units]System.string  Quality ::Name -> dropped
+	System.double  [Units]System.double  Quality ::IUOM.DisplayValue -> dropped
+}
+
+[Units]SpecificEnergy -> [Units] .‬
+{
+	[Units]SpecificEnergy::get_Tolerance[0]( ) ->  
+	[Units]SpecificEnergy::get_propid[0]( ) ->  
+	[Units]SpecificEnergy::get_IsKnown[0]( ) ->  
+	[Units]SpecificEnergy::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]SpecificEnergy::EraseValue[0]( ) ->  
+	[Units]SpecificEnergy::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]SpecificEnergy::get_BaseValue[0]( ) ->  
+	[Units]SpecificEnergy::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]SpecificEnergy::get_DefaultUnit[0]( ) ->  
+	[Units]SpecificEnergy::get_AllUnits[0]( ) ->  
+	[Units]SpecificEnergy::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]SpecificEnergy::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]SpecificEnergy::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]SpecificEnergy::get_Name[0]( ) ->  
+	[Units]SpecificEnergy::set_IsKnown[1]( [System.Runtime]System.bool ean ) ->  
+	[Units]SpecificEnergy::IUOM.get_DisplayValue[0]( ) ->  
+	[Units]SpecificEnergy::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]SpecificEnergy::ValueIn[1]( [Units]SpecificVolumeUnit ) ->  
+	[Units]SpecificEnergy::ToString [2]( [Units]DensityUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]SpecificEnergy::ToString [1]( [Units]DensityUnit ) ->  
+	[Units]SpecificEnergy::SetValue[1]( [Units]SpecificEnergy ) ->  
+	[Units]SpecificEnergy::ClearpublicSetVariable[0]( ) ->  
+	[Units]SpecificEnergy::Pow[1]( [System.Runtime]System.double  ) ->  
+
+	[Units]SpecificEnergy::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]SpecificEnergy::CompareTo[1]( [Units]SpecificVolume ) skipped:  external base class  or interface
+	[Units]SpecificEnergy::ToString [0]( ) skipped:  external base class  or interface
+	[Units]SpecificEnergy::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]SpecificEnergy::Equals[1]( [Units]SpecificVolume ) skipped:  external base class  or interface
+	[Units]SpecificEnergy::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]SpecificEnergy::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]SpecificEnergy::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]SpecificEnergy::.ctor[2]( [System.Runtime]System.double , [Units]SpecificEnergyUnit ) skipped:  special name
+	[Units]SpecificEnergy::op_EQuality [2]( [Units]SpecificEnergy, [Units]SpecificEnergy ) skipped:  special name
+	[Units]SpecificEnergy::op_IneQuality [2]( [Units]SpecificEnergy, [Units]SpecificEnergy ) skipped:  special name
+	[Units]SpecificEnergy::op_GreaterThan[2]( [Units]SpecificEnergy, [Units]SpecificEnergy ) skipped:  special name
+	[Units]SpecificEnergy::op_LessThan[2]( [Units]SpecificEnergy, [Units]SpecificEnergy ) skipped:  special name
+	[Units]SpecificEnergy::op_GreaterThanOrEqual[2]( [Units]SpecificEnergy, [Units]SpecificEnergy ) skipped:  special name
+	[Units]SpecificEnergy::op_LessThanOrEqual[2]( [Units]SpecificEnergy, [Units]SpecificEnergy ) skipped:  special name
+	[Units]SpecificEnergy::op_Addition[2]( [Units]SpecificEnergy, [Units]SpecificEnergy ) skipped:  special name
+	[Units]SpecificEnergy::op_Subtraction[2]( [Units]SpecificEnergy, [Units]SpecificEnergy ) skipped:  special name
+	[Units]SpecificEnergy::op_Multiply[2]( [Units]SpecificEnergy, [Units]SpecificEnergy ) skipped:  special name
+	[Units]SpecificEnergy::op_Division[2]( [Units]SpecificEnergy, [Units]SpecificEnergy ) skipped:  special name
+	[Units]SpecificEnergy::op_Modulus[2]( [Units]SpecificEnergy, [Units]SpecificEnergy ) skipped:  special name
+	[Units]SpecificEnergy::op_Implicit[1]( [Units]SpecificEnergy ) skipped:  special name
+	[Units]SpecificEnergy::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  SpecificEnergy::_kj_kg ->  
+	System.bool ean [Units]System.bool ean SpecificEnergy::_isKnown ->  
+	System.bool ean [Units]System.bool ean SpecificEnergy::IsPrimary ->  
+	System.double  [Units]System.double  SpecificEnergy::WaterDensity ->  
+
+	System.double  [Units]System.double  SpecificEnergy::Tolerance -> dropped
+	Units.ePropID  [Units]Units.ePropID  SpecificEnergy::propid -> dropped
+	System.bool ean [Units]System.bool ean SpecificEnergy::IsKnown -> dropped
+	System.double  [Units]System.double  SpecificEnergy::BaseValue -> dropped
+	System.string  [Units]System.string  SpecificEnergy::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] SpecificEnergy::AllUnits -> dropped
+	System.string  [Units]System.string  SpecificEnergy::Name -> dropped
+	System.double  [Units]System.double  SpecificEnergy::IUOM.DisplayValue -> dropped
+}
+
+[Units]SpecificVolume -> [Units] .‭
+{
+	[Units]SpecificVolume::get_Tolerance[0]( ) ->  
+	[Units]SpecificVolume::get_propid[0]( ) ->  
+	[Units]SpecificVolume::get_IsKnown[0]( ) ->  
+	[Units]SpecificVolume::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]SpecificVolume::EraseValue[0]( ) ->  
+	[Units]SpecificVolume::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]SpecificVolume::get_BaseValue[0]( ) ->  
+	[Units]SpecificVolume::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]SpecificVolume::get_DefaultUnit[0]( ) ->  
+	[Units]SpecificVolume::get_AllUnits[0]( ) ->  
+	[Units]SpecificVolume::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]SpecificVolume::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]SpecificVolume::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]SpecificVolume::get_Name[0]( ) ->  
+	[Units]SpecificVolume::set_IsKnown[1]( [System.Runtime]System.bool ean ) ->  
+	[Units]SpecificVolume::IUOM.get_DisplayValue[0]( ) ->  
+	[Units]SpecificVolume::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]SpecificVolume::ValueIn[1]( [Units]SpecificVolumeUnit ) ->  
+	[Units]SpecificVolume::ToString [2]( [Units]DensityUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]SpecificVolume::ToString [1]( [Units]DensityUnit ) ->  
+	[Units]SpecificVolume::SetValue[1]( [Units]Quality  ) ->  
+	[Units]SpecificVolume::ClearpublicSetVariable[0]( ) ->  
+	[Units]SpecificVolume::Pow[1]( [System.Runtime]System.double  ) ->  
+
+	[Units]SpecificVolume::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]SpecificVolume::CompareTo[1]( [Units]SpecificVolume ) skipped:  external base class  or interface
+	[Units]SpecificVolume::ToString [0]( ) skipped:  external base class  or interface
+	[Units]SpecificVolume::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]SpecificVolume::Equals[1]( [Units]SpecificVolume ) skipped:  external base class  or interface
+	[Units]SpecificVolume::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]SpecificVolume::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]SpecificVolume::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]SpecificVolume::.ctor[2]( [System.Runtime]System.double , [Units]DensityUnit ) skipped:  special name
+	[Units]SpecificVolume::op_EQuality [2]( [Units]SpecificVolume, [Units]SpecificVolume ) skipped:  special name
+	[Units]SpecificVolume::op_IneQuality [2]( [Units]SpecificVolume, [Units]SpecificVolume ) skipped:  special name
+	[Units]SpecificVolume::op_GreaterThan[2]( [Units]SpecificVolume, [Units]SpecificVolume ) skipped:  special name
+	[Units]SpecificVolume::op_LessThan[2]( [Units]SpecificVolume, [Units]SpecificVolume ) skipped:  special name
+	[Units]SpecificVolume::op_GreaterThanOrEqual[2]( [Units]SpecificVolume, [Units]SpecificVolume ) skipped:  special name
+	[Units]SpecificVolume::op_LessThanOrEqual[2]( [Units]SpecificVolume, [Units]SpecificVolume ) skipped:  special name
+	[Units]SpecificVolume::op_Addition[2]( [Units]SpecificVolume, [Units]SpecificVolume ) skipped:  special name
+	[Units]SpecificVolume::op_Subtraction[2]( [Units]SpecificVolume, [Units]SpecificVolume ) skipped:  special name
+	[Units]SpecificVolume::op_Multiply[2]( [Units]SpecificVolume, [Units]SpecificVolume ) skipped:  special name
+	[Units]SpecificVolume::op_Division[2]( [Units]SpecificVolume, [Units]SpecificVolume ) skipped:  special name
+	[Units]SpecificVolume::op_Modulus[2]( [Units]SpecificVolume, [Units]SpecificVolume ) skipped:  special name
+	[Units]SpecificVolume::op_Implicit[1]( [Units]SpecificVolume ) skipped:  special name
+	[Units]SpecificVolume::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  SpecificVolume::_m3_kg ->  
+	System.bool ean [Units]System.bool ean SpecificVolume::_isKnown ->  
+	System.bool ean [Units]System.bool ean SpecificVolume::IsPrimary ->  
+	System.double  [Units]System.double  SpecificVolume::WaterDensity ->  
+
+	System.double  [Units]System.double  SpecificVolume::Tolerance -> dropped
+	Units.ePropID  [Units]Units.ePropID  SpecificVolume::propid -> dropped
+	System.bool ean [Units]System.bool ean SpecificVolume::IsKnown -> dropped
+	System.double  [Units]System.double  SpecificVolume::BaseValue -> dropped
+	System.string  [Units]System.string  SpecificVolume::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] SpecificVolume::AllUnits -> dropped
+	System.string  [Units]System.string  SpecificVolume::Name -> dropped
+	System.double  [Units]System.double  SpecificVolume::IUOM.DisplayValue -> dropped
+}
+
+[Units]Temperature  -> [Units] .‮
+{
+	[Units]Temperature ::get_Tolerance[0]( ) ->  
+	[Units]Temperature ::get_propid[0]( ) ->  
+	[Units]Temperature ::get_IsKnown[0]( ) ->  
+	[Units]Temperature ::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Temperature ::EraseValue[0]( ) ->  
+	[Units]Temperature ::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]Temperature ::get_BaseValue[0]( ) ->  
+	[Units]Temperature ::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Temperature ::get_DefaultUnit[0]( ) ->  
+	[Units]Temperature ::get_AllUnits[0]( ) ->  
+	[Units]Temperature ::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]Temperature ::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]Temperature ::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]Temperature ::get_Name[0]( ) ->  
+	[Units]Temperature ::Pow[1]( [System.Runtime]System.double  ) ->  
+	[Units]Temperature ::get_Kelvin[0]( ) ->  
+	[Units]Temperature ::set_Kelvin[1]( [System.Runtime]System.double  ) ->  
+	[Units]Temperature ::get_Celsius[0]( ) ->  
+	[Units]Temperature ::set_Celsius[1]( [System.Runtime]System.double  ) ->  
+	[Units]Temperature ::get_Fahrenheit[0]( ) ->  
+	[Units]Temperature ::set_Fahrenheit[1]( [System.Runtime]System.double  ) ->  
+	[Units]Temperature ::get_Rankine[0]( ) ->  
+	[Units]Temperature ::set_Rankine[1]( [System.Runtime]System.double  ) ->  
+	[Units]Temperature ::Valueout [1]( [Units]TemperatureUnit ) ->  
+	[Units]Temperature ::ValueIn[2]( [Units]TemperatureUnit, [System.Runtime]System.double  ) ->  
+	[Units]Temperature ::ToString [2]( [Units]TemperatureUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]Temperature ::ToString [1]( [Units]TemperatureUnit ) ->  
+	[Units]Temperature ::get_HasChanged[0]( ) -> ​
+	[Units]Temperature ::set_HasChanged[1]( [System.Runtime]System.bool ean ) ->  
+	[Units]Temperature ::IUOM.get_DisplayValue[0]( ) -> ‐
+	[Units]Temperature ::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]Temperature ::KelvintoCelsius[1]( [System.Runtime]System.double  ) ->  
+	[Units]Temperature ::CelsiusToKelvin[1]( [System.Runtime]System.double  ) ->  
+	[Units]Temperature ::KelvintoFahrenheit[1]( [System.Runtime]System.double  ) ->  
+	[Units]Temperature ::FahrenheitToKelvin[1]( [System.Runtime]System.double  ) ->  
+	[Units]Temperature ::KelvintoRankine[1]( [System.Runtime]System.double  ) -> ​
+	[Units]Temperature ::RankineToKelvin[1]( [System.Runtime]System.double  ) -> ‐
+	[Units]Temperature ::FahrenheitToCelsius[1]( [System.Runtime]System.double  ) -> ‑
+	[Units]Temperature ::CelsiusToFahrenheit[1]( [System.Runtime]System.double  ) -> ‒
+	[Units]Temperature ::ToDefault[2]( [Units]TemperatureUnit, [System.Runtime]System.double  ) ->  
+	[Units]Temperature ::FromDefault[1]( [Units]TemperatureUnit ) ->  
+
+	[Units]Temperature ::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Temperature ::CompareTo[1]( [Units]Temperature  ) skipped:  external base class  or interface
+	[Units]Temperature ::ToString [0]( ) skipped:  external base class  or interface
+	[Units]Temperature ::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]Temperature ::Equals[1]( [Units]Temperature  ) skipped:  external base class  or interface
+	[Units]Temperature ::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]Temperature ::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]Temperature ::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]Temperature ::.ctor[2]( [System.Runtime]System.double , [Units]TemperatureUnit ) skipped:  special name
+	[Units]Temperature ::op_EQuality [2]( [Units]Temperature , [Units]Temperature  ) skipped:  special name
+	[Units]Temperature ::op_IneQuality [2]( [Units]Temperature , [Units]Temperature  ) skipped:  special name
+	[Units]Temperature ::op_GreaterThan[2]( [Units]Temperature , [Units]Temperature  ) skipped:  special name
+	[Units]Temperature ::op_LessThan[2]( [Units]Temperature , [Units]Temperature  ) skipped:  special name
+	[Units]Temperature ::op_GreaterThanOrEqual[2]( [Units]Temperature , [Units]Temperature  ) skipped:  special name
+	[Units]Temperature ::op_LessThanOrEqual[2]( [Units]Temperature , [Units]Temperature  ) skipped:  special name
+	[Units]Temperature ::op_Addition[2]( [Units]Temperature , [Units]Temperature  ) skipped:  special name
+	[Units]Temperature ::op_Subtraction[2]( [Units]Temperature , [Units]Temperature  ) skipped:  special name
+	[Units]Temperature ::op_Multiply[2]( [Units]Temperature , [Units]Temperature  ) skipped:  special name
+	[Units]Temperature ::op_Division[2]( [Units]Temperature , [Units]Temperature  ) skipped:  special name
+	[Units]Temperature ::op_Modulus[2]( [Units]Temperature , [Units]Temperature  ) skipped:  special name
+	[Units]Temperature ::op_Implicit[1]( [Units]Temperature  ) skipped:  special name
+	[Units]Temperature ::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  Temperature ::_Kelvin ->  
+	System.bool ean [Units]System.bool ean Temperature ::<HasChanged>k__BackingField ->  
+
+	Units.ePropID  [Units]Units.ePropID  Temperature ::propid -> dropped
+	System.bool ean [Units]System.bool ean Temperature ::IsKnown -> dropped
+	System.string  [Units]System.string  Temperature ::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] Temperature ::AllUnits -> dropped
+	System.double  [Units]System.double  Temperature ::Kelvin -> dropped
+	System.double  [Units]System.double  Temperature ::Celsius -> dropped
+	System.double  [Units]System.double  Temperature ::Fahrenheit -> dropped
+	System.double  [Units]System.double  Temperature ::Rankine -> dropped
+	System.double  [Units]System.double  Temperature ::BaseValue -> dropped
+	System.string  [Units]System.string  Temperature ::Name -> dropped
+	System.bool ean [Units]System.bool ean Temperature ::HasChanged -> dropped
+	System.double  [Units]System.double  Temperature ::Tolerance -> dropped
+	System.double  [Units]System.double  Temperature ::IUOM.DisplayValue -> dropped
+}
+
+[Units]UA -> [Units] . 
+{
+	[Units]UA::get_Tolerance[0]( ) ->  
+	[Units]UA::get_propid[0]( ) ->  
+	[Units]UA::get_IsKnown[0]( ) ->  
+	[Units]UA::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]UA::EraseValue[0]( ) ->  
+	[Units]UA::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]UA::get_BaseValue[0]( ) ->  
+	[Units]UA::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]UA::get_DefaultUnit[0]( ) ->  
+	[Units]UA::get_AllUnits[0]( ) ->  
+	[Units]UA::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]UA::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]UA::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]UA::get_Name[0]( ) ->  
+	[Units]UA::Pow[1]( [System.Runtime]System.double  ) ->  
+	[Units]UA::Valueout [1]( [Units]UAUnit ) ->  
+	[Units]UA::ValueIn[2]( [Units]UAUnit, [System.Runtime]System.double  ) ->  
+	[Units]UA::ToString [2]( [Units]UAUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]UA::ToString [1]( [Units]UAUnit ) ->  
+	[Units]UA::get_HasChanged[0]( ) ->  
+	[Units]UA::set_HasChanged[1]( [System.Runtime]System.bool ean ) ->  
+	[Units]UA::IUOM.get_DisplayValue[0]( ) ->  
+	[Units]UA::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]UA::ToDefault[2]( [Units]UAUnit, [System.Runtime]System.double  ) ->  
+	[Units]UA::FromDefault[1]( [Units]UAUnit ) ->  
+
+	[Units]UA::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]UA::CompareTo[1]( [Units]UA ) skipped:  external base class  or interface
+	[Units]UA::ToString [0]( ) skipped:  external base class  or interface
+	[Units]UA::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]UA::Equals[1]( [Units]UA ) skipped:  external base class  or interface
+	[Units]UA::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]UA::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]UA::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]UA::.ctor[2]( [System.Runtime]System.double , [Units]UAUnit ) skipped:  special name
+	[Units]UA::op_EQuality [2]( [Units]UA, [Units]UA ) skipped:  special name
+	[Units]UA::op_IneQuality [2]( [Units]UA, [Units]UA ) skipped:  special name
+	[Units]UA::op_GreaterThan[2]( [Units]UA, [Units]UA ) skipped:  special name
+	[Units]UA::op_LessThan[2]( [Units]UA, [Units]UA ) skipped:  special name
+	[Units]UA::op_GreaterThanOrEqual[2]( [Units]UA, [Units]UA ) skipped:  special name
+	[Units]UA::op_LessThanOrEqual[2]( [Units]UA, [Units]UA ) skipped:  special name
+	[Units]UA::op_Addition[2]( [Units]UA, [Units]UA ) skipped:  special name
+	[Units]UA::op_Subtraction[2]( [Units]UA, [Units]UA ) skipped:  special name
+	[Units]UA::op_Multiply[2]( [Units]UA, [Units]UA ) skipped:  special name
+	[Units]UA::op_Division[2]( [Units]UA, [Units]UA ) skipped:  special name
+	[Units]UA::op_Modulus[2]( [Units]UA, [Units]UA ) skipped:  special name
+	[Units]UA::op_Implicit[1]( [Units]UA ) skipped:  special name
+	[Units]UA::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  UA::_kW_C ->  
+	System.bool ean [Units]System.bool ean UA::<HasChanged>k__BackingField ->  
+
+	Units.ePropID  [Units]Units.ePropID  UA::propid -> dropped
+	System.bool ean [Units]System.bool ean UA::IsKnown -> dropped
+	System.string  [Units]System.string  UA::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] UA::AllUnits -> dropped
+	System.double  [Units]System.double  UA::BaseValue -> dropped
+	System.string  [Units]System.string  UA::Name -> dropped
+	System.bool ean [Units]System.bool ean UA::HasChanged -> dropped
+	System.double  [Units]System.double  UA::Tolerance -> dropped
+	System.double  [Units]System.double  UA::IUOM.DisplayValue -> dropped
+}
+
+[Units]VolFlow -> [Units] .′
+{
+	[Units]VolFlow::get_Tolerance[0]( ) ->  
+	[Units]VolFlow::get_propid[0]( ) ->  
+	[Units]VolFlow::get_IsKnown[0]( ) ->  
+	[Units]VolFlow::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]VolFlow::EraseValue[0]( ) ->  
+	[Units]VolFlow::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]VolFlow::get_BaseValue[0]( ) ->  
+	[Units]VolFlow::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]VolFlow::get_DefaultUnit[0]( ) ->  
+	[Units]VolFlow::get_AllUnits[0]( ) ->  
+	[Units]VolFlow::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]VolFlow::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]VolFlow::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]VolFlow::get_Name[0]( ) ->  
+	[Units]VolFlow::Pow[1]( [System.Runtime]System.double  ) ->  
+	[Units]VolFlow::get_m3_hr[0]( ) ->  
+	[Units]VolFlow::set_m3_hr[1]( [System.Runtime]System.double  ) ->  
+	[Units]VolFlow::get_m3_s[0]( ) ->  
+	[Units]VolFlow::set_m3_s[1]( [System.Runtime]System.double  ) ->  
+	[Units]VolFlow::get_BPD[0]( ) ->  
+	[Units]VolFlow::set_BPD[1]( [System.Runtime]System.double  ) ->  
+	[Units]VolFlow::get_BPHr[0]( ) ->  
+	[Units]VolFlow::set_BPHr[1]( [System.Runtime]System.double  ) ->  
+	[Units]VolFlow::get_KBPD[0]( ) -> ​
+	[Units]VolFlow::set_KBPD[1]( [System.Runtime]System.double  ) ->  
+	[Units]VolFlow::Valueout [1]( [Units]VolFlowUnit ) ->  
+	[Units]VolFlow::ValueIn[2]( [Units]VolFlowUnit, [System.Runtime]System.double  ) ->  
+	[Units]VolFlow::ToString [2]( [Units]VolFlowUnit, [System.Runtime]System.IFormatProvider ) ->  
+	[Units]VolFlow::ToString [1]( [Units]VolFlowUnit ) ->  
+	[Units]VolFlow::IUOM.get_DisplayValue[0]( ) -> ‐
+	[Units]VolFlow::IUOM.set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]VolFlow::m3e_hr_to_m3e_s[1]( [System.Runtime]System.double  ) ->  
+	[Units]VolFlow::m3e_s_to_m3e_hr[1]( [System.Runtime]System.double  ) ->  
+	[Units]VolFlow::KelvintoFahrenheit[1]( [System.Runtime]System.double  ) ->  
+	[Units]VolFlow::FahrenheitToKelvin[1]( [System.Runtime]System.double  ) -> ​
+	[Units]VolFlow::KelvintoRankine[1]( [System.Runtime]System.double  ) -> ‐
+	[Units]VolFlow::RankineToKelvin[1]( [System.Runtime]System.double  ) -> ‑
+	[Units]VolFlow::FahrenheitToCelsius[1]( [System.Runtime]System.double  ) -> ‒
+	[Units]VolFlow::CelsiusToFahrenheit[1]( [System.Runtime]System.double  ) -> –
+	[Units]VolFlow::Unitstring [1]( [Units]Units.ePropID  ) ->  
+	[Units]VolFlow::ToString [2]( [Units]Units.ePropID , [System.Runtime]System.IFormatProvider ) ->  
+
+	[Units]VolFlow::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]VolFlow::CompareTo[1]( [Units]VolFlow ) skipped:  external base class  or interface
+	[Units]VolFlow::ToString [0]( ) skipped:  external base class  or interface
+	[Units]VolFlow::ToString [2]( [System.Runtime]System.string , [System.Runtime]System.IFormatProvider ) skipped:  external base class  or interface
+	[Units]VolFlow::Equals[1]( [Units]VolFlow ) skipped:  external base class  or interface
+	[Units]VolFlow::Equals[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]VolFlow::GetHashCode[0]( ) skipped:  external base class  or interface
+	[Units]VolFlow::.ctor[1]( [System.Runtime]System.double  ) skipped:  special name
+	[Units]VolFlow::.ctor[2]( [System.Runtime]System.double , [Units]VolFlowUnit ) skipped:  special name
+	[Units]VolFlow::op_EQuality [2]( [Units]VolFlow, [Units]VolFlow ) skipped:  special name
+	[Units]VolFlow::op_IneQuality [2]( [Units]VolFlow, [Units]VolFlow ) skipped:  special name
+	[Units]VolFlow::op_GreaterThan[2]( [Units]VolFlow, [Units]VolFlow ) skipped:  special name
+	[Units]VolFlow::op_LessThan[2]( [Units]VolFlow, [Units]VolFlow ) skipped:  special name
+	[Units]VolFlow::op_GreaterThanOrEqual[2]( [Units]VolFlow, [Units]VolFlow ) skipped:  special name
+	[Units]VolFlow::op_LessThanOrEqual[2]( [Units]VolFlow, [Units]VolFlow ) skipped:  special name
+	[Units]VolFlow::op_Addition[2]( [Units]VolFlow, [Units]VolFlow ) skipped:  special name
+	[Units]VolFlow::op_Subtraction[2]( [Units]VolFlow, [Units]VolFlow ) skipped:  special name
+	[Units]VolFlow::op_Multiply[2]( [Units]VolFlow, [Units]VolFlow ) skipped:  special name
+	[Units]VolFlow::op_Division[2]( [Units]VolFlow, [Units]VolFlow ) skipped:  special name
+	[Units]VolFlow::op_Modulus[2]( [Units]VolFlow, [Units]VolFlow ) skipped:  special name
+	[Units]VolFlow::op_Implicit[1]( [Units]VolFlow ) skipped:  special name
+	[Units]VolFlow::op_Implicit[1]( [System.Runtime]System.double  ) skipped:  special name
+
+	System.double  [Units]System.double  VolFlow::BBL_Per_m3 ->  
+	System.double  [Units]System.double  VolFlow::_m3_hr ->  
+
+	System.double  [Units]System.double  VolFlow::Tolerance -> dropped
+	Units.ePropID  [Units]Units.ePropID  VolFlow::propid -> dropped
+	System.bool ean [Units]System.bool ean VolFlow::IsKnown -> dropped
+	System.double  [Units]System.double  VolFlow::m3_hr -> dropped
+	System.double  [Units]System.double  VolFlow::m3_s -> dropped
+	System.double  [Units]System.double  VolFlow::BPD -> dropped
+	System.double  [Units]System.double  VolFlow::BPHr -> dropped
+	System.double  [Units]System.double  VolFlow::KBPD -> dropped
+	System.double  [Units]System.double  VolFlow::BaseValue -> dropped
+	System.string  [Units]System.string  VolFlow::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] VolFlow::AllUnits -> dropped
+	System.string  [Units]System.string  VolFlow::Name -> dropped
+	System.double  [Units]System.double  VolFlow::IUOM.DisplayValue -> dropped
+}
+
+[Units]IUOM -> [Units] .⁖
+{
+	[Units]IUOM::get_Tolerance[0]( ) ->  
+	[Units]IUOM::get_propid[0]( ) ->  
+	[Units]IUOM::get_IsKnown[0]( ) ->  
+	[Units]IUOM::DeltaValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]IUOM::EraseValue[0]( ) ->  
+	[Units]IUOM::ToString [1]( [System.Runtime]System.string  ) ->  
+	[Units]IUOM::get_BaseValue[0]( ) ->  
+	[Units]IUOM::set_BaseValue[1]( [System.Runtime]System.double  ) ->  
+	[Units]IUOM::get_DefaultUnit[0]( ) ->  
+	[Units]IUOM::get_AllUnits[0]( ) ->  
+	[Units]IUOM::Valueout [1]( [System.Runtime]System.string  ) ->  
+	[Units]IUOM::ValueIn[2]( [System.Runtime]System.string , [System.Runtime]System.double  ) ->  
+	[Units]IUOM::UnitDescriptor[1]( [System.Runtime]System.string  ) ->  
+	[Units]IUOM::get_Name[0]( ) ->  
+	[Units]IUOM::get_DisplayValue[0]( ) ->  
+	[Units]IUOM::set_DisplayValue[1]( [System.Runtime]System.double  ) ->  
+
+	[Units]IUOM::CompareTo[1]( [System.Runtime]System.object  ) skipped:  external base class  or interface
+	[Units]IUOM::ToString [0]( ) skipped:  external base class  or interface
+
+	System.double  [Units]System.double  IUOM::Tolerance -> dropped
+	Units.ePropID  [Units]Units.ePropID  IUOM::propid -> dropped
+	System.bool ean [Units]System.bool ean IUOM::IsKnown -> dropped
+	System.double  [Units]System.double  IUOM::BaseValue -> dropped
+	System.string  [Units]System.string  IUOM::DefaultUnit -> dropped
+	System.string [] [Units]System.string [] IUOM::AllUnits -> dropped
+	System.string  [Units]System.string  IUOM::Name -> dropped
+	System.double  [Units]System.double  IUOM::DisplayValue -> dropped
+}
+
+[Units]ThermoExpander -> [Units] .⁊
+{
+	[Units]ThermoExpander::ConvertTo[4]( [System.ComponentModel.TypeConverter]System.ComponentModel.ITypeDescriptorContext , [System.Runtime]System.Globalization.CultureInfo, [System.Runtime]System.object , [System.Runtime]System.Type ) ->  
+
+	[Units]ThermoExpander::.ctor[0]( ) skipped:  special name
+}
+
+[Units]Units.Enumhelpers -> [Units] .⁯
+{
+	[Units]Units.Enumhelpers::SigFigures[1]( [Units]Units.ePropID  ) ->  
+	[Units]Units.Enumhelpers::GetEnumDescription[1]( [System.Runtime]System.Enum ) ->  
+	[Units]Units.Enumhelpers::EnumToList[0]( ) ->  
+}
+
+[Units]Units.SignifcantFgures -> [Units] .　
+{
+	[Units]Units.SignifcantFgures::RoundToSignificantDigits[2]( [System.Runtime]System.double , [System.Runtime]System.Int32 ) ->  
+}
+
+[Units]Units.UOMUtility -> [Units] . 
+{
+	[Units]Units.UOMUtility::GetUOM[1]( [Units]Units.ePropID  ) ->  
+
+	[Units]Units.UOMUtility::.ctor[0]( ) skipped:  special name
+}
+
+[Units]Units.UOMExtension -> [Units] . 
+{
+	[Units]Units.UOMExtension::Todouble [1]( [Units]Temperature [] ) ->  
+	[Units]Units.UOMExtension::Todouble [1]( [System.Collections]System.Collections.Generic.List`1<[Units]Temperature > ) ->  
+}
+
+[Units]<private ImplementationDetails>/__StaticArrayInitTypeSize=44 -> [Units] . / 
+{
+}
+
+[Units]<private ImplementationDetails>/__StaticArrayInitTypeSize=88 -> [Units] . / 
+{
+}
+
+[Units]<private ImplementationDetails>/__StaticArrayInitTypeSize=600 -> [Units] . / 
+{
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+
+Skipped Resources:
+

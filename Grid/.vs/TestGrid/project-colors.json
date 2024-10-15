@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f67faea-ae51-4ed8-8033-fc8a4adb8d1e": {
+      "ProjectGuid": "9f67faea-ae51-4ed8-8033-fc8a4adb8d1e",
+      "DisplayName": "TestGrid",
+      "ColorIndex": 0
+    },
+    "e0e8baad-a574-46fb-89b5-618955d1fa1f": {
+      "ProjectGuid": "e0e8baad-a574-46fb-89b5-618955d1fa1f",
+      "DisplayName": "SimpleExpressionEngine",
+      "ColorIndex": 1
+    },
+    "36cd08b3-457b-47c9-942c-7e515383c270": {
+      "ProjectGuid": "36cd08b3-457b-47c9-942c-7e515383c270",
+      "DisplayName": "UnitTests",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

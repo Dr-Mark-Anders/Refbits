@@ -1,0 +1,78 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\bin\x64\Debug\TestCharts.exe.config
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\bin\x64\Debug\TestCharts.exe
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\bin\x64\Debug\TestCharts.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.csproj.SuggestedBindingRedirects.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.Form1.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.Properties.Resources.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.UserControl1.resources
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.exe
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\TestCharts\bin\x64\Debug\TestCharts.exe.config
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\TestCharts\bin\x64\Debug\TestCharts.exe
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\TestCharts\bin\x64\Debug\TestCharts.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\TestCharts\obj\x64\Debug\TestCharts.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\TestCharts\obj\x64\Debug\TestCharts.csproj.SuggestedBindingRedirects.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\TestCharts\obj\x64\Debug\TestCharts.Form1.resources
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\TestCharts\obj\x64\Debug\TestCharts.Properties.Resources.resources
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\TestCharts\obj\x64\Debug\TestCharts.UserControl1.resources
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\TestCharts\obj\x64\Debug\TestCharts.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\TestCharts\obj\x64\Debug\TestCharts.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\TestCharts\obj\x64\Debug\TestCharts.exe
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\TestCharts\obj\x64\Debug\TestCharts.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\TestCharts\bin\x64\Debug\TestCharts.exe.config
+C:\Users\MarkA\Desktop\RefBitsNet6\TestCharts\bin\x64\Debug\TestCharts.exe
+C:\Users\MarkA\Desktop\RefBitsNet6\TestCharts\bin\x64\Debug\TestCharts.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.csproj.SuggestedBindingRedirects.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.Form1.resources
+C:\Users\MarkA\Desktop\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.Properties.Resources.resources
+C:\Users\MarkA\Desktop\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.UserControl1.resources
+C:\Users\MarkA\Desktop\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.exe
+C:\Users\MarkA\Desktop\RefBitsNet6\TestCharts\obj\x64\Debug\TestCharts.pdb
+C:\Users\MarkA\Desktop\Refbits\TestCharts\bin\x64\Debug\TestCharts.exe.config
+C:\Users\MarkA\Desktop\Refbits\TestCharts\bin\x64\Debug\TestCharts.exe
+C:\Users\MarkA\Desktop\Refbits\TestCharts\bin\x64\Debug\TestCharts.pdb
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\x64\Debug\TestCharts.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\x64\Debug\TestCharts.Form1.resources
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\x64\Debug\TestCharts.Properties.Resources.resources
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\x64\Debug\TestCharts.UserControl1.resources
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\x64\Debug\TestCharts.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\x64\Debug\TestCharts.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\x64\Debug\TestCharts.exe
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\x64\Debug\TestCharts.pdb
+C:\Users\MarkA\Desktop\Refbits\TestCharts\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits\TestCharts\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\MarkA\Desktop\Refbits\TestCharts\obj\x64\Debug\TestCharts.csproj.Up2Date
+C:\Users\MarkA\Desktop\Refbits Current\TestCharts\bin\x64\Debug\TestCharts.exe.config
+C:\Users\MarkA\Desktop\Refbits Current\TestCharts\bin\x64\Debug\TestCharts.exe
+C:\Users\MarkA\Desktop\Refbits Current\TestCharts\bin\x64\Debug\TestCharts.pdb
+C:\Users\MarkA\Desktop\Refbits Current\TestCharts\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits Current\TestCharts\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\MarkA\Desktop\Refbits Current\TestCharts\obj\x64\Debug\TestCharts.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Current\TestCharts\obj\x64\Debug\TestCharts.Form1.resources
+C:\Users\MarkA\Desktop\Refbits Current\TestCharts\obj\x64\Debug\TestCharts.Properties.Resources.resources
+C:\Users\MarkA\Desktop\Refbits Current\TestCharts\obj\x64\Debug\TestCharts.UserControl1.resources
+C:\Users\MarkA\Desktop\Refbits Current\TestCharts\obj\x64\Debug\TestCharts.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits Current\TestCharts\obj\x64\Debug\TestCharts.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Current\TestCharts\obj\x64\Debug\TestCharts.csproj.Up2Date
+C:\Users\MarkA\Desktop\Refbits Current\TestCharts\obj\x64\Debug\TestCharts.exe
+C:\Users\MarkA\Desktop\Refbits Current\TestCharts\obj\x64\Debug\TestCharts.pdb
+C:\Users\MarkA\Desktop\Refbits New\TestCharts\bin\x64\Debug\TestCharts.exe.config
+C:\Users\MarkA\Desktop\Refbits New\TestCharts\bin\x64\Debug\TestCharts.exe
+C:\Users\MarkA\Desktop\Refbits New\TestCharts\bin\x64\Debug\TestCharts.pdb
+C:\Users\MarkA\Desktop\Refbits New\TestCharts\bin\x64\Debug\MathNet.Numerics.dll
+C:\Users\MarkA\Desktop\Refbits New\TestCharts\bin\x64\Debug\MathNet.Numerics.xml
+C:\Users\MarkA\Desktop\Refbits New\TestCharts\obj\x64\Debug\TestCharts.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits New\TestCharts\obj\x64\Debug\TestCharts.Form1.resources
+C:\Users\MarkA\Desktop\Refbits New\TestCharts\obj\x64\Debug\TestCharts.Properties.Resources.resources
+C:\Users\MarkA\Desktop\Refbits New\TestCharts\obj\x64\Debug\TestCharts.UserControl1.resources
+C:\Users\MarkA\Desktop\Refbits New\TestCharts\obj\x64\Debug\TestCharts.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits New\TestCharts\obj\x64\Debug\TestCharts.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\TestCharts\obj\x64\Debug\TestCharts.csproj.Up2Date
+C:\Users\MarkA\Desktop\Refbits New\TestCharts\obj\x64\Debug\TestCharts.exe
+C:\Users\MarkA\Desktop\Refbits New\TestCharts\obj\x64\Debug\TestCharts.pdb

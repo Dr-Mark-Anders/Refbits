@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Math/1.0.0": {
+        "dependencies": {
+          "Extensions": "1.0.0",
+          "MathNet.Numerics": "5.0.0-alpha02",
+          "Units": "1.0.0"
+        },
+        "runtime": {
+          "Math.dll": {}
+        }
+      },
+      "MathNet.Numerics/5.0.0-alpha02": {
+        "runtime": {
+          "lib/net5.0/MathNet.Numerics.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Extensions/1.0.0": {
+        "runtime": {
+          "Extensions.dll": {}
+        }
+      },
+      "Units/1.0.0": {
+        "runtime": {
+          "Units.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Math/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathNet.Numerics/5.0.0-alpha02": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-euP5uWO/4t6FZmu3IwT1cSzeEhM9sE988YbWcdvCWYkELQHMcotQq7agkyFcn4vxo8xDJpOVOnCu90dyv2PU9Q==",
+      "path": "mathnet.numerics/5.0.0-alpha02",
+      "hashPath": "mathnet.numerics.5.0.0-alpha02.nupkg.sha512"
+    },
+    "Extensions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Units/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,75 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\IAPWSSteam\bin\x64\Debug\net6.0-windows\IAPWSSteam.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\IAPWSSteam\bin\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\IAPWSSteam\bin\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\IAPWSSteam\bin\x64\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\IAPWSSteam\bin\x64\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.csproj.CopyComplete
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\refint\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\ref\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\IAPWSSteam\bin\x64\Debug\net6.0-windows\IAPWSSteam.deps.json
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\IAPWSSteam\bin\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\IAPWSSteam\bin\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\IAPWSSteam\bin\x64\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\IAPWSSteam\bin\x64\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.csproj.CopyComplete
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\IAPWSSteam\obj\x64\Debug\net6.0-windows\refint\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\IAPWSSteam\obj\x64\Debug\net6.0-windows\ref\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\IAPWSSteam\bin\x64\Debug\net6.0-windows\IAPWSSteam.deps.json
+C:\Users\MarkA\Desktop\RefBitsNet6\IAPWSSteam\bin\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\IAPWSSteam\bin\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\IAPWSSteam\bin\x64\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\IAPWSSteam\bin\x64\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.csproj.CopyComplete
+C:\Users\MarkA\Desktop\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\refint\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6\IAPWSSteam\obj\x64\Debug\net6.0-windows\ref\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\IAPWSSteam\bin\x64\Debug\net6.0-windows\IAPWSSteam.deps.json
+C:\Users\MarkA\Desktop\RefbitsSourceCode\IAPWSSteam\bin\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\IAPWSSteam\bin\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\IAPWSSteam\bin\x64\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\IAPWSSteam\bin\x64\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\RefbitsSourceCode\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\RefbitsSourceCode\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\RefbitsSourceCode\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\RefbitsSourceCode\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\RefbitsSourceCode\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.csproj.CopyComplete
+C:\Users\MarkA\Desktop\RefbitsSourceCode\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\IAPWSSteam\obj\x64\Debug\net6.0-windows\refint\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\RefbitsSourceCode\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\RefbitsSourceCode\IAPWSSteam\obj\x64\Debug\net6.0-windows\ref\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\bin\x64\Debug\net6.0-windows\IAPWSSteam.deps.json
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\bin\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\bin\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\bin\x64\Debug\net6.0-windows\Units.dll
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\bin\x64\Debug\net6.0-windows\Units.pdb
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.csproj.CopyComplete
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\x64\Debug\net6.0-windows\refint\IAPWSSteam.dll
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\x64\Debug\net6.0-windows\IAPWSSteam.pdb
+C:\Users\MarkA\Desktop\Refbits\IAPWSSteam\obj\x64\Debug\net6.0-windows\ref\IAPWSSteam.dll

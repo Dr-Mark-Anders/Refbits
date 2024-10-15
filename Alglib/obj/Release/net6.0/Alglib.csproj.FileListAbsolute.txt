@@ -1,0 +1,5 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\obj\Release\net6.0\Alglib.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\obj\Release\net6.0\Alglib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\obj\Release\net6.0\Alglib.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\obj\Release\net6.0\Alglib.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\obj\Release\net6.0\Alglib.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\MarkA\Desktop\Refbits\Extensions\bin\Release\net7.0-windows\Extensions.deps.json
+C:\Users\MarkA\Desktop\Refbits\Extensions\bin\Release\net7.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\Extensions\bin\Release\net7.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\Release\net7.0-windows\Extensions.ViewArray2.resources
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\Release\net7.0-windows\Extensions.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\Release\net7.0-windows\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\Release\net7.0-windows\Extensions.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\Release\net7.0-windows\Extensions.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\Release\net7.0-windows\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\Release\net7.0-windows\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\Release\net7.0-windows\refint\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\Release\net7.0-windows\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\Release\net7.0-windows\ref\Extensions.dll

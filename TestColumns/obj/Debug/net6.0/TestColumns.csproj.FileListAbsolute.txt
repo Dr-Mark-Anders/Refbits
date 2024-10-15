@@ -1,0 +1,5 @@
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestColumns\obj\Debug\net6.0\TestColumns.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestColumns\obj\Debug\net6.0\TestColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestColumns\obj\Debug\net6.0\TestColumns.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestColumns\obj\Debug\net6.0\TestColumns.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\TestColumns\obj\Debug\net6.0\TestColumns.csproj.CoreCompileInputs.cache

@@ -1,0 +1,36 @@
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Alglib\bin\Debug\net6.0-windows\Alglib.deps.json
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Alglib\bin\Debug\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Alglib\bin\Debug\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Alglib\obj\Debug\net6.0-windows\Alglib.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Alglib\obj\Debug\net6.0-windows\Alglib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Alglib\obj\Debug\net6.0-windows\Alglib.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Alglib\obj\Debug\net6.0-windows\Alglib.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Alglib\obj\Debug\net6.0-windows\Alglib.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Alglib\obj\Debug\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Alglib\obj\Debug\net6.0-windows\refint\Alglib.dll
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Alglib\obj\Debug\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\RefBitsNet6 Partially Debugged\Alglib\obj\Debug\net6.0-windows\ref\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\bin\Debug\net6.0-windows\Alglib.deps.json
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\bin\Debug\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\bin\Debug\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\obj\Debug\net6.0-windows\Alglib.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\obj\Debug\net6.0-windows\Alglib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\obj\Debug\net6.0-windows\Alglib.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\obj\Debug\net6.0-windows\Alglib.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\obj\Debug\net6.0-windows\Alglib.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\obj\Debug\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\obj\Debug\net6.0-windows\refint\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\obj\Debug\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\Alglib\obj\Debug\net6.0-windows\ref\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\Alglib\bin\Debug\net6.0-windows\Alglib.deps.json
+C:\Users\MarkA\Desktop\Refbits\Alglib\bin\Debug\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\Alglib\bin\Debug\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\Debug\net6.0-windows\Alglib.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\Debug\net6.0-windows\Alglib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\Debug\net6.0-windows\Alglib.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\Debug\net6.0-windows\Alglib.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\Debug\net6.0-windows\Alglib.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\Debug\net6.0-windows\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\Debug\net6.0-windows\refint\Alglib.dll
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\Debug\net6.0-windows\Alglib.pdb
+C:\Users\MarkA\Desktop\Refbits\Alglib\obj\Debug\net6.0-windows\ref\Alglib.dll

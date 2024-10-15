@@ -1,0 +1,1 @@
+regsvr32 "C:\Users\MarkA\Desktop\Refbits Files\RefBitsNet6\RefBits\bin\x64\Debug\net6.0-windows\EngineThermo.comhost.dll"

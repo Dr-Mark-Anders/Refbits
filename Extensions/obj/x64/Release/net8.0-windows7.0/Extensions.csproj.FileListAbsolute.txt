@@ -1,0 +1,28 @@
+C:\Users\MarkA\Desktop\Refbits\Extensions\bin\x64\Release\net8.0-windows7.0\Extensions.deps.json
+C:\Users\MarkA\Desktop\Refbits\Extensions\bin\x64\Release\net8.0-windows7.0\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\Extensions\bin\x64\Release\net8.0-windows7.0\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.ViewArray2.resources
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Release\net8.0-windows7.0\refint\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits\Extensions\obj\x64\Release\net8.0-windows7.0\ref\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits New\Extensions\bin\x64\Release\net8.0-windows7.0\Extensions.deps.json
+C:\Users\MarkA\Desktop\Refbits New\Extensions\bin\x64\Release\net8.0-windows7.0\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits New\Extensions\bin\x64\Release\net8.0-windows7.0\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits New\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.csproj.AssemblyReference.cache
+C:\Users\MarkA\Desktop\Refbits New\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.ViewArray2.resources
+C:\Users\MarkA\Desktop\Refbits New\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.csproj.GenerateResource.cache
+C:\Users\MarkA\Desktop\Refbits New\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkA\Desktop\Refbits New\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.AssemblyInfoInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.AssemblyInfo.cs
+C:\Users\MarkA\Desktop\Refbits New\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\MarkA\Desktop\Refbits New\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits New\Extensions\obj\x64\Release\net8.0-windows7.0\refint\Extensions.dll
+C:\Users\MarkA\Desktop\Refbits New\Extensions\obj\x64\Release\net8.0-windows7.0\Extensions.pdb
+C:\Users\MarkA\Desktop\Refbits New\Extensions\obj\x64\Release\net8.0-windows7.0\ref\Extensions.dll
